@@ -1,0 +1,120 @@
+{
+  "version": "0.1",
+  "titulo": "Tu relación con la política",
+  "intro": "Siete preguntas opcionales para situarte ante la política en general. No cuentan para tu afinidad con los partidos y no salen de tu móvil.",
+  "noContestar": "Prefiero no contestar",
+  "preguntas": [
+    {
+      "id": "democracia",
+      "texto": "¿Cómo de satisfecho estás con el funcionamiento de la democracia en España?",
+      "tipo": "escala",
+      "min": 0,
+      "max": 10,
+      "etiquetaMin": "Nada",
+      "etiquetaMax": "Totalmente"
+    },
+    {
+      "id": "partidos",
+      "texto": "¿Cuánto confías en los partidos políticos?",
+      "tipo": "escala",
+      "min": 0,
+      "max": 10,
+      "etiquetaMin": "Nada",
+      "etiquetaMax": "Mucho"
+    },
+    {
+      "id": "gobierno",
+      "texto": "¿Cómo valoras la gestión del Gobierno en los últimos años?",
+      "tipo": "escala",
+      "min": 0,
+      "max": 10,
+      "etiquetaMin": "Muy mal",
+      "etiquetaMax": "Muy bien"
+    },
+    {
+      "id": "oposicion",
+      "texto": "¿Y la labor de la oposición?",
+      "tipo": "escala",
+      "min": 0,
+      "max": 10,
+      "etiquetaMin": "Muy mal",
+      "etiquetaMax": "Muy bien"
+    },
+    {
+      "id": "representacion",
+      "texto": "¿Sientes que algún partido representa bien tus ideas?",
+      "tipo": "opciones",
+      "opciones": [
+        {
+          "valor": "si",
+          "texto": "Sí, uno claramente"
+        },
+        {
+          "valor": "en-parte",
+          "texto": "Alguno en parte"
+        },
+        {
+          "valor": "ninguno",
+          "texto": "Ninguno"
+        }
+      ]
+    },
+    {
+      "id": "probabilidadVotar",
+      "texto": "¿Con qué probabilidad irás a votar el 29 de noviembre?",
+      "tipo": "escala",
+      "min": 0,
+      "max": 10,
+      "etiquetaMin": "Seguro que no",
+      "etiquetaMax": "Seguro que sí"
+    },
+    {
+      "id": "votoBlanco",
+      "texto": "Si votas, ¿te plantearías votar en blanco?",
+      "tipo": "opciones",
+      "opciones": [
+        {
+          "valor": "no",
+          "texto": "No"
+        },
+        {
+          "valor": "quiza",
+          "texto": "Quizá"
+        },
+        {
+          "valor": "si",
+          "texto": "Sí, probablemente"
+        }
+      ]
+    }
+  ],
+  "indices": {
+    "descontentoPolitica": {
+      "titulo": "Descontento con la política",
+      "formula": "Media de tu insatisfacción con la democracia, tu desconfianza en los partidos y la falta de representación (sí = 0, en parte = 50, ninguno = 100)."
+    },
+    "descontentoGobierno": {
+      "titulo": "Descontento con el Gobierno",
+      "formula": "Tu valoración del Gobierno, invertida: 10 sobre 10 equivale a 0 de descontento."
+    },
+    "descontentoOposicion": {
+      "titulo": "Descontento con la oposición",
+      "formula": "Tu valoración de la oposición, invertida: 10 sobre 10 equivale a 0 de descontento."
+    },
+    "cercaniaAbstencion": {
+      "titulo": "Cercanía a no votar",
+      "formula": "70 % tu probabilidad de no ir a votar y 30 % tu descontento con la política."
+    },
+    "cercaniaVotoBlanco": {
+      "titulo": "Cercanía al voto en blanco",
+      "formula": "50 % tu respuesta sobre el voto en blanco, 25 % la falta de representación y 25 % tu afinidad más alta con los partidos que puedes votar (70 % o más cuenta 0; 40 % o menos, 100)."
+    }
+  },
+  "niveles": {
+    "bajo": "Bajo (0 a 33)",
+    "medio": "Medio (34 a 66)",
+    "alto": "Alto (67 a 100)"
+  },
+  "aviso": "Estos índices resumen lo que has contestado. No son una predicción y no se comparan con nadie, porque la app no guarda las respuestas de nadie.",
+  "enlaceGuia": "Si dudas entre votar en blanco, nulo o no votar, en «Cómo se vota» se explica qué efecto tiene cada opción."
+}

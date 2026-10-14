@@ -1,0 +1,960 @@
+{
+  "version": "0.3",
+  "actualizado": "2026-10-11",
+  "aviso": "Candidaturas anunciadas hasta el 11 de octubre; se confirmarán con la proclamación del BOE (3 de noviembre). Las fichas no usan etiquetas ideológicas: la posición de cada partido se ve en la brújula y en sus posturas. puntosClave se rellenará con los programas.",
+  "partidos": [
+    {
+      "id": "bildu",
+      "nombre": "EH Bildu",
+      "siglas": "EH Bildu",
+      "color": "#A6CE39",
+      "colorAproximado": true,
+      "nivel": 1,
+      "ambito": "autonomico",
+      "circunscripciones": [
+        "01",
+        "20",
+        "31",
+        "48"
+      ],
+      "candidato": {
+        "nombre": null,
+        "estado": "pendiente",
+        "nota": "La dirección hará una propuesta que votarán las bases.",
+        "fuente": {
+          "titulo": "Noticias de Gipuzkoa: los partidos mueven ficha para el 29N",
+          "url": "https://www.noticiasdegipuzkoa.eus/politica/2026/10/06/partidos-mueven-ficha-29n-junqueras-11624262.html",
+          "fecha": "2026-10-06"
+        }
+      },
+      "web": "https://ehbildu.eus",
+      "programa": {
+        "anio": 2026,
+        "publicado": false,
+        "url": null
+      },
+      "resumen": "Se presenta en Álava, Gipuzkoa, Bizkaia y Navarra. Obtuvo 6 escaños en 2023 y apoyó la investidura de Pedro Sánchez.",
+      "resultados2023": {
+        "votos": 335129,
+        "porcentaje": 1.36,
+        "escanos": 6,
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "BOE: resultados oficiales de las generales de 2023 (Junta Electoral Central)",
+            "url": "https://www.boe.es/boe/dias/2023/09/01/pdfs/BOE-A-2023-18907.pdf",
+            "fecha": "2023-09-01"
+          },
+          {
+            "titulo": "Wikipedia: resultados por circunscripción de las generales de 2023",
+            "url": "https://en.wikipedia.org/wiki/Results_breakdown_of_the_2023_Spanish_general_election_(Congress)"
+          }
+        ]
+      },
+      "referenciaEstatal": true,
+      "investidura2023": {
+        "sanchez": "a favor",
+        "feijoo": "en contra",
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "The Objective: investidura de Pedro Sánchez",
+            "url": "https://theobjective.com/espana/politica/2023-11-16/pedro-sanchez-investido-presidente-mayoria/",
+            "fecha": "2023-11-16"
+          },
+          {
+            "titulo": "Menorca.info: primera votación de la investidura de Feijóo",
+            "url": "https://www.menorca.info/actualidad/elecciones-23j/2023/09/27/2020051/investidura-congreso-rechaza-feijoo-primera-votacion.html",
+            "fecha": "2023-09-27"
+          }
+        ]
+      },
+      "programa2023": {
+        "titulo": "Programa electoral de EH Bildu, 23J 2023 («Compromiso de Euskal Herria Bildu»), copia publicada por El Nacional",
+        "url": "https://www.elnacional.cat/uploads/s1/42/81/42/33/programa-electoral-eh-bildu-eleccions-generals-2023.pdf",
+        "paginas": null,
+        "oficial": "https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf",
+        "nota": "El documento oficial está en ehbildu.eus; las páginas citadas son las de la copia de El Nacional."
+      },
+      "provincias2023": {
+        "20": {
+          "porcentaje": 31.2,
+          "escanos": 2
+        },
+        "31": {
+          "porcentaje": 17.2,
+          "escanos": 1
+        },
+        "48": {
+          "porcentaje": 20.7,
+          "escanos": 2
+        },
+        "01": {
+          "porcentaje": 19.5,
+          "escanos": 1
+        }
+      },
+      "puntosClave": []
+    },
+    {
+      "id": "bng",
+      "nombre": "Bloque Nacionalista Galego",
+      "siglas": "BNG",
+      "color": "#76B6E5",
+      "colorAproximado": true,
+      "nivel": 1,
+      "ambito": "autonomico",
+      "circunscripciones": [
+        "15",
+        "27",
+        "32",
+        "36"
+      ],
+      "candidato": {
+        "nombre": null,
+        "estado": "pendiente",
+        "nota": null,
+        "fuente": null
+      },
+      "web": "https://www.bng.gal",
+      "programa": {
+        "anio": 2026,
+        "publicado": false,
+        "url": null
+      },
+      "resumen": "Se presenta en las cuatro provincias gallegas. Obtuvo 1 escaño en 2023, por A Coruña, y apoyó la investidura de Pedro Sánchez.",
+      "resultados2023": {
+        "votos": 153995,
+        "porcentaje": 0.62,
+        "escanos": 1,
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "BOE: resultados oficiales de las generales de 2023 (Junta Electoral Central)",
+            "url": "https://www.boe.es/boe/dias/2023/09/01/pdfs/BOE-A-2023-18907.pdf",
+            "fecha": "2023-09-01"
+          },
+          {
+            "titulo": "Wikipedia: resultados por circunscripción de las generales de 2023",
+            "url": "https://en.wikipedia.org/wiki/Results_breakdown_of_the_2023_Spanish_general_election_(Congress)"
+          }
+        ]
+      },
+      "referenciaEstatal": false,
+      "investidura2023": {
+        "sanchez": "a favor",
+        "feijoo": "en contra",
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "The Objective: investidura de Pedro Sánchez",
+            "url": "https://theobjective.com/espana/politica/2023-11-16/pedro-sanchez-investido-presidente-mayoria/",
+            "fecha": "2023-11-16"
+          },
+          {
+            "titulo": "Menorca.info: primera votación de la investidura de Feijóo",
+            "url": "https://www.menorca.info/actualidad/elecciones-23j/2023/09/27/2020051/investidura-congreso-rechaza-feijoo-primera-votacion.html",
+            "fecha": "2023-09-27"
+          }
+        ]
+      },
+      "programa2023": {
+        "titulo": "Programa electoral del BNG, 23J 2023",
+        "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+        "paginas": 68
+      },
+      "provincias2023": {
+        "15": {
+          "porcentaje": 10,
+          "escanos": 1
+        },
+        "27": {
+          "porcentaje": 8.7,
+          "escanos": 0
+        },
+        "32": {
+          "porcentaje": 8.2,
+          "escanos": 0
+        },
+        "36": {
+          "porcentaje": 9.4,
+          "escanos": 0
+        }
+      },
+      "puntosClave": []
+    },
+    {
+      "id": "cc",
+      "nombre": "Coalición Canaria",
+      "siglas": "CC",
+      "color": "#FFCC00",
+      "colorAproximado": true,
+      "nivel": 1,
+      "ambito": "autonomico",
+      "circunscripciones": [
+        "35",
+        "38"
+      ],
+      "candidato": {
+        "nombre": "Cristina Valido",
+        "estado": "propuesto",
+        "nota": "Por Santa Cruz de Tenerife; explora coaliciones en Las Palmas.",
+        "fuente": {
+          "titulo": "RTVC: CC propone a Cristina Valido",
+          "url": "https://rtvc.es/coalicion-canaria-propone-cristina-valido-candidata-congreso-explora-coaliciones-las-palmas-5-octubre-2026/",
+          "fecha": "2026-10-05"
+        }
+      },
+      "web": "https://www.coalicioncanaria.org",
+      "programa": {
+        "anio": 2026,
+        "publicado": false,
+        "url": null
+      },
+      "resumen": "Se presenta en Las Palmas y Santa Cruz de Tenerife. Obtuvo 1 escaño en 2023, por Santa Cruz de Tenerife, y votó a favor de las investiduras de Feijóo y de Sánchez.",
+      "resultados2023": {
+        "votos": 116363,
+        "porcentaje": 0.47,
+        "escanos": 1,
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "BOE: resultados oficiales de las generales de 2023 (Junta Electoral Central)",
+            "url": "https://www.boe.es/boe/dias/2023/09/01/pdfs/BOE-A-2023-18907.pdf",
+            "fecha": "2023-09-01"
+          },
+          {
+            "titulo": "Wikipedia: resultados por circunscripción de las generales de 2023",
+            "url": "https://en.wikipedia.org/wiki/Results_breakdown_of_the_2023_Spanish_general_election_(Congress)"
+          }
+        ]
+      },
+      "referenciaEstatal": false,
+      "investidura2023": {
+        "sanchez": "a favor",
+        "feijoo": "a favor",
+        "nota": "Votó a favor de las dos investiduras.",
+        "fuentes": [
+          {
+            "titulo": "The Objective: investidura de Pedro Sánchez",
+            "url": "https://theobjective.com/espana/politica/2023-11-16/pedro-sanchez-investido-presidente-mayoria/",
+            "fecha": "2023-11-16"
+          },
+          {
+            "titulo": "Menorca.info: primera votación de la investidura de Feijóo",
+            "url": "https://www.menorca.info/actualidad/elecciones-23j/2023/09/27/2020051/investidura-congreso-rechaza-feijoo-primera-votacion.html",
+            "fecha": "2023-09-27"
+          }
+        ]
+      },
+      "programa2023": {
+        "titulo": "Manifiesto de Coalición Canaria, 23J 2023 («Un objetivo común, la defensa de Canarias»), copia publicada por RTVE",
+        "url": "https://www.rtve.es/contenidos/documentos/elecciones_generales_2023/programa_electoral_coalicion_canaria.pdf",
+        "paginas": null,
+        "nota": "Manifiesto de 52 compromisos firmado con otras fuerzas canarias; copia de RTVE."
+      },
+      "provincias2023": {
+        "35": {
+          "porcentaje": 6.3,
+          "escanos": 0
+        },
+        "38": {
+          "porcentaje": 16.7,
+          "escanos": 1
+        }
+      },
+      "puntosClave": []
+    },
+    {
+      "id": "erc",
+      "nombre": "Esquerra Republicana de Catalunya",
+      "siglas": "ERC",
+      "color": "#F5B800",
+      "colorAproximado": true,
+      "nivel": 1,
+      "ambito": "autonomico",
+      "circunscripciones": [
+        "08",
+        "17",
+        "25",
+        "43"
+      ],
+      "candidato": {
+        "nombre": "Gabriel Rufián",
+        "estado": "confirmado",
+        "nota": null,
+        "fuente": {
+          "titulo": "Noticias de Gipuzkoa: Rufián encabezará la lista de ERC",
+          "url": "https://www.noticiasdegipuzkoa.eus/politica/2026/10/11/gabriel-rufian-encabezara-lista-erc-11638978.html",
+          "fecha": "2026-10-11"
+        }
+      },
+      "web": "https://www.esquerra.cat",
+      "programa": {
+        "anio": 2026,
+        "publicado": false,
+        "url": null
+      },
+      "resumen": "Se presenta solo en las cuatro provincias catalanas. Obtuvo 7 escaños en 2023 y apoyó la investidura de Pedro Sánchez.",
+      "resultados2023": {
+        "votos": 466020,
+        "porcentaje": 1.89,
+        "escanos": 7,
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "BOE: resultados oficiales de las generales de 2023 (Junta Electoral Central)",
+            "url": "https://www.boe.es/boe/dias/2023/09/01/pdfs/BOE-A-2023-18907.pdf",
+            "fecha": "2023-09-01"
+          },
+          {
+            "titulo": "Wikipedia: resultados por circunscripción de las generales de 2023",
+            "url": "https://en.wikipedia.org/wiki/Results_breakdown_of_the_2023_Spanish_general_election_(Congress)"
+          }
+        ]
+      },
+      "referenciaEstatal": true,
+      "investidura2023": {
+        "sanchez": "a favor",
+        "feijoo": "en contra",
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "The Objective: investidura de Pedro Sánchez",
+            "url": "https://theobjective.com/espana/politica/2023-11-16/pedro-sanchez-investido-presidente-mayoria/",
+            "fecha": "2023-11-16"
+          },
+          {
+            "titulo": "Menorca.info: primera votación de la investidura de Feijóo",
+            "url": "https://www.menorca.info/actualidad/elecciones-23j/2023/09/27/2020051/investidura-congreso-rechaza-feijoo-primera-votacion.html",
+            "fecha": "2023-09-27"
+          }
+        ]
+      },
+      "programa2023": {
+        "titulo": "Programa electoral de ERC, 23J 2023",
+        "url": "https://static.esquerra.cat/uploads/20230905/e2023-programa.pdf",
+        "paginas": 132
+      },
+      "provincias2023": {
+        "17": {
+          "porcentaje": 14.7,
+          "escanos": 1
+        },
+        "25": {
+          "porcentaje": 18.6,
+          "escanos": 1
+        },
+        "43": {
+          "porcentaje": 15.1,
+          "escanos": 1
+        },
+        "08": {
+          "porcentaje": 12.3,
+          "escanos": 4
+        }
+      },
+      "puntosClave": []
+    },
+    {
+      "id": "frente-amplio",
+      "nombre": "Frente Amplio",
+      "siglas": "FA",
+      "color": "#D6006F",
+      "colorAproximado": true,
+      "nivel": 1,
+      "ambito": "estatal",
+      "circunscripciones": "todas",
+      "candidato": {
+        "nombre": null,
+        "estado": "pendiente",
+        "nota": "Lo anunciará el 17 de octubre.",
+        "fuente": {
+          "titulo": "El Debate: candidatos para el 29N",
+          "url": "https://www.eldebate.com/espana/20261005/quienes-podrian-candidatos-elecciones-generales-proximo-29n_466293.html",
+          "fecha": "2026-10-05"
+        }
+      },
+      "web": null,
+      "programa": {
+        "anio": 2026,
+        "publicado": false,
+        "url": null
+      },
+      "resumen": "Coalición en formación de Movimiento Sumar, IU, Más Madrid y Comuns, que hereda el espacio de Sumar (31 escaños en 2023). Formó parte del Gobierno de coalición como Sumar.",
+      "resultados2023": {
+        "votos": 3044996,
+        "porcentaje": 12.33,
+        "escanos": 31,
+        "nota": "Resultado de Sumar en 2023, cuyo espacio hereda.",
+        "fuentes": [
+          {
+            "titulo": "BOE: resultados oficiales de las generales de 2023 (Junta Electoral Central)",
+            "url": "https://www.boe.es/boe/dias/2023/09/01/pdfs/BOE-A-2023-18907.pdf",
+            "fecha": "2023-09-01"
+          },
+          {
+            "titulo": "Wikipedia: resultados por circunscripción de las generales de 2023",
+            "url": "https://en.wikipedia.org/wiki/Results_breakdown_of_the_2023_Spanish_general_election_(Congress)"
+          }
+        ]
+      },
+      "nota": "Coalición de Movimiento Sumar, IU, Más Madrid y Comuns; se presenta el 17 de octubre. Hereda las votaciones del grupo Sumar.",
+      "referenciaEstatal": true,
+      "investidura2023": {
+        "sanchez": "a favor",
+        "feijoo": "en contra",
+        "nota": "Votó como Sumar.",
+        "fuentes": [
+          {
+            "titulo": "The Objective: investidura de Pedro Sánchez",
+            "url": "https://theobjective.com/espana/politica/2023-11-16/pedro-sanchez-investido-presidente-mayoria/",
+            "fecha": "2023-11-16"
+          },
+          {
+            "titulo": "Menorca.info: primera votación de la investidura de Feijóo",
+            "url": "https://www.menorca.info/actualidad/elecciones-23j/2023/09/27/2020051/investidura-congreso-rechaza-feijoo-primera-votacion.html",
+            "fecha": "2023-09-27"
+          }
+        ]
+      },
+      "programa2023": {
+        "titulo": "Programa electoral de Sumar, 23J 2023 («Un programa para ti»)",
+        "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+        "paginas": 182
+      },
+      "provincias2023": null,
+      "puntosClave": []
+    },
+    {
+      "id": "junts",
+      "nombre": "Junts per Catalunya",
+      "siglas": "Junts",
+      "color": "#00B2A9",
+      "colorAproximado": true,
+      "nivel": 1,
+      "ambito": "autonomico",
+      "circunscripciones": [
+        "08",
+        "17",
+        "25",
+        "43"
+      ],
+      "candidato": {
+        "nombre": "Míriam Nogueras",
+        "estado": "confirmado",
+        "nota": null,
+        "fuente": {
+          "titulo": "Diario de León (EFE): Junts confirma a Míriam Nogueras",
+          "url": "https://www.diariodeleon.es/nacional/261008/2099696/junts-confirma-miriam-nogueras-candidata-29n.html",
+          "fecha": "2026-10-08"
+        }
+      },
+      "web": "https://www.junts.cat",
+      "programa": {
+        "anio": 2026,
+        "publicado": false,
+        "url": null
+      },
+      "resumen": "Se presenta solo en las cuatro provincias catalanas. Obtuvo 7 escaños en 2023 y apoyó la investidura de Pedro Sánchez.",
+      "resultados2023": {
+        "votos": 395429,
+        "porcentaje": 1.6,
+        "escanos": 7,
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "BOE: resultados oficiales de las generales de 2023 (Junta Electoral Central)",
+            "url": "https://www.boe.es/boe/dias/2023/09/01/pdfs/BOE-A-2023-18907.pdf",
+            "fecha": "2023-09-01"
+          },
+          {
+            "titulo": "Wikipedia: resultados por circunscripción de las generales de 2023",
+            "url": "https://en.wikipedia.org/wiki/Results_breakdown_of_the_2023_Spanish_general_election_(Congress)"
+          }
+        ]
+      },
+      "referenciaEstatal": true,
+      "investidura2023": {
+        "sanchez": "a favor",
+        "feijoo": "en contra",
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "The Objective: investidura de Pedro Sánchez",
+            "url": "https://theobjective.com/espana/politica/2023-11-16/pedro-sanchez-investido-presidente-mayoria/",
+            "fecha": "2023-11-16"
+          },
+          {
+            "titulo": "Menorca.info: primera votación de la investidura de Feijóo",
+            "url": "https://www.menorca.info/actualidad/elecciones-23j/2023/09/27/2020051/investidura-congreso-rechaza-feijoo-primera-votacion.html",
+            "fecha": "2023-09-27"
+          }
+        ]
+      },
+      "programa2023": {
+        "titulo": "Programa electoral de Junts, 23J 2023 («Per Catalunya»), copia publicada por betevé",
+        "url": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+        "paginas": 148,
+        "nota": "La web de campaña del partido ya no lo publica; copia de betevé, la televisión pública municipal de Barcelona."
+      },
+      "provincias2023": {
+        "17": {
+          "porcentaje": 19.6,
+          "escanos": 2
+        },
+        "25": {
+          "porcentaje": 18,
+          "escanos": 1
+        },
+        "43": {
+          "porcentaje": 11.1,
+          "escanos": 1
+        },
+        "08": {
+          "porcentaje": 9.7,
+          "escanos": 3
+        }
+      },
+      "puntosClave": []
+    },
+    {
+      "id": "pnv",
+      "nombre": "EAJ-PNV",
+      "siglas": "PNV",
+      "color": "#1F8C3B",
+      "colorAproximado": true,
+      "nivel": 1,
+      "ambito": "autonomico",
+      "circunscripciones": [
+        "01",
+        "20",
+        "48"
+      ],
+      "candidato": {
+        "nombre": null,
+        "estado": "pendiente",
+        "nota": "Debe elegir el relevo de Aitor Esteban por Bizkaia.",
+        "fuente": {
+          "titulo": "Noticias de Gipuzkoa: los partidos mueven ficha para el 29N",
+          "url": "https://www.noticiasdegipuzkoa.eus/politica/2026/10/06/partidos-mueven-ficha-29n-junqueras-11624262.html",
+          "fecha": "2026-10-06"
+        }
+      },
+      "web": "https://www.eaj-pnv.eus",
+      "programa": {
+        "anio": 2026,
+        "publicado": false,
+        "url": null
+      },
+      "resumen": "Se presenta en Álava, Gipuzkoa y Bizkaia. Obtuvo 5 escaños en 2023 y apoyó la investidura de Pedro Sánchez.",
+      "resultados2023": {
+        "votos": 277289,
+        "porcentaje": 1.12,
+        "escanos": 5,
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "BOE: resultados oficiales de las generales de 2023 (Junta Electoral Central)",
+            "url": "https://www.boe.es/boe/dias/2023/09/01/pdfs/BOE-A-2023-18907.pdf",
+            "fecha": "2023-09-01"
+          },
+          {
+            "titulo": "Wikipedia: resultados por circunscripción de las generales de 2023",
+            "url": "https://en.wikipedia.org/wiki/Results_breakdown_of_the_2023_Spanish_general_election_(Congress)"
+          }
+        ]
+      },
+      "referenciaEstatal": true,
+      "investidura2023": {
+        "sanchez": "a favor",
+        "feijoo": "en contra",
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "The Objective: investidura de Pedro Sánchez",
+            "url": "https://theobjective.com/espana/politica/2023-11-16/pedro-sanchez-investido-presidente-mayoria/",
+            "fecha": "2023-11-16"
+          },
+          {
+            "titulo": "Menorca.info: primera votación de la investidura de Feijóo",
+            "url": "https://www.menorca.info/actualidad/elecciones-23j/2023/09/27/2020051/investidura-congreso-rechaza-feijoo-primera-votacion.html",
+            "fecha": "2023-09-27"
+          }
+        ]
+      },
+      "programa2023": {
+        "titulo": "Programa electoral del PNV, 23J 2023 («Con voz propia»)",
+        "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+        "paginas": 52
+      },
+      "provincias2023": {
+        "20": {
+          "porcentaje": 22.6,
+          "escanos": 2
+        },
+        "48": {
+          "porcentaje": 27,
+          "escanos": 2
+        },
+        "01": {
+          "porcentaje": 16.6,
+          "escanos": 1
+        }
+      },
+      "puntosClave": []
+    },
+    {
+      "id": "podemos",
+      "nombre": "Podemos",
+      "siglas": "Podemos",
+      "color": "#6B2E68",
+      "colorAproximado": true,
+      "nivel": 1,
+      "ambito": "estatal",
+      "circunscripciones": "todas",
+      "candidato": {
+        "nombre": "Irene Montero",
+        "estado": "propuesto",
+        "nota": "Ha propuesto primarias abiertas con Frente Amplio el 14 y 15 de octubre.",
+        "fuente": {
+          "titulo": "El Debate: candidatos para el 29N",
+          "url": "https://www.eldebate.com/espana/20261005/quienes-podrian-candidatos-elecciones-generales-proximo-29n_466293.html",
+          "fecha": "2026-10-05"
+        }
+      },
+      "web": "https://podemos.info",
+      "programa": {
+        "anio": 2026,
+        "publicado": false,
+        "url": null
+      },
+      "resumen": "Se presentó en 2023 dentro de la coalición Sumar. Para el 29N ha propuesto unas primarias abiertas conjuntas con Frente Amplio.",
+      "resultados2023": {
+        "votos": null,
+        "porcentaje": null,
+        "escanos": null,
+        "nota": "Se presentó dentro de la coalición Sumar.",
+        "fuentes": [
+          {
+            "titulo": "BOE: resultados oficiales de las generales de 2023 (Junta Electoral Central)",
+            "url": "https://www.boe.es/boe/dias/2023/09/01/pdfs/BOE-A-2023-18907.pdf",
+            "fecha": "2023-09-01"
+          },
+          {
+            "titulo": "Wikipedia: resultados por circunscripción de las generales de 2023",
+            "url": "https://en.wikipedia.org/wiki/Results_breakdown_of_the_2023_Spanish_general_election_(Congress)"
+          }
+        ]
+      },
+      "nota": "Negocia integrarse en el Frente Amplio; si lo hace, se unificarán ambas fichas.",
+      "referenciaEstatal": true,
+      "investidura2023": {
+        "sanchez": "a favor",
+        "feijoo": "en contra",
+        "nota": "Votó dentro de Sumar.",
+        "fuentes": [
+          {
+            "titulo": "The Objective: investidura de Pedro Sánchez",
+            "url": "https://theobjective.com/espana/politica/2023-11-16/pedro-sanchez-investido-presidente-mayoria/",
+            "fecha": "2023-11-16"
+          },
+          {
+            "titulo": "Menorca.info: primera votación de la investidura de Feijóo",
+            "url": "https://www.menorca.info/actualidad/elecciones-23j/2023/09/27/2020051/investidura-congreso-rechaza-feijoo-primera-votacion.html",
+            "fecha": "2023-09-27"
+          }
+        ]
+      },
+      "programa2023": {
+        "titulo": "Programa electoral de Sumar, 23J 2023 («Un programa para ti»)",
+        "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+        "paginas": 182,
+        "nota": "Concurrió dentro de Sumar."
+      },
+      "provincias2023": null,
+      "puntosClave": []
+    },
+    {
+      "id": "pp",
+      "nombre": "Partido Popular",
+      "siglas": "PP",
+      "color": "#1D84CE",
+      "colorAproximado": true,
+      "nivel": 1,
+      "ambito": "estatal",
+      "circunscripciones": "todas",
+      "candidato": {
+        "nombre": "Alberto Núñez Feijóo",
+        "estado": "anunciado",
+        "nota": null,
+        "fuente": {
+          "titulo": "El Debate: candidatos para el 29N",
+          "url": "https://www.eldebate.com/espana/20261005/quienes-podrian-candidatos-elecciones-generales-proximo-29n_466293.html",
+          "fecha": "2026-10-05"
+        }
+      },
+      "web": "https://www.pp.es",
+      "programa": {
+        "anio": 2026,
+        "publicado": false,
+        "url": null
+      },
+      "resumen": "Primera fuerza en 2023, con 137 escaños. Principal partido de la oposición en la legislatura 2023–2026.",
+      "resultados2023": {
+        "votos": 8160837,
+        "porcentaje": 33.06,
+        "escanos": 137,
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "BOE: resultados oficiales de las generales de 2023 (Junta Electoral Central)",
+            "url": "https://www.boe.es/boe/dias/2023/09/01/pdfs/BOE-A-2023-18907.pdf",
+            "fecha": "2023-09-01"
+          },
+          {
+            "titulo": "Wikipedia: resultados por circunscripción de las generales de 2023",
+            "url": "https://en.wikipedia.org/wiki/Results_breakdown_of_the_2023_Spanish_general_election_(Congress)"
+          }
+        ]
+      },
+      "referenciaEstatal": true,
+      "investidura2023": {
+        "sanchez": "en contra",
+        "feijoo": "a favor",
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "The Objective: investidura de Pedro Sánchez",
+            "url": "https://theobjective.com/espana/politica/2023-11-16/pedro-sanchez-investido-presidente-mayoria/",
+            "fecha": "2023-11-16"
+          },
+          {
+            "titulo": "Menorca.info: primera votación de la investidura de Feijóo",
+            "url": "https://www.menorca.info/actualidad/elecciones-23j/2023/09/27/2020051/investidura-congreso-rechaza-feijoo-primera-votacion.html",
+            "fecha": "2023-09-27"
+          }
+        ]
+      },
+      "programa2023": {
+        "titulo": "Programa electoral del PP, 23J 2023",
+        "url": "https://www.pp.es/wp-content/uploads/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+        "paginas": 112
+      },
+      "provincias2023": null,
+      "puntosClave": []
+    },
+    {
+      "id": "psoe",
+      "nombre": "Partido Socialista Obrero Español",
+      "siglas": "PSOE",
+      "color": "#E1001A",
+      "colorAproximado": true,
+      "nivel": 1,
+      "ambito": "estatal",
+      "circunscripciones": "todas",
+      "candidato": {
+        "nombre": "Pedro Sánchez",
+        "estado": "anunciado",
+        "nota": null,
+        "fuente": {
+          "titulo": "El Debate: candidatos para el 29N",
+          "url": "https://www.eldebate.com/espana/20261005/quienes-podrian-candidatos-elecciones-generales-proximo-29n_466293.html",
+          "fecha": "2026-10-05"
+        }
+      },
+      "web": "https://www.psoe.es",
+      "programa": {
+        "anio": 2026,
+        "publicado": false,
+        "url": null
+      },
+      "resumen": "Segunda fuerza en 2023, con 121 escaños. Gobernó en coalición con Sumar tras la investidura de Pedro Sánchez en noviembre de 2023.",
+      "resultados2023": {
+        "votos": 7821718,
+        "porcentaje": 31.68,
+        "escanos": 121,
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "BOE: resultados oficiales de las generales de 2023 (Junta Electoral Central)",
+            "url": "https://www.boe.es/boe/dias/2023/09/01/pdfs/BOE-A-2023-18907.pdf",
+            "fecha": "2023-09-01"
+          },
+          {
+            "titulo": "Wikipedia: resultados por circunscripción de las generales de 2023",
+            "url": "https://en.wikipedia.org/wiki/Results_breakdown_of_the_2023_Spanish_general_election_(Congress)"
+          }
+        ]
+      },
+      "referenciaEstatal": true,
+      "investidura2023": {
+        "sanchez": "a favor",
+        "feijoo": "en contra",
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "The Objective: investidura de Pedro Sánchez",
+            "url": "https://theobjective.com/espana/politica/2023-11-16/pedro-sanchez-investido-presidente-mayoria/",
+            "fecha": "2023-11-16"
+          },
+          {
+            "titulo": "Menorca.info: primera votación de la investidura de Feijóo",
+            "url": "https://www.menorca.info/actualidad/elecciones-23j/2023/09/27/2020051/investidura-congreso-rechaza-feijoo-primera-votacion.html",
+            "fecha": "2023-09-27"
+          }
+        ]
+      },
+      "programa2023": {
+        "titulo": "Programa electoral del PSOE, 23J 2023",
+        "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+        "paginas": 272
+      },
+      "provincias2023": null,
+      "puntosClave": []
+    },
+    {
+      "id": "upn",
+      "nombre": "Unión del Pueblo Navarro",
+      "siglas": "UPN",
+      "color": "#0D47A1",
+      "colorAproximado": true,
+      "nivel": 1,
+      "ambito": "autonomico",
+      "circunscripciones": [
+        "31"
+      ],
+      "candidato": {
+        "nombre": null,
+        "estado": "pendiente",
+        "nota": null,
+        "fuente": null
+      },
+      "web": "https://www.upn.org",
+      "programa": {
+        "anio": 2026,
+        "publicado": false,
+        "url": null
+      },
+      "resumen": "Se presenta solo en Navarra. Obtuvo 1 escaño en 2023 y votó a favor de la investidura de Feijóo.",
+      "resultados2023": {
+        "votos": 52188,
+        "porcentaje": 0.21,
+        "escanos": 1,
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "BOE: resultados oficiales de las generales de 2023 (Junta Electoral Central)",
+            "url": "https://www.boe.es/boe/dias/2023/09/01/pdfs/BOE-A-2023-18907.pdf",
+            "fecha": "2023-09-01"
+          },
+          {
+            "titulo": "Wikipedia: resultados por circunscripción de las generales de 2023",
+            "url": "https://en.wikipedia.org/wiki/Results_breakdown_of_the_2023_Spanish_general_election_(Congress)"
+          }
+        ]
+      },
+      "referenciaEstatal": false,
+      "investidura2023": {
+        "sanchez": "en contra",
+        "feijoo": "a favor",
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "The Objective: investidura de Pedro Sánchez",
+            "url": "https://theobjective.com/espana/politica/2023-11-16/pedro-sanchez-investido-presidente-mayoria/",
+            "fecha": "2023-11-16"
+          },
+          {
+            "titulo": "Menorca.info: primera votación de la investidura de Feijóo",
+            "url": "https://www.menorca.info/actualidad/elecciones-23j/2023/09/27/2020051/investidura-congreso-rechaza-feijoo-primera-votacion.html",
+            "fecha": "2023-09-27"
+          }
+        ]
+      },
+      "programa2023": {
+        "titulo": "Programa electoral de UPN, 23J 2023, copia publicada por RTVE",
+        "url": "https://www.rtve.es/contenidos/documentos/elecciones_generales_2023/programa_electoral_upn.pdf",
+        "paginas": null,
+        "nota": "Copia de RTVE."
+      },
+      "provincias2023": {
+        "31": {
+          "porcentaje": 15.3,
+          "escanos": 1
+        }
+      },
+      "puntosClave": []
+    },
+    {
+      "id": "vox",
+      "nombre": "Vox",
+      "siglas": "Vox",
+      "color": "#63BE21",
+      "colorAproximado": true,
+      "nivel": 1,
+      "ambito": "estatal",
+      "circunscripciones": "todas",
+      "candidato": {
+        "nombre": "Santiago Abascal",
+        "estado": "anunciado",
+        "nota": null,
+        "fuente": {
+          "titulo": "El Debate: candidatos para el 29N",
+          "url": "https://www.eldebate.com/espana/20261005/quienes-podrian-candidatos-elecciones-generales-proximo-29n_466293.html",
+          "fecha": "2026-10-05"
+        }
+      },
+      "web": "https://www.voxespana.es",
+      "programa": {
+        "anio": 2026,
+        "publicado": false,
+        "url": null
+      },
+      "resumen": "Tercera fuerza en 2023, con 33 escaños. En la oposición durante la legislatura 2023–2026.",
+      "resultados2023": {
+        "votos": 3057000,
+        "porcentaje": 12.38,
+        "escanos": 33,
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "BOE: resultados oficiales de las generales de 2023 (Junta Electoral Central)",
+            "url": "https://www.boe.es/boe/dias/2023/09/01/pdfs/BOE-A-2023-18907.pdf",
+            "fecha": "2023-09-01"
+          },
+          {
+            "titulo": "Wikipedia: resultados por circunscripción de las generales de 2023",
+            "url": "https://en.wikipedia.org/wiki/Results_breakdown_of_the_2023_Spanish_general_election_(Congress)"
+          }
+        ]
+      },
+      "referenciaEstatal": true,
+      "investidura2023": {
+        "sanchez": "en contra",
+        "feijoo": "a favor",
+        "nota": null,
+        "fuentes": [
+          {
+            "titulo": "The Objective: investidura de Pedro Sánchez",
+            "url": "https://theobjective.com/espana/politica/2023-11-16/pedro-sanchez-investido-presidente-mayoria/",
+            "fecha": "2023-11-16"
+          },
+          {
+            "titulo": "Menorca.info: primera votación de la investidura de Feijóo",
+            "url": "https://www.menorca.info/actualidad/elecciones-23j/2023/09/27/2020051/investidura-congreso-rechaza-feijoo-primera-votacion.html",
+            "fecha": "2023-09-27"
+          }
+        ]
+      },
+      "programa2023": {
+        "titulo": "Programa electoral de Vox, 23J 2023",
+        "url": "https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf",
+        "paginas": 178
+      },
+      "provincias2023": null,
+      "puntosClave": []
+    }
+  ],
+  "criterioReferencia": "Se muestran fuera de su territorio los partidos que se presentan en toda España y los territoriales con grupo propio en el Congreso saliente (ERC, Junts, EH Bildu y PNV)."
+}

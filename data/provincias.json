@@ -1,0 +1,581 @@
+{
+  "version": "1",
+  "fuente": "Códigos de provincia del INE",
+  "provincias": [
+    {
+      "codigo": "01",
+      "nombre": "Araba/Álava",
+      "ccaa": "País Vasco",
+      "diputados": 4,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "02",
+      "nombre": "Albacete",
+      "ccaa": "Castilla-La Mancha",
+      "diputados": 4,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "03",
+      "nombre": "Alicante/Alacant",
+      "ccaa": "Comunitat Valenciana",
+      "diputados": 12,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "04",
+      "nombre": "Almería",
+      "ccaa": "Andalucía",
+      "diputados": 6,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "05",
+      "nombre": "Ávila",
+      "ccaa": "Castilla y León",
+      "diputados": 3,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "06",
+      "nombre": "Badajoz",
+      "ccaa": "Extremadura",
+      "diputados": 5,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "07",
+      "nombre": "Illes Balears",
+      "ccaa": "Illes Balears",
+      "diputados": 8,
+      "senado": {
+        "islas": [
+          {
+            "nombre": "Mallorca",
+            "senadores": 3,
+            "maxMarcas": 2
+          },
+          {
+            "nombre": "Menorca",
+            "senadores": 1,
+            "maxMarcas": 1
+          },
+          {
+            "nombre": "Ibiza-Formentera",
+            "senadores": 1,
+            "maxMarcas": 1
+          }
+        ]
+      }
+    },
+    {
+      "codigo": "08",
+      "nombre": "Barcelona",
+      "ccaa": "Cataluña",
+      "diputados": 32,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "09",
+      "nombre": "Burgos",
+      "ccaa": "Castilla y León",
+      "diputados": 4,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "10",
+      "nombre": "Cáceres",
+      "ccaa": "Extremadura",
+      "diputados": 4,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "11",
+      "nombre": "Cádiz",
+      "ccaa": "Andalucía",
+      "diputados": 8,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "12",
+      "nombre": "Castellón/Castelló",
+      "ccaa": "Comunitat Valenciana",
+      "diputados": 5,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "13",
+      "nombre": "Ciudad Real",
+      "ccaa": "Castilla-La Mancha",
+      "diputados": 5,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "14",
+      "nombre": "Córdoba",
+      "ccaa": "Andalucía",
+      "diputados": 6,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "15",
+      "nombre": "A Coruña",
+      "ccaa": "Galicia",
+      "diputados": 8,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "16",
+      "nombre": "Cuenca",
+      "ccaa": "Castilla-La Mancha",
+      "diputados": 3,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "17",
+      "nombre": "Girona",
+      "ccaa": "Cataluña",
+      "diputados": 6,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "18",
+      "nombre": "Granada",
+      "ccaa": "Andalucía",
+      "diputados": 7,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "19",
+      "nombre": "Guadalajara",
+      "ccaa": "Castilla-La Mancha",
+      "diputados": 3,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "20",
+      "nombre": "Gipuzkoa",
+      "ccaa": "País Vasco",
+      "diputados": 6,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "21",
+      "nombre": "Huelva",
+      "ccaa": "Andalucía",
+      "diputados": 5,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "22",
+      "nombre": "Huesca",
+      "ccaa": "Aragón",
+      "diputados": 3,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "23",
+      "nombre": "Jaén",
+      "ccaa": "Andalucía",
+      "diputados": 5,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "24",
+      "nombre": "León",
+      "ccaa": "Castilla y León",
+      "diputados": 4,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "25",
+      "nombre": "Lleida",
+      "ccaa": "Cataluña",
+      "diputados": 4,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "26",
+      "nombre": "La Rioja",
+      "ccaa": "La Rioja",
+      "diputados": 4,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "27",
+      "nombre": "Lugo",
+      "ccaa": "Galicia",
+      "diputados": 4,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "28",
+      "nombre": "Madrid",
+      "ccaa": "Comunidad de Madrid",
+      "diputados": 38,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "29",
+      "nombre": "Málaga",
+      "ccaa": "Andalucía",
+      "diputados": 11,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "30",
+      "nombre": "Murcia",
+      "ccaa": "Región de Murcia",
+      "diputados": 10,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "31",
+      "nombre": "Navarra",
+      "ccaa": "Comunidad Foral de Navarra",
+      "diputados": 5,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "32",
+      "nombre": "Ourense",
+      "ccaa": "Galicia",
+      "diputados": 4,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "33",
+      "nombre": "Asturias",
+      "ccaa": "Principado de Asturias",
+      "diputados": 7,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "34",
+      "nombre": "Palencia",
+      "ccaa": "Castilla y León",
+      "diputados": 3,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "35",
+      "nombre": "Las Palmas",
+      "ccaa": "Canarias",
+      "diputados": 8,
+      "senado": {
+        "islas": [
+          {
+            "nombre": "Gran Canaria",
+            "senadores": 3,
+            "maxMarcas": 2
+          },
+          {
+            "nombre": "Lanzarote",
+            "senadores": 1,
+            "maxMarcas": 1
+          },
+          {
+            "nombre": "Fuerteventura",
+            "senadores": 1,
+            "maxMarcas": 1
+          }
+        ]
+      }
+    },
+    {
+      "codigo": "36",
+      "nombre": "Pontevedra",
+      "ccaa": "Galicia",
+      "diputados": 7,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "37",
+      "nombre": "Salamanca",
+      "ccaa": "Castilla y León",
+      "diputados": 4,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "38",
+      "nombre": "Santa Cruz de Tenerife",
+      "ccaa": "Canarias",
+      "diputados": 7,
+      "senado": {
+        "islas": [
+          {
+            "nombre": "Tenerife",
+            "senadores": 3,
+            "maxMarcas": 2
+          },
+          {
+            "nombre": "La Palma",
+            "senadores": 1,
+            "maxMarcas": 1
+          },
+          {
+            "nombre": "La Gomera",
+            "senadores": 1,
+            "maxMarcas": 1
+          },
+          {
+            "nombre": "El Hierro",
+            "senadores": 1,
+            "maxMarcas": 1
+          }
+        ]
+      }
+    },
+    {
+      "codigo": "39",
+      "nombre": "Cantabria",
+      "ccaa": "Cantabria",
+      "diputados": 5,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "40",
+      "nombre": "Segovia",
+      "ccaa": "Castilla y León",
+      "diputados": 3,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "41",
+      "nombre": "Sevilla",
+      "ccaa": "Andalucía",
+      "diputados": 12,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "42",
+      "nombre": "Soria",
+      "ccaa": "Castilla y León",
+      "diputados": 2,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "43",
+      "nombre": "Tarragona",
+      "ccaa": "Cataluña",
+      "diputados": 6,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "44",
+      "nombre": "Teruel",
+      "ccaa": "Aragón",
+      "diputados": 3,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "45",
+      "nombre": "Toledo",
+      "ccaa": "Castilla-La Mancha",
+      "diputados": 6,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "46",
+      "nombre": "Valencia/València",
+      "ccaa": "Comunitat Valenciana",
+      "diputados": 16,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "47",
+      "nombre": "Valladolid",
+      "ccaa": "Castilla y León",
+      "diputados": 5,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "48",
+      "nombre": "Bizkaia",
+      "ccaa": "País Vasco",
+      "diputados": 8,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "49",
+      "nombre": "Zamora",
+      "ccaa": "Castilla y León",
+      "diputados": 3,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "50",
+      "nombre": "Zaragoza",
+      "ccaa": "Aragón",
+      "diputados": 7,
+      "senado": {
+        "senadores": 4,
+        "maxMarcas": 3
+      }
+    },
+    {
+      "codigo": "51",
+      "nombre": "Ceuta",
+      "ccaa": "Ceuta",
+      "diputados": 1,
+      "senado": {
+        "senadores": 2,
+        "maxMarcas": 2
+      }
+    },
+    {
+      "codigo": "52",
+      "nombre": "Melilla",
+      "ccaa": "Melilla",
+      "diputados": 1,
+      "senado": {
+        "senadores": 2,
+        "maxMarcas": 2
+      }
+    }
+  ],
+  "fuenteEscanos": {
+    "titulo": "Real Decreto 806/2026, de 5 de octubre, de disolución de las Cortes y convocatoria de elecciones (BOE)",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742",
+    "nota": "Senadores según los artículos 165 y 166 de la LOREG."
+  }
+}

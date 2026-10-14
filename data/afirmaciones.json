@@ -1,0 +1,746 @@
+{
+  "version": "0.2",
+  "actualizado": "2026-10-11",
+  "escala": [
+    {
+      "valor": -2,
+      "texto": "Totalmente en desacuerdo"
+    },
+    {
+      "valor": -1,
+      "texto": "En desacuerdo"
+    },
+    {
+      "valor": 0,
+      "texto": "Neutral"
+    },
+    {
+      "valor": 1,
+      "texto": "De acuerdo"
+    },
+    {
+      "valor": 2,
+      "texto": "Totalmente de acuerdo"
+    }
+  ],
+  "ejes": [
+    {
+      "id": "eco",
+      "nombre": "Económico",
+      "poloNegativo": "Izquierda",
+      "poloPositivo": "Derecha"
+    },
+    {
+      "id": "soc",
+      "nombre": "Social",
+      "poloNegativo": "Progresista",
+      "poloPositivo": "Conservador"
+    },
+    {
+      "id": "terr",
+      "nombre": "Territorial",
+      "poloNegativo": "Plurinacional",
+      "poloPositivo": "Centralista"
+    }
+  ],
+  "bloques": [
+    {
+      "id": "economia",
+      "nombre": "Economía e impuestos"
+    },
+    {
+      "id": "trabajo",
+      "nombre": "Trabajo y pensiones"
+    },
+    {
+      "id": "vivienda",
+      "nombre": "Vivienda"
+    },
+    {
+      "id": "sanidad-educacion",
+      "nombre": "Sanidad y educación"
+    },
+    {
+      "id": "inmigracion",
+      "nombre": "Inmigración"
+    },
+    {
+      "id": "sociedad",
+      "nombre": "Sociedad e igualdad"
+    },
+    {
+      "id": "seguridad-instituciones",
+      "nombre": "Seguridad e instituciones"
+    },
+    {
+      "id": "territorial",
+      "nombre": "Modelo territorial"
+    },
+    {
+      "id": "energia",
+      "nombre": "Energía y medio ambiente"
+    },
+    {
+      "id": "exterior",
+      "nombre": "Europa y mundo"
+    }
+  ],
+  "afirmaciones": [
+    {
+      "id": "a01",
+      "bloque": "economia",
+      "texto": "Hay que bajar el IRPF, aunque eso suponga recortar gasto público.",
+      "eje": "eco",
+      "sentido": 1,
+      "contexto": "El IRPF es el impuesto sobre la renta: el Estado fija una parte de la tarifa y cada comunidad, la otra. La afirmación plantea el dilema entre pagar menos impuestos y mantener el gasto público. En abril de 2026 el Congreso pidió ajustar el IRPF a la inflación.",
+      "fuentesContexto": [
+        {
+          "titulo": "Forbes España (Europa Press): deflactación general del IRPF",
+          "url": "https://forbes.es/economia/912299/el-congreso-con-el-psoe-en-contra-exige-al-gobierno-deflactar-el-irpf-y-eximir-de-iva-a-pequenos-autonomos/",
+          "fecha": "2026-04-22"
+        }
+      ]
+    },
+    {
+      "id": "a02",
+      "bloque": "economia",
+      "texto": "Los bancos deben pagar un impuesto especial sobre sus beneficios.",
+      "eje": "eco",
+      "sentido": -1,
+      "contexto": "En 2022 se creó un gravamen temporal sobre los ingresos de la banca por la subida de los tipos de interés, y la reforma fiscal de finales de 2024 lo sustituyó por un impuesto sobre su margen de intereses y comisiones.",
+      "fuentesContexto": [
+        {
+          "titulo": "The Objective: reforma fiscal con el impuesto a la banca",
+          "url": "https://theobjective.com/espana/politica/2024-11-21/nuevos-impuestos-reforma-fiscal-gobierno/",
+          "fecha": "2024-11-21"
+        },
+        {
+          "titulo": "Forbes España (Europa Press): impuestos a banca, energéticas y grandes fortunas (2022)",
+          "url": "https://forbes.es/?p=199607"
+        }
+      ]
+    },
+    {
+      "id": "a03",
+      "bloque": "economia",
+      "texto": "Hay que suprimir el impuesto de patrimonio y el de grandes fortunas.",
+      "eje": "eco",
+      "sentido": 1,
+      "contexto": "El impuesto de patrimonio lo pagan quienes tienen un patrimonio neto alto; lo gestionan las comunidades y algunas lo bonifican casi por completo. En 2022 se creó además un impuesto estatal de solidaridad para patrimonios de más de 3 millones de euros.",
+      "fuentesContexto": [
+        {
+          "titulo": "Forbes España (Europa Press): impuestos a banca, energéticas y grandes fortunas (2022)",
+          "url": "https://forbes.es/?p=199607"
+        },
+        {
+          "titulo": "El Independiente: el PP y el impuesto de Patrimonio",
+          "url": "https://www.elindependiente.com/espana/2022/09/22/el-pp-lanza-una-ofensiva-autonomica-contra-el-gobierno-para-bajar-impuestos/amp/",
+          "fecha": "2022-09-22"
+        }
+      ]
+    },
+    {
+      "id": "a04",
+      "bloque": "economia",
+      "texto": "El Estado debe tener empresas públicas en sectores estratégicos como la energía o la banca.",
+      "eje": "eco",
+      "sentido": -1,
+      "contexto": "El Estado ya tiene participaciones en empresas como Red Eléctrica o Enagás. La afirmación va más allá: que tenga empresas propias en sectores como la energía o la banca. En 2024 el Congreso votó crear una empresa pública para gestionar las centrales hidroeléctricas cuyas concesiones caduquen.",
+      "fuentesContexto": [
+        {
+          "titulo": "esdiario: empresa pública de centrales hidroeléctricas",
+          "url": "https://www.esdiario.com/nacional/240918/143217/nueva-ruptura-seno-gobierno-psoe-vota-pp-vox-sumar-congreso.html",
+          "fecha": "2024-09-18"
+        }
+      ]
+    },
+    {
+      "id": "a05",
+      "bloque": "trabajo",
+      "texto": "La jornada laboral máxima debe reducirse por ley a 37,5 horas semanales, sin bajar el sueldo.",
+      "eje": "eco",
+      "sentido": -1,
+      "contexto": "La jornada máxima legal es de 40 horas semanales de trabajo efectivo de media al año. En septiembre de 2025 el Congreso rechazó el proyecto de ley del Gobierno para bajarla a 37,5 horas sin reducir el sueldo.",
+      "fuentesContexto": [
+        {
+          "titulo": "Periódico de Ibiza (Europa Press): veto a la reducción de jornada",
+          "url": "https://www.periodicodeibiza.es/noticias/nacional/2025/09/11/2467647/congreso-tumba-reduccion-jornada-laboral-prosperar-veto-vox-junts.html",
+          "fecha": "2025-09-11"
+        }
+      ]
+    },
+    {
+      "id": "a06",
+      "bloque": "trabajo",
+      "texto": "El salario mínimo debe seguir subiendo por encima de la inflación en los próximos años.",
+      "eje": "eco",
+      "sentido": -1,
+      "contexto": "El salario mínimo lo fija cada año el Gobierno tras consultar a sindicatos y patronal; en febrero de 2026 aprobó la subida de este año. Subirlo por encima de la inflación aumenta el poder de compra de quien lo cobra y también el coste de contratar.",
+      "fuentesContexto": [
+        {
+          "titulo": "Ara: el Gobierno ratifica la subida del salario mínimo",
+          "url": "https://en.ara.cat/economy/sanchez-speaking-to-employers-no-one-should-tell-us-that-wages-cannot-be-raised-when-profits-are-growing_1_5650183.html",
+          "fecha": "2026-02-16"
+        }
+      ]
+    },
+    {
+      "id": "a07",
+      "bloque": "trabajo",
+      "texto": "Hay que bajar las cotizaciones sociales que pagan las empresas para facilitar la contratación.",
+      "eje": "eco",
+      "sentido": 1,
+      "contexto": "Las cotizaciones sociales son lo que empresas y trabajadores pagan a la Seguridad Social por cada sueldo; la mayor parte la paga la empresa. La reforma de las pensiones de 2023 las sube poco a poco para reforzar el sistema.",
+      "fuentesContexto": [
+        {
+          "titulo": "Forbes España (Europa Press): convalidación de la reforma de pensiones",
+          "url": "https://forbes.es/?p=256761",
+          "fecha": "2023-03-30"
+        }
+      ]
+    },
+    {
+      "id": "a08",
+      "bloque": "trabajo",
+      "texto": "Para garantizar las pensiones hay que subir las cotizaciones de los sueldos más altos.",
+      "eje": "eco",
+      "sentido": -1,
+      "contexto": "Hoy, la parte del sueldo que supera la base máxima de cotización apenas cotiza. La reforma de las pensiones de 2023 sube poco a poco esa base y crea una «cuota de solidaridad» sobre los sueldos que la superan.",
+      "fuentesContexto": [
+        {
+          "titulo": "Forbes España (Europa Press): convalidación de la reforma de pensiones",
+          "url": "https://forbes.es/?p=256761",
+          "fecha": "2023-03-30"
+        }
+      ]
+    },
+    {
+      "id": "a09",
+      "bloque": "vivienda",
+      "texto": "El Estado debe poder limitar el precio del alquiler en las zonas con precios tensionados.",
+      "eje": "eco",
+      "sentido": -1,
+      "contexto": "La Ley de Vivienda de 2023 permite a las comunidades declarar zonas tensionadas y limitar allí el precio del alquiler; unas comunidades la aplican y otras no. En 2026 el Congreso no convalidó los decretos del Gobierno para congelar los alquileres, y tras ello se convocaron estas elecciones.",
+      "fuentesContexto": [
+        {
+          "titulo": "Diario de León (EFE): decretos de alquiler y su derogación",
+          "url": "https://www.diariodeleon.es/nacional/260726/2092347/gobierno-ultima-decreto-contener-alquileres-aumentar-vivienda-asequible.html",
+          "fecha": "2026-07-26"
+        },
+        {
+          "titulo": "El Español: decreto que congela los alquileres hasta 2028",
+          "url": "https://www.elespanol.com/espana/politica/20260723/decreto-psoe-sumar-congela-alquileres-nace-muerto-junts-voto-podemos-rechaza/1003744330703_0.html",
+          "fecha": "2026-07-23"
+        },
+        {
+          "titulo": "Ayuda-Social.es: la convocatoria tras la caída de los decretos de vivienda",
+          "url": "https://ayuda-social.es/?p=41041",
+          "fecha": "2026-10"
+        }
+      ]
+    },
+    {
+      "id": "a10",
+      "bloque": "vivienda",
+      "texto": "La vivienda bajará de precio sobre todo liberando suelo y facilitando que se construya, no regulando precios.",
+      "eje": "eco",
+      "sentido": 1,
+      "contexto": "Es el enfoque contrario a limitar precios: aumentar la oferta facilitando que se construya, por ejemplo con más suelo urbanizable o licencias más rápidas. En abril de 2026 el Congreso admitió a trámite una ley de vivienda en esta línea.",
+      "fuentesContexto": [
+        {
+          "titulo": "Valencia Plaza (Europa Press): el Congreso admite la ley de vivienda del PP",
+          "url": "https://valenciaplaza.com/valenciaplaza/nacional/el-congreso-admite-a-tramite-la-ley-de-vivienda-del-pp-con-junts-a-favor-y-el-gobierno-en-contra",
+          "fecha": "2026-04-21"
+        }
+      ]
+    },
+    {
+      "id": "a11",
+      "bloque": "vivienda",
+      "texto": "Debe poder desalojarse a los ocupantes ilegales de una vivienda en un máximo de 48 horas.",
+      "eje": "soc",
+      "sentido": 1,
+      "contexto": "Desalojar a quien ocupa una vivienda sin título puede llevar meses de procedimiento judicial. En 2025 el Congreso admitió a trámite una ley para hacerlo en 48 horas, y hay otras propuestas parecidas.",
+      "fuentesContexto": [
+        {
+          "titulo": "Ara: la ley de Junts para desalojar en 48 horas",
+          "url": "https://es.ara.cat/sociedad/vivienda/ofensiva-junts-ocupacion-abre-paso-congreso_1_5319983.html",
+          "fecha": "2025-03-18"
+        }
+      ]
+    },
+    {
+      "id": "a12",
+      "bloque": "sanidad-educacion",
+      "texto": "La sanidad pública no debería encargar a empresas privadas la gestión de hospitales y centros de salud.",
+      "eje": "eco",
+      "sentido": -1,
+      "contexto": "Una ley de 1997 permite a la sanidad pública encargar a empresas privadas la gestión de hospitales o centros de salud, mediante concesiones o conciertos. En febrero de 2026 el Gobierno aprobó el anteproyecto de una ley para limitar esa fórmula.",
+      "fuentesContexto": [
+        {
+          "titulo": "LegalToday: anteproyecto de Ley de Gestión Pública del SNS",
+          "url": "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-gobierno-aprueba-el-anteproyecto-de-ley-para-limitar-la-colaboracion-publico-privada-en-sanidad-2026-02-10/",
+          "fecha": "2026-02-10"
+        }
+      ]
+    },
+    {
+      "id": "a13",
+      "bloque": "sanidad-educacion",
+      "texto": "Las familias deberían recibir un cheque escolar para elegir entre colegio público, concertado o privado.",
+      "eje": "eco",
+      "sentido": 1,
+      "contexto": "Con un cheque escolar, el dinero público iría a las familias para pagar el colegio que elijan, público, concertado o privado, en lugar de financiar directamente a los centros. No existe a escala estatal; algunas comunidades amplían los conciertos a más etapas.",
+      "fuentesContexto": [
+        {
+          "titulo": "El Español: conciertos de Bachillerato en Aragón (PP y Vox)",
+          "url": "https://www.elespanol.com/aragon/actualidad/20260610/azcon-aprueba-millones-educacion-concertada-incluye-concierto-primer-curso-bachillerato/1003744280511_0.html",
+          "fecha": "2026-06-10"
+        }
+      ]
+    },
+    {
+      "id": "a14",
+      "bloque": "sanidad-educacion",
+      "texto": "La asignatura de Religión debería salir del horario escolar.",
+      "eje": "soc",
+      "sentido": -1,
+      "contexto": "Los centros están obligados a ofrecer Religión, por los acuerdos de 1979 entre España y la Santa Sede, y el alumnado elige si la cursa. Desde la LOMLOE de 2020 no cuenta para la nota media en las comparaciones entre alumnos ni tiene una asignatura alternativa evaluable. En 2026 se registró en el Congreso una ley para sacarla del horario lectivo.",
+      "fuentesContexto": [
+        {
+          "titulo": "El Debate: la Religión con la LOMLOE",
+          "url": "https://www.eldebate.com/educacion/20241024/maniobra-alejar-alumnos-asignatura-religion-apuntan-tienen-hora-clase_238539_amp.html",
+          "fecha": "2024-10-24"
+        },
+        {
+          "titulo": "moncloa.com: ley de Sumar para sacar la Religión de los colegios",
+          "url": "https://www.moncloa.com/2026/03/20/adios-religion-en-colegio-sumar-lanza-ley-prohibir-clases-incluso-concertada-3366988/",
+          "fecha": "2026-03-20"
+        }
+      ]
+    },
+    {
+      "id": "a15",
+      "bloque": "sanidad-educacion",
+      "texto": "El castellano debe estar garantizado como lengua vehicular en la enseñanza de toda España.",
+      "eje": "terr",
+      "sentido": 1,
+      "contexto": "La ley educativa de 2020 dejó de mencionar el castellano como lengua vehicular, y cada comunidad con lengua propia decide el peso de cada lengua en las aulas. Los tribunales han fijado en algún caso un mínimo del 25 % de clases en castellano, como en Cataluña.",
+      "fuentesContexto": [
+        {
+          "titulo": "Mallorcadiario: enmienda para quitar al castellano la condición de lengua vehicular (2020)",
+          "url": "https://www.mallorcadiario.com/pactan-eliminar-el-castellano-como-lengua-vehicular"
+        }
+      ]
+    },
+    {
+      "id": "a16",
+      "bloque": "inmigracion",
+      "texto": "Hay que regularizar a los inmigrantes en situación irregular que ya viven y trabajan en España.",
+      "eje": "soc",
+      "sentido": -1,
+      "contexto": "En enero de 2026 el Gobierno aprobó una regularización extraordinaria de inmigrantes en situación irregular que ya vivían en España, que alcanza a más de 500.000 personas.",
+      "fuentesContexto": [
+        {
+          "titulo": "France 24 (vía Acento): el Gobierno aprueba la regularización",
+          "url": "https://acento.com.do/france24/el-gobierno-de-espana-aprueba-la-regularizacion-de-mas-de-500-000-inmigrantes-indocumentados-9612392.html",
+          "fecha": "2026-01-27"
+        }
+      ]
+    },
+    {
+      "id": "a17",
+      "bloque": "inmigracion",
+      "texto": "Los inmigrantes en situación irregular deben ser expulsados de España.",
+      "eje": "soc",
+      "sentido": 1,
+      "contexto": "La ley de extranjería permite expulsar a quien está en situación irregular tras un procedimiento administrativo, y la expulsión depende de que el país de origen acepte el retorno. En abril de 2026 el Congreso rechazó una moción que pedía repatriar a todos los inmigrantes en situación irregular.",
+      "fuentesContexto": [
+        {
+          "titulo": "Menorca.info (Europa Press): moción de Vox sobre prioridad nacional y repatriaciones",
+          "url": "https://www.menorca.info/actualidad/nacional/2026/04/22/2614723/vota-gobierno-para-tumbar-congreso-prioridad-nacional-vox-tras-pactarla-extremadura.html",
+          "fecha": "2026-04-22"
+        },
+        {
+          "titulo": "Redacción Médica: votación de la moción de Vox",
+          "url": "https://www.redaccionmedica.com/politica/20260422/el-congreso-da-la-espalda-prioridad-nacional-sanitaria-de-vox/261353_0.amp.html",
+          "fecha": "2026-04-22"
+        }
+      ]
+    },
+    {
+      "id": "a18",
+      "bloque": "inmigracion",
+      "texto": "Las ayudas sociales deben dar prioridad a los españoles frente a los extranjeros.",
+      "eje": "soc",
+      "sentido": 1,
+      "contexto": "La «prioridad nacional» consiste en dar preferencia a las personas con nacionalidad española en ayudas públicas como las de vivienda. En 2026 el Congreso rechazó varias propuestas en ese sentido; otra opción que se ha planteado es dar prioridad según los años de residencia.",
+      "fuentesContexto": [
+        {
+          "titulo": "Bolsamanía (Europa Press): prioridad nacional en las ayudas a la vivienda",
+          "url": "https://www.bolsamania.com/noticias_amp/empresas/economia--el-pp-rechaza-en-el-congreso-la-propuesta-de-vox-de-exigir-la-prioridad-nacional-en-ayudas-para-vivienda--22776272.html",
+          "fecha": "2026-06-18"
+        },
+        {
+          "titulo": "Vozpópuli: el PP y la prioridad basada en el arraigo",
+          "url": "https://www.vozpopuli.com/espana/politica/el-pp-abre-un-nuevo-frente-con-vox-y-vota-en-contra-de-la-prioridad-nacional-en-el-congreso.html",
+          "fecha": "2026-04-22"
+        }
+      ]
+    },
+    {
+      "id": "a19",
+      "bloque": "inmigracion",
+      "texto": "Los menores extranjeros no acompañados deben repartirse de forma obligatoria entre todas las comunidades.",
+      "eje": "soc",
+      "sentido": -1,
+      "contexto": "Canarias, Ceuta y Melilla acogen a la mayoría de los menores que llegan solos a España. En 2025 el Congreso convalidó un decreto que obliga a repartirlos entre comunidades cuando un territorio supera su capacidad de acogida.",
+      "fuentesContexto": [
+        {
+          "titulo": "Nuevecuatrouno (Europa Press): el reparto de menores en el Congreso",
+          "url": "https://nuevecuatrouno.com/2025/04/10/congreso-refrenda-decreto-ley-reubicar-menores-migrantes-no-pp/",
+          "fecha": "2025-04-10"
+        }
+      ]
+    },
+    {
+      "id": "a20",
+      "bloque": "sociedad",
+      "texto": "La ley de violencia de género debería sustituirse por una de violencia intrafamiliar que no distinga por sexo.",
+      "eje": "soc",
+      "sentido": 1,
+      "contexto": "La ley integral de 2004 protege de forma específica a las mujeres frente a la violencia de sus parejas o exparejas. La alternativa planteada es una ley de violencia intrafamiliar que proteja a cualquier miembro de la familia sin distinguir por sexo. En 2025 se renovó el Pacto de Estado contra la Violencia de Género.",
+      "fuentesContexto": [
+        {
+          "titulo": "eldiario.es: renovación del Pacto de Estado contra la Violencia de Género",
+          "url": "https://www.eldiario.es/politica/congreso-aprueba-informe-pacto-violencia-genero-envia-pleno-unico-voto-vox_1_12059396.amp.html",
+          "fecha": "2025-02-17"
+        }
+      ]
+    },
+    {
+      "id": "a21",
+      "bloque": "sociedad",
+      "texto": "El derecho al aborto debe incluirse en la Constitución.",
+      "eje": "soc",
+      "sentido": -1,
+      "contexto": "El aborto está regulado por ley y desde 2010 es libre hasta la semana 14. En 2026 se planteó incluirlo en la Constitución: la reforma superó el primer debate, pero necesita tres quintos de cada cámara.",
+      "fuentesContexto": [
+        {
+          "titulo": "Vozpópuli: la reforma constitucional del aborto supera su primer examen",
+          "url": "https://www.vozpopuli.com/espana/politica/la-reforma-del-aborto-supera-su-primer-examen-en-el-congreso-pero-se-encamina-al-fracaso.html",
+          "fecha": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "a22",
+      "bloque": "sociedad",
+      "texto": "Las personas trans deben poder cambiar su sexo en el registro civil sin informes médicos.",
+      "eje": "soc",
+      "sentido": -1,
+      "contexto": "Desde la ley de 2023, conocida como «ley trans», las personas de 16 años o más pueden cambiar la mención del sexo en el registro civil sin informes médicos ni tratamientos. Entre los 12 y los 16 años hace falta la asistencia de sus representantes legales o una autorización judicial, según la edad.",
+      "fuentesContexto": [
+        {
+          "titulo": "Noticias de Navarra: aprobación definitiva de la ley trans",
+          "url": "https://www.noticiasdenavarra.com/sociedad/2023/02/16/congreso-aprueba-definitivamente-ley-trans-6453535.html",
+          "fecha": "2023-02-16"
+        }
+      ]
+    },
+    {
+      "id": "a23",
+      "bloque": "sociedad",
+      "texto": "La tauromaquia debe protegerse como patrimonio cultural y recibir apoyo público.",
+      "eje": "soc",
+      "sentido": 1,
+      "contexto": "Una ley de 2013 protege la tauromaquia como patrimonio cultural. En octubre de 2025 el Congreso rechazó tramitar una iniciativa legislativa popular que pedía retirarle esa protección.",
+      "fuentesContexto": [
+        {
+          "titulo": "El Salto: votación de la ILP «No es mi cultura» (octubre de 2025)",
+          "url": "https://www.elsaltodiario.com/infoanimal/insulto-democracia-congreso-bloquea-debate-ilp-no-es-cultura"
+        }
+      ]
+    },
+    {
+      "id": "a24",
+      "bloque": "seguridad-instituciones",
+      "texto": "Hay que derogar la Ley de Seguridad Ciudadana de 2015, conocida como «ley mordaza».",
+      "eje": "soc",
+      "sentido": -1,
+      "contexto": "La Ley de Seguridad Ciudadana de 2015 regula, entre otras cosas, las multas por protestar, las identificaciones policiales y los rechazos en frontera. Su reforma se admitió a trámite en 2024, pero en junio de 2026 seguía sin aprobarse.",
+      "fuentesContexto": [
+        {
+          "titulo": "Ondavasca: la reforma de la «ley mordaza» da el primer paso (octubre de 2024)",
+          "url": "https://www.ondavasca.com/la-reforma-de-la-ley-mordaza-da-el-primer-paso-en-el-congreso/"
+        },
+        {
+          "titulo": "eldiario.es: la reforma de la «ley mordaza», estancada",
+          "url": "https://www.eldiario.es/1_caa1d7",
+          "fecha": "2026-06-30"
+        }
+      ]
+    },
+    {
+      "id": "a25",
+      "bloque": "seguridad-instituciones",
+      "texto": "Hay que mantener la prisión permanente revisable.",
+      "eje": "soc",
+      "sentido": 1,
+      "contexto": "La prisión permanente revisable se introdujo en el Código Penal en 2015 para los delitos más graves; la condena se revisa tras cumplir entre 25 y 35 años. En 2026 se propuso ampliarla a más delitos, y en legislaturas anteriores se llegó a tramitar su derogación.",
+      "fuentesContexto": [
+        {
+          "titulo": "Newtral: ley del PP para ampliar la prisión permanente revisable",
+          "url": "https://www.newtral.es/prision-permanente-revisable-pp/20260317/",
+          "fecha": "2026-03-17"
+        },
+        {
+          "titulo": "LegalToday: toma en consideración de la derogación de la prisión permanente",
+          "url": "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-congreso-da-el-primer-paso-para-derogar-la-prision-permanente-revisable-por-no-cumplir-principios-constitucionales-2017-10-13/",
+          "fecha": "2017-10-13"
+        }
+      ]
+    },
+    {
+      "id": "a26",
+      "bloque": "seguridad-instituciones",
+      "texto": "España debería celebrar un referéndum para elegir entre monarquía y república.",
+      "eje": "soc",
+      "sentido": -1,
+      "contexto": "La monarquía parlamentaria está en la Constitución de 1978. Cambiarla exige la reforma más difícil: dos tercios de cada cámara, nuevas elecciones, otra votación y un referéndum. La afirmación plantea una consulta previa sobre el modelo de Estado.",
+      "fuentesContexto": [
+        {
+          "titulo": "eldiario.es: el camino para un referéndum sobre la monarquía (2020)",
+          "url": "https://www.eldiario.es/politica/camino-convocar-referendum-monarquia-pide-presidente-autoriza-congreso-firma-propio-rey_1_6148940.html"
+        }
+      ]
+    },
+    {
+      "id": "a27",
+      "bloque": "seguridad-instituciones",
+      "texto": "Hay que derogar la Ley de Memoria Democrática.",
+      "eje": "soc",
+      "sentido": 1,
+      "contexto": "La Ley de Memoria Democrática de 2022 regula la búsqueda de desaparecidos de la Guerra Civil y el franquismo, la reparación a las víctimas y la retirada de símbolos franquistas. En 2026 se amplió para aumentar las indemnizaciones a las víctimas.",
+      "fuentesContexto": [
+        {
+          "titulo": "Ara (inglés): decreto que amplía la ley de memoria democrática (marzo de 2026)",
+          "url": "https://en.ara.cat/politics/the-congress-reforms-the-democratic-memory-law-to-expand-compensation-for-victims-of-francoism_25_5690637.html"
+        }
+      ]
+    },
+    {
+      "id": "a28",
+      "bloque": "territorial",
+      "texto": "Cataluña debería poder votar en un referéndum de independencia pactado con el Estado.",
+      "eje": "terr",
+      "sentido": -1,
+      "contexto": "La Constitución reserva al Estado la autorización de los referéndums, y el Tribunal Constitucional anuló el que convocó Cataluña en 2017. Uno pactado exigiría un acuerdo con el Estado, y hay debate jurídico sobre si haría falta reformar la Constitución.",
+      "fuentesContexto": [
+        {
+          "titulo": "The Objective: moción de ERC por un referéndum pactado",
+          "url": "https://theobjective.com/espana/2021-02-18/el-psoe-tumba-la-peticion-de-erc-sobre-un-referendum-en-cataluna-y-podemos-se-abstiene/",
+          "fecha": "2021-02-18"
+        }
+      ]
+    },
+    {
+      "id": "a29",
+      "bloque": "territorial",
+      "texto": "La ley de amnistía del «procés» fue una decisión acertada.",
+      "eje": "terr",
+      "sentido": -1,
+      "contexto": "La Ley de Amnistía, aprobada en mayo de 2024, extingue las responsabilidades penales, administrativas y contables por los hechos del proceso independentista catalán entre 2011 y 2023, con algunas excepciones.",
+      "fuentesContexto": [
+        {
+          "titulo": "Ara: aprobación definitiva de la amnistía",
+          "url": "https://es.ara.cat/politica/congreso-aprueba-amnistia-decada-independentismo_1_5045075.html",
+          "fecha": "2024-05-30"
+        }
+      ]
+    },
+    {
+      "id": "a30",
+      "bloque": "territorial",
+      "texto": "Las comunidades autónomas deberían devolver al Estado competencias como la educación o la sanidad.",
+      "eje": "terr",
+      "sentido": 1,
+      "contexto": "Las comunidades autónomas gestionan desde hace décadas la educación y la sanidad públicas. Devolver esas competencias al Estado exigiría cambiar los estatutos de autonomía y, según el alcance, la Constitución.",
+      "fuentesContexto": [
+        {
+          "titulo": "The Objective: contenido del plan de Vox",
+          "url": "https://theobjective.com/espana/politica/2024-06-11/plan-unidad-vox-independentistas-gibraltar/",
+          "fecha": "2024-06-11"
+        }
+      ]
+    },
+    {
+      "id": "a31",
+      "bloque": "territorial",
+      "texto": "Cataluña debería recaudar y gestionar todos sus impuestos, como ya hacen el País Vasco y Navarra.",
+      "eje": "terr",
+      "sentido": -1,
+      "contexto": "El País Vasco y Navarra tienen un régimen foral: recaudan casi todos sus impuestos y pagan al Estado por los servicios comunes. Las demás comunidades se financian con el régimen común, en el que el Estado recauda la mayoría de impuestos y los reparte. En 2024 se pactó para Cataluña una «financiación singular» con más capacidad de recaudación.",
+      "fuentesContexto": [
+        {
+          "titulo": "El Independiente: propuestas de financiación de PSC y ERC",
+          "url": "https://www.elindependiente.com/espana/cataluna/2024/06/22/recaudacion-gestion-y-politica-fiscal-que-separa-y-en-que-coinciden-las-propuestas-de-financiacion-de-psc-y-erc/amp/",
+          "fecha": "2024-06-22"
+        },
+        {
+          "titulo": "Ara: financiación singular, Junts y PP",
+          "url": "https://es.ara.cat/politica/erc-garantiza-financiacion-singular-semana-5-000-millones-respetara-ordinalidad_1_5610796.html",
+          "fecha": "2026-01-07"
+        }
+      ]
+    },
+    {
+      "id": "a32",
+      "bloque": "territorial",
+      "texto": "Deberían prohibirse los partidos que defienden la independencia de una parte de España.",
+      "eje": "terr",
+      "sentido": 1,
+      "contexto": "La Ley de Partidos de 2002 permite ilegalizar a los que apoyan la violencia o el terrorismo, pero no por sus ideas: según el Tribunal Constitucional, se puede defender por vías democráticas cualquier objetivo, también la independencia.",
+      "fuentesContexto": [
+        {
+          "titulo": "Ondavasca: ley de Vox para ilegalizar partidos",
+          "url": "https://www.ondavasca.com/vox-vuelve-a-quedarse-solo-en-su-propuesta-para-ilegalizar-partidos-independentistas/",
+          "fecha": "2024-02-21"
+        }
+      ]
+    },
+    {
+      "id": "a33",
+      "bloque": "territorial",
+      "texto": "Las lenguas cooficiales deben poder usarse en el Congreso y ser oficiales en la Unión Europea.",
+      "eje": "terr",
+      "sentido": -1,
+      "contexto": "Desde septiembre de 2023 se pueden usar el catalán, el euskera y el gallego en el Congreso, con traducción simultánea. Que sean oficiales en la Unión Europea exige la unanimidad de los 27 Estados.",
+      "fuentesContexto": [
+        {
+          "titulo": "Valencia Plaza: reforma del Reglamento sobre lenguas cooficiales",
+          "url": "https://valenciaplaza.com/congreso-da-via-libre-uso-lenguas-cooficiales-votos-180-diputados",
+          "fecha": "2023-09-21"
+        }
+      ]
+    },
+    {
+      "id": "a34",
+      "bloque": "energia",
+      "texto": "Las centrales nucleares deberían seguir funcionando más allá del calendario de cierre previsto.",
+      "eje": null,
+      "sentido": 0,
+      "contexto": "España tiene siete reactores nucleares en funcionamiento. El calendario pactado en 2019 prevé cerrarlos entre 2027 y 2035, empezando por Almaraz.",
+      "fuentesContexto": [
+        {
+          "titulo": "The Objective: proposición del PP para alargar la vida de las nucleares",
+          "url": "https://theobjective.com/espana/politica/2025-02-12/congreso-prolongar-erc-junts/",
+          "fecha": "2025-02-12"
+        }
+      ]
+    },
+    {
+      "id": "a35",
+      "bloque": "energia",
+      "texto": "Hay que prohibir los vuelos cortos cuando haya alternativa en tren de menos de dos horas y media.",
+      "eje": "soc",
+      "sentido": -1,
+      "contexto": "Francia prohibió en 2023 los vuelos nacionales con alternativa en tren de menos de dos horas y media. En España, la Ley de Movilidad Sostenible incluye un mandato para impulsar su reducción, salvo los que conectan con rutas internacionales.",
+      "fuentesContexto": [
+        {
+          "titulo": "El Salto: enmiendas sobre vuelos cortos en la legislatura anterior",
+          "url": "https://www.elsaltodiario.com/medioambiente/francia-prohibe-vuelos-cortos-alternativa-tren"
+        },
+        {
+          "titulo": "RTVC: los vuelos cortos en la Ley de Movilidad Sostenible",
+          "url": "https://rtvc.es/gobierno-baraja-suprimir-vuelos-cortos-por-el-tren/"
+        }
+      ]
+    },
+    {
+      "id": "a36",
+      "bloque": "energia",
+      "texto": "La UE debería retrasar o suavizar la prohibición de vender coches nuevos de combustión a partir de 2035.",
+      "eje": "soc",
+      "sentido": 1,
+      "contexto": "La UE aprobó en 2023 que desde 2035 no se puedan vender coches nuevos que emitan CO₂. A finales de 2025 la Comisión Europea planteó suavizar esa norma.",
+      "fuentesContexto": [
+        {
+          "titulo": "Deia: Sánchez pide mantener la prohibición de 2035",
+          "url": "https://www.deia.eus/economia/2025/12/12/sanchez-von-der-leyen-motor-combustion-10464731.amp.html",
+          "fecha": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "id": "a37",
+      "bloque": "exterior",
+      "texto": "España debe aumentar de forma importante su gasto en defensa.",
+      "eje": null,
+      "sentido": 0,
+      "contexto": "España dedicaba a defensa menos del 2 % de su PIB, el compromiso con la OTAN. En 2025 el Gobierno aprobó un plan para alcanzarlo ese mismo año; en la cumbre de ese año la OTAN fijó un objetivo del 5 % para 2035, del que España quedó al margen.",
+      "fuentesContexto": [
+        {
+          "titulo": "Ara: plan para llegar al 2 % en defensa",
+          "url": "https://es.ara.cat/politica/sanchez-aprueba-plan-inversiones-cumplir-2-defensa-ano_1_5354478.html",
+          "fecha": "2025-04-22"
+        },
+        {
+          "titulo": "RTVC: reacciones al acuerdo de la OTAN",
+          "url": "https://rtvc.es/socios-sanchez-asumen-gasto-militar-evitar-5-23-junio-2025/",
+          "fecha": "2025-06-23"
+        }
+      ]
+    },
+    {
+      "id": "a38",
+      "bloque": "exterior",
+      "texto": "España debería romper relaciones diplomáticas con Israel.",
+      "eje": null,
+      "sentido": 0,
+      "contexto": "España reconoció al Estado de Palestina en 2024 y en 2025 aprobó un embargo de armas a Israel. Romper relaciones diplomáticas supondría cerrar las embajadas y cortar los contactos oficiales entre los dos gobiernos.",
+      "fuentesContexto": [
+        {
+          "titulo": "Ondavasca: España reconoce el Estado de Palestina",
+          "url": "https://www.ondavasca.com/jose-manuel-albares-coordina-con-noruega-e-irlanda-una-respuesta-firme-a-israel/",
+          "fecha": "2024-05"
+        },
+        {
+          "titulo": "RTVC: convalidación del embargo de armas a Israel",
+          "url": "https://rtvc.es/congreso-aprueba-embargo-armas-israel-8-octubre-2025/",
+          "fecha": "2025-10-08"
+        }
+      ]
+    },
+    {
+      "id": "a39",
+      "bloque": "exterior",
+      "texto": "Hay que dar más poder a la Unión Europea, aunque España tenga que ceder soberanía.",
+      "eje": "soc",
+      "sentido": -1,
+      "contexto": "Los países de la UE ya deciden en común sobre la moneda, el comercio exterior o la competencia. Dar más poder a la UE supondría que más decisiones, por ejemplo en defensa, impuestos o política exterior, se tomaran en Bruselas y sin necesidad de unanimidad.",
+      "fuentesContexto": []
+    },
+    {
+      "id": "a40",
+      "bloque": "exterior",
+      "texto": "España debe apoyar el acuerdo comercial entre la UE y Mercosur.",
+      "eje": "eco",
+      "sentido": 1,
+      "contexto": "El acuerdo con Mercosur (Argentina, Brasil, Paraguay y Uruguay) eliminaría la mayoría de los aranceles entre los dos bloques. Suelen apoyarlo los sectores exportadores y criticarlo parte de los agricultores y ganaderos. En enero de 2026 el Parlamento Europeo pidió al Tribunal de Justicia de la UE que revise su legalidad.",
+      "fuentesContexto": [
+        {
+          "titulo": "Newtral: el voto del PP en la Eurocámara sobre el Mercosur",
+          "url": "https://www.newtral.es/acuerdo-mercosur-maria-guardiola-pp-europeo-sanchez-factcheck/20260129/",
+          "fecha": "2026-01-29"
+        },
+        {
+          "titulo": "Infoagro: PP, PSOE y PNV contra la remisión al TJUE",
+          "url": "https://www.infoagro.com/noticias/hemeroteca/?id=42968",
+          "fecha": "2026-01-22"
+        }
+      ]
+    }
+  ],
+  "notaContexto": "El contexto explica la situación actual sin decir qué partido defiende qué, para no condicionar la respuesta."
+}
