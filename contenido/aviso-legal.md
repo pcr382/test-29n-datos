@@ -12,7 +12,7 @@ Esta web es un proyecto personal de Paco CR, con contacto en pcr382.apps@gmail.c
 
 ## Exactitud de la información
 
-Los contenidos se basan en fuentes públicas, enlazadas junto a cada dato y reunidas en la página «Fuentes». Se revisan con cuidado, pero pueden contener errores u omisiones o quedar desactualizados. Si ves un error, escríbenos a [CORREO DE CONTACTO] y lo corregiremos lo antes posible. El historial de cambios de los datos es público.
+Los contenidos se basan en fuentes públicas, enlazadas junto a cada dato y reunidas en la página «Fuentes». Se revisan con cuidado, pero pueden contener errores u omisiones o quedar desactualizados. Si ves un error, escríbenos a pcr382.apps@gmail.com y lo corregiremos lo antes posible. El historial de cambios de los datos es público.
 
 ## Enlaces a otras webs
 
