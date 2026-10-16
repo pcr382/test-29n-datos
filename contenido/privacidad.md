@@ -22,6 +22,7 @@ Para mostrarte la web, el servidor recibe los datos técnicos que envía cualqui
 ### Progreso del test en tu navegador
 
 Mientras la pestaña está abierta, tu navegador guarda tus respuestas en su almacenamiento de sesión (sessionStorage) para que no pierdas el progreso al recargar. Ese almacenamiento es local: no se envía a ningún sitio, se borra al cerrar la pestaña y puedes borrarlo antes con el botón «Borrar mis respuestas». No es una cookie.
+Si instalas la app, tu navegador guarda una copia de sus archivos y de los datos públicos para que funcione sin conexión. Esa copia no incluye tus respuestas.
 
 ### Fase 2: funciones con inteligencia artificial
 
