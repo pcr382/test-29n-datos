@@ -20,7 +20,7 @@ La web enlaza a fuentes externas (boletines oficiales, programas electorales y m
 
 ## Propiedad intelectual
 
-- Los textos propios y los datos elaborados para esta web se publican bajo licencia [Creative Commons Reconocimiento 4.0 (CC BY 4.0)], salvo que se indique otra cosa.
+- Los textos propios y los datos elaborados para esta web se publican bajo licencia Creative Commons Reconocimiento 4.0 (CC BY 4.0), salvo que se indique otra cosa.
 - Los nombres y siglas de los partidos se usan solo para identificarlos. La web no usa sus logotipos.
 - Las citas, los documentos y las noticias enlazados pertenecen a sus autores.
 
