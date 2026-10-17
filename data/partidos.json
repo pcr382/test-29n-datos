@@ -1,6 +1,6 @@
 {
-  "version": "0.3",
-  "actualizado": "2026-10-11",
+  "version": "0.4",
+  "actualizado": "2026-10-17",
   "aviso": "Candidaturas anunciadas hasta el 11 de octubre; se confirmarán con la proclamación del BOE (3 de noviembre). Las fichas no usan etiquetas ideológicas: la posición de cada partido se ve en la brújula y en sus posturas. puntosClave se rellenará con los programas.",
   "partidos": [
     {
@@ -18,13 +18,13 @@
         "48"
       ],
       "candidato": {
-        "nombre": null,
-        "estado": "pendiente",
-        "nota": "La dirección hará una propuesta que votarán las bases.",
+        "nombre": "Oskar Matute",
+        "estado": "propuesto",
+        "nota": "Encabeza la lista por Bizkaia y sería su portavoz en el Congreso. Por Gipuzkoa, Oihana Etxebarrieta, y por Álava, Mikel Otero.",
         "fuente": {
-          "titulo": "Noticias de Gipuzkoa: los partidos mueven ficha para el 29N",
-          "url": "https://www.noticiasdegipuzkoa.eus/politica/2026/10/06/partidos-mueven-ficha-29n-junqueras-11624262.html",
-          "fecha": "2026-10-06"
+          "titulo": "moncloa.com: EH Bildu propone a Oskar Matute como referencia en el Congreso para el 29N",
+          "url": "https://www.moncloa.com/2026/10/16/eh-bildu-candidatos-generales-29n-3449751/",
+          "fecha": "2026-10-16"
         }
       },
       "web": "https://ehbildu.eus",
@@ -113,8 +113,12 @@
       "candidato": {
         "nombre": null,
         "estado": "pendiente",
-        "nota": null,
-        "fuente": null
+        "nota": "Se apunta a Néstor Rego, su diputado desde 2019, pero el BNG aún no ha anunciado su candidatura.",
+        "fuente": {
+          "titulo": "GNDiario: candidatos y partidos que ya han confirmado sus listas para el 29N",
+          "url": "https://gndiario.com/elecciones-generales-2026-candidatos-listas",
+          "fecha": "2026-10-16"
+        }
       },
       "web": "https://www.bng.gal",
       "programa": {
@@ -197,12 +201,12 @@
       ],
       "candidato": {
         "nombre": "Cristina Valido",
-        "estado": "propuesto",
-        "nota": "Por Santa Cruz de Tenerife; explora coaliciones en Las Palmas.",
+        "estado": "confirmado",
+        "nota": "Encabeza la lista por Santa Cruz de Tenerife; por Las Palmas, Teodoro Sosa.",
         "fuente": {
-          "titulo": "RTVC: CC propone a Cristina Valido",
-          "url": "https://rtvc.es/coalicion-canaria-propone-cristina-valido-candidata-congreso-explora-coaliciones-las-palmas-5-octubre-2026/",
-          "fecha": "2026-10-05"
+          "titulo": "Atlántico Hoy: CC, Primero Canarias y una veintena de formaciones sellan su unión para el 29N",
+          "url": "https://www.atlanticohoy.com/politica/cc-primero-canarias-veintena-formaciones-sellan-su-union-ir-juntas-congreso-senado-29-n_1568600_102.html",
+          "fecha": "2026-10-17"
         }
       },
       "web": "https://www.coalicioncanaria.org",
@@ -263,7 +267,15 @@
           "escanos": 1
         }
       },
-      "puntosClave": []
+      "puntosClave": [],
+      "nota": "Concurre en alianza con Municipalistas Primero Canarias y una veintena de formaciones locales: «Coalición Canaria-Primero Canarias» en Santa Cruz de Tenerife y «Primero Canarias-Coalición Canaria» en Las Palmas.",
+      "notaFuentes": [
+        {
+          "titulo": "Atlántico Hoy: CC, Primero Canarias y una veintena de formaciones sellan su unión para el 29N",
+          "url": "https://www.atlanticohoy.com/politica/cc-primero-canarias-veintena-formaciones-sellan-su-union-ir-juntas-congreso-senado-29-n_1568600_102.html",
+          "fecha": "2026-10-17"
+        }
+      ]
     },
     {
       "id": "erc",
@@ -354,7 +366,15 @@
           "escanos": 4
         }
       },
-      "puntosClave": []
+      "puntosClave": [],
+      "nota": "En Cataluña, sus listas incluirán candidatos de Podemos, que no presenta lista propia allí.",
+      "notaFuentes": [
+        {
+          "titulo": "Infobae: así quedan los acuerdos de la izquierda para el 29N en cada comunidad",
+          "url": "https://www.infobae.com/espana/2026/10/17/asi-quedan-los-acuerdos-de-la-izquierda-para-las-elecciones-generales-del-29-n-estas-son-las-listas-a-la-izquierda-del-psoe-en-cada-comunidad-autonoma/",
+          "fecha": "2026-10-17"
+        }
+      ]
     },
     {
       "id": "frente-amplio",
@@ -366,13 +386,13 @@
       "ambito": "estatal",
       "circunscripciones": "todas",
       "candidato": {
-        "nombre": null,
-        "estado": "pendiente",
-        "nota": "Lo anunciará el 17 de octubre.",
+        "nombre": "Ada Colau",
+        "estado": "confirmado",
+        "nota": "Encabeza la lista por Barcelona; por Madrid, Emilio Delgado.",
         "fuente": {
-          "titulo": "El Debate: candidatos para el 29N",
-          "url": "https://www.eldebate.com/espana/20261005/quienes-podrian-candidatos-elecciones-generales-proximo-29n_466293.html",
-          "fecha": "2026-10-05"
+          "titulo": "Infobae: así quedan los acuerdos de la izquierda para el 29N en cada comunidad",
+          "url": "https://www.infobae.com/espana/2026/10/17/asi-quedan-los-acuerdos-de-la-izquierda-para-las-elecciones-generales-del-29-n-estas-son-las-listas-a-la-izquierda-del-psoe-en-cada-comunidad-autonoma/",
+          "fecha": "2026-10-17"
         }
       },
       "web": null,
@@ -399,7 +419,7 @@
           }
         ]
       },
-      "nota": "Coalición de Movimiento Sumar, IU, Más Madrid y Comuns; se presenta el 17 de octubre. Hereda las votaciones del grupo Sumar.",
+      "nota": "Coalición de quince organizaciones, entre ellas Movimiento Sumar, IU, Más Madrid y Comuns. Hereda las votaciones del grupo Sumar. En algunas comunidades se presenta con marcas propias junto a partidos territoriales, y en Canarias y la Comunitat Valenciana, en listas conjuntas con Podemos. Al Senado concurre junto al PSOE como «Senado de Progreso».",
       "referenciaEstatal": true,
       "investidura2023": {
         "sanchez": "a favor",
@@ -424,7 +444,24 @@
         "paginas": 182
       },
       "provincias2023": null,
-      "puntosClave": []
+      "puntosClave": [],
+      "notaFuentes": [
+        {
+          "titulo": "Sabemos: Ada Colau encabeza el Frente Amplio, una coalición de quince formaciones",
+          "url": "https://diariosabemos.com/analisis/cronica/ada-colau-frente-amplio-psoe-podemos-vivienda-elecciones_519414_102.html",
+          "fecha": "2026-10-17"
+        },
+        {
+          "titulo": "Infobae: así quedan los acuerdos de la izquierda para el 29N en cada comunidad",
+          "url": "https://www.infobae.com/espana/2026/10/17/asi-quedan-los-acuerdos-de-la-izquierda-para-las-elecciones-generales-del-29-n-estas-son-las-listas-a-la-izquierda-del-psoe-en-cada-comunidad-autonoma/",
+          "fecha": "2026-10-17"
+        },
+        {
+          "titulo": "eldiario.es: el PSOE y Frente Amplio acuerdan listas conjuntas al Senado",
+          "url": "https://www.eldiario.es/politica/psoe-frente-amplio-llegan-acuerdo-presentar-listas-conjuntas-senado_1_13583230.html",
+          "fecha": "2026-10-17"
+        }
+      ]
     },
     {
       "id": "junts",
@@ -532,13 +569,13 @@
         "48"
       ],
       "candidato": {
-        "nombre": null,
-        "estado": "pendiente",
-        "nota": "Debe elegir el relevo de Aitor Esteban por Bizkaia.",
+        "nombre": "Maribel Vaquero",
+        "estado": "confirmado",
+        "nota": "Su portavoz en el Congreso; encabeza la lista por Gipuzkoa. Por Bizkaia, Idoia Sagastizabal, y por Álava, Gorka Urtaran.",
         "fuente": {
-          "titulo": "Noticias de Gipuzkoa: los partidos mueven ficha para el 29N",
-          "url": "https://www.noticiasdegipuzkoa.eus/politica/2026/10/06/partidos-mueven-ficha-29n-junqueras-11624262.html",
-          "fecha": "2026-10-06"
+          "titulo": "moncloa.com: el PNV ratifica a Vaquero, Sagastizabal y Urtaran como cabezas de lista al Congreso",
+          "url": "https://www.moncloa.com/2026/10/17/listas-pnv-congreso-29n-3450355",
+          "fecha": "2026-10-17"
         }
       },
       "web": "https://www.eaj-pnv.eus",
@@ -615,12 +652,12 @@
       "circunscripciones": "todas",
       "candidato": {
         "nombre": "Irene Montero",
-        "estado": "propuesto",
-        "nota": "Ha propuesto primarias abiertas con Frente Amplio el 14 y 15 de octubre.",
+        "estado": "confirmado",
+        "nota": "Encabeza la lista por Madrid.",
         "fuente": {
-          "titulo": "El Debate: candidatos para el 29N",
-          "url": "https://www.eldebate.com/espana/20261005/quienes-podrian-candidatos-elecciones-generales-proximo-29n_466293.html",
-          "fecha": "2026-10-05"
+          "titulo": "Infobae: así quedan los acuerdos de la izquierda para el 29N en cada comunidad",
+          "url": "https://www.infobae.com/espana/2026/10/17/asi-quedan-los-acuerdos-de-la-izquierda-para-las-elecciones-generales-del-29-n-estas-son-las-listas-a-la-izquierda-del-psoe-en-cada-comunidad-autonoma/",
+          "fecha": "2026-10-17"
         }
       },
       "web": "https://podemos.info",
@@ -647,7 +684,7 @@
           }
         ]
       },
-      "nota": "Negocia integrarse en el Frente Amplio; si lo hace, se unificarán ambas fichas.",
+      "nota": "No se ha integrado en el Frente Amplio. En Cataluña no presenta lista propia y aporta candidatos a las de ERC. En Canarias («Unidad del Pueblo Canario») y en la Comunitat Valenciana («Compromís-Front Valencià») va en listas conjuntas con partidos del Frente Amplio.",
       "referenciaEstatal": true,
       "investidura2023": {
         "sanchez": "a favor",
@@ -673,7 +710,14 @@
         "nota": "Concurrió dentro de Sumar."
       },
       "provincias2023": null,
-      "puntosClave": []
+      "puntosClave": [],
+      "notaFuentes": [
+        {
+          "titulo": "Infobae: así quedan los acuerdos de la izquierda para el 29N en cada comunidad",
+          "url": "https://www.infobae.com/espana/2026/10/17/asi-quedan-los-acuerdos-de-la-izquierda-para-las-elecciones-generales-del-29-n-estas-son-las-listas-a-la-izquierda-del-psoe-en-cada-comunidad-autonoma/",
+          "fecha": "2026-10-17"
+        }
+      ]
     },
     {
       "id": "pp",
@@ -742,7 +786,15 @@
         "paginas": 112
       },
       "provincias2023": null,
-      "puntosClave": []
+      "puntosClave": [],
+      "nota": "En Navarra concurre en coalición con UPN («Unión del Pueblo Navarro en coalición con el Partido Popular»).",
+      "notaFuentes": [
+        {
+          "titulo": "Infobae (EFE): UPN aprueba el acuerdo para concurrir con el PP a las elecciones generales",
+          "url": "https://www.infobae.com/espana/agencias/2026/10/13/upn-aprueba-el-acuerdo-para-concurrir-con-el-pp-a-las-elecciones-generales/",
+          "fecha": "2026-10-13"
+        }
+      ]
     },
     {
       "id": "psoe",
@@ -811,7 +863,20 @@
         "paginas": 272
       },
       "provincias2023": null,
-      "puntosClave": []
+      "puntosClave": [],
+      "nota": "Al Senado concurre en coalición («Senado de Progreso») con IU, Movimiento Sumar, Más Madrid, Compromís, Chunta Aragonesista, Batzarre y Ceuta Ya en 47 circunscripciones. El acuerdo no incluye las provincias catalanas ni las vascas, entre otras.",
+      "notaFuentes": [
+        {
+          "titulo": "eldiario.es: el PSOE y Frente Amplio acuerdan listas conjuntas al Senado",
+          "url": "https://www.eldiario.es/politica/psoe-frente-amplio-llegan-acuerdo-presentar-listas-conjuntas-senado_1_13583230.html",
+          "fecha": "2026-10-17"
+        },
+        {
+          "titulo": "El Español: el PSOE y Frente Amplio irán juntos al Senado como «Senado de Progreso»",
+          "url": "https://www.elespanol.com/espana/politica/20261017/psoe-frente-amplio-acuerdan-ir-juntos-senado-coalicion-llamara-progreso/1003744423896_0.html",
+          "fecha": "2026-10-17"
+        }
+      ]
     },
     {
       "id": "upn",
@@ -827,8 +892,12 @@
       "candidato": {
         "nombre": null,
         "estado": "pendiente",
-        "nota": null,
-        "fuente": null
+        "nota": "La coalición con el PP presenta a Feijóo como candidato a la Presidencia. UPN elegirá a la cabeza de lista al Congreso, que será una mujer y aún no tiene nombre.",
+        "fuente": {
+          "titulo": "Infobae (EFE): UPN aprueba el acuerdo para concurrir con el PP a las elecciones generales",
+          "url": "https://www.infobae.com/espana/agencias/2026/10/13/upn-aprueba-el-acuerdo-para-concurrir-con-el-pp-a-las-elecciones-generales/",
+          "fecha": "2026-10-13"
+        }
       },
       "web": "https://www.upn.org",
       "programa": {
@@ -884,7 +953,15 @@
           "escanos": 1
         }
       },
-      "puntosClave": []
+      "puntosClave": [],
+      "nota": "Concurre en coalición con el PP («Unión del Pueblo Navarro en coalición con el Partido Popular») al Congreso y al Senado. Sus diputados y senadores irían al Grupo Mixto, con libertad de voto.",
+      "notaFuentes": [
+        {
+          "titulo": "Infobae (EFE): UPN aprueba el acuerdo para concurrir con el PP a las elecciones generales",
+          "url": "https://www.infobae.com/espana/agencias/2026/10/13/upn-aprueba-el-acuerdo-para-concurrir-con-el-pp-a-las-elecciones-generales/",
+          "fecha": "2026-10-13"
+        }
+      ]
     },
     {
       "id": "vox",
@@ -956,5 +1033,243 @@
       "puntosClave": []
     }
   ],
-  "criterioReferencia": "Se muestran fuera de su territorio los partidos que se presentan en toda España y los territoriales con grupo propio en el Congreso saliente (ERC, Junts, EH Bildu y PNV)."
+  "criterioReferencia": "Se muestran fuera de su territorio los partidos que se presentan en toda España y los territoriales con grupo propio en el Congreso saliente (ERC, Junts, EH Bildu y PNV).",
+  "coaliciones": [
+    {
+      "id": "upn-pp",
+      "nombre": "Unión del Pueblo Navarro en coalición con el Partido Popular",
+      "partidos": [
+        "upn",
+        "pp"
+      ],
+      "circunscripciones": [
+        "31"
+      ],
+      "camaras": [
+        "congreso",
+        "senado"
+      ],
+      "nota": "UPN elige a la cabeza de lista al Congreso y el PP, al número dos.",
+      "fuentes": [
+        {
+          "titulo": "Infobae (EFE): UPN aprueba el acuerdo para concurrir con el PP a las elecciones generales",
+          "url": "https://www.infobae.com/espana/agencias/2026/10/13/upn-aprueba-el-acuerdo-para-concurrir-con-el-pp-a-las-elecciones-generales/",
+          "fecha": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "unidad-pueblo-canario",
+      "nombre": "Unidad del Pueblo Canario",
+      "partidos": [
+        "podemos",
+        "frente-amplio"
+      ],
+      "circunscripciones": [
+        "35",
+        "38"
+      ],
+      "camaras": [
+        "congreso"
+      ],
+      "nota": "Integra a Podemos, IU, Movimiento Sumar y Nueva Canarias-Bloque Canarista.",
+      "fuentes": [
+        {
+          "titulo": "Infobae: así quedan los acuerdos de la izquierda para el 29N en cada comunidad",
+          "url": "https://www.infobae.com/espana/2026/10/17/asi-quedan-los-acuerdos-de-la-izquierda-para-las-elecciones-generales-del-29-n-estas-son-las-listas-a-la-izquierda-del-psoe-en-cada-comunidad-autonoma/",
+          "fecha": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "compromis-front-valencia",
+      "nombre": "Compromís-Front Valencià",
+      "partidos": [
+        "podemos",
+        "frente-amplio"
+      ],
+      "circunscripciones": [
+        "03",
+        "12",
+        "46"
+      ],
+      "camaras": [
+        "congreso"
+      ],
+      "nota": "Integra a Compromís, Podemos, Esquerra Unida del País Valencià y Esquerra Republicana del País Valencià. Podemos encabeza la lista por Alicante.",
+      "fuentes": [
+        {
+          "titulo": "Infobae: así quedan los acuerdos de la izquierda para el 29N en cada comunidad",
+          "url": "https://www.infobae.com/espana/2026/10/17/asi-quedan-los-acuerdos-de-la-izquierda-para-las-elecciones-generales-del-29-n-estas-son-las-listas-a-la-izquierda-del-psoe-en-cada-comunidad-autonoma/",
+          "fecha": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "erc-podemos",
+      "nombre": "ERC, con candidatos de Podemos",
+      "partidos": [
+        "erc",
+        "podemos"
+      ],
+      "circunscripciones": [
+        "08",
+        "17",
+        "25",
+        "43"
+      ],
+      "camaras": [
+        "congreso"
+      ],
+      "nota": "Podemos no presenta lista propia en Cataluña y aporta candidatos a las listas de ERC. El nombre exacto en la papeleta se conocerá con la proclamación de candidaturas.",
+      "fuentes": [
+        {
+          "titulo": "Infobae: así quedan los acuerdos de la izquierda para el 29N en cada comunidad",
+          "url": "https://www.infobae.com/espana/2026/10/17/asi-quedan-los-acuerdos-de-la-izquierda-para-las-elecciones-generales-del-29-n-estas-son-las-listas-a-la-izquierda-del-psoe-en-cada-comunidad-autonoma/",
+          "fecha": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "ara-mes-front-ampli",
+      "nombre": "Ara MÉS-Front Ampli",
+      "partidos": [
+        "frente-amplio"
+      ],
+      "circunscripciones": [
+        "07"
+      ],
+      "camaras": [
+        "congreso"
+      ],
+      "nota": "Con MÉS per Mallorca, Més per Menorca y Ara Eivissa.",
+      "fuentes": [
+        {
+          "titulo": "Infobae: así quedan los acuerdos de la izquierda para el 29N en cada comunidad",
+          "url": "https://www.infobae.com/espana/2026/10/17/asi-quedan-los-acuerdos-de-la-izquierda-para-las-elecciones-generales-del-29-n-estas-son-las-listas-a-la-izquierda-del-psoe-en-cada-comunidad-autonoma/",
+          "fecha": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "cha-frente-amplio-aragon",
+      "nombre": "Chunta Aragonesista-Frente Amplio Aragón",
+      "partidos": [
+        "frente-amplio"
+      ],
+      "circunscripciones": [
+        "22",
+        "44",
+        "50"
+      ],
+      "camaras": [
+        "congreso"
+      ],
+      "nota": "Con Chunta Aragonesista, Partido Verde y Recortes Cero.",
+      "fuentes": [
+        {
+          "titulo": "Infobae: así quedan los acuerdos de la izquierda para el 29N en cada comunidad",
+          "url": "https://www.infobae.com/espana/2026/10/17/asi-quedan-los-acuerdos-de-la-izquierda-para-las-elecciones-generales-del-29-n-estas-son-las-listas-a-la-izquierda-del-psoe-en-cada-comunidad-autonoma/",
+          "fecha": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-por-andalucia",
+      "nombre": "Frente Amplio Por Andalucía",
+      "partidos": [
+        "frente-amplio"
+      ],
+      "circunscripciones": [
+        "04",
+        "11",
+        "14",
+        "18",
+        "21",
+        "23",
+        "29",
+        "41"
+      ],
+      "camaras": [
+        "congreso"
+      ],
+      "nota": "Con Iniciativa del Pueblo Andaluz y Verdes Equo.",
+      "fuentes": [
+        {
+          "titulo": "Infobae: así quedan los acuerdos de la izquierda para el 29N en cada comunidad",
+          "url": "https://www.infobae.com/espana/2026/10/17/asi-quedan-los-acuerdos-de-la-izquierda-para-las-elecciones-generales-del-29-n-estas-son-las-listas-a-la-izquierda-del-psoe-en-cada-comunidad-autonoma/",
+          "fecha": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "cc-primero-canarias-tf",
+      "nombre": "Coalición Canaria-Primero Canarias",
+      "partidos": [
+        "cc"
+      ],
+      "circunscripciones": [
+        "38"
+      ],
+      "camaras": [
+        "congreso",
+        "senado"
+      ],
+      "nota": "Con Municipalistas Primero Canarias.",
+      "fuentes": [
+        {
+          "titulo": "Atlántico Hoy: CC, Primero Canarias y una veintena de formaciones sellan su unión para el 29N",
+          "url": "https://www.atlanticohoy.com/politica/cc-primero-canarias-veintena-formaciones-sellan-su-union-ir-juntas-congreso-senado-29-n_1568600_102.html",
+          "fecha": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "primero-canarias-cc-lp",
+      "nombre": "Primero Canarias-Coalición Canaria",
+      "partidos": [
+        "cc"
+      ],
+      "circunscripciones": [
+        "35"
+      ],
+      "camaras": [
+        "congreso",
+        "senado"
+      ],
+      "nota": "Con Municipalistas Primero Canarias.",
+      "fuentes": [
+        {
+          "titulo": "Atlántico Hoy: CC, Primero Canarias y una veintena de formaciones sellan su unión para el 29N",
+          "url": "https://www.atlanticohoy.com/politica/cc-primero-canarias-veintena-formaciones-sellan-su-union-ir-juntas-congreso-senado-29-n_1568600_102.html",
+          "fecha": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "senado-de-progreso",
+      "nombre": "Senado de Progreso",
+      "partidos": [
+        "psoe",
+        "frente-amplio"
+      ],
+      "circunscripciones": null,
+      "camaras": [
+        "senado"
+      ],
+      "nota": "PSOE, IU, Movimiento Sumar, Más Madrid, Compromís, Chunta Aragonesista, Batzarre y Ceuta Ya en 47 circunscripciones del Senado. No incluye las provincias catalanas ni las vascas, entre otras.",
+      "fuentes": [
+        {
+          "titulo": "eldiario.es: el PSOE y Frente Amplio acuerdan listas conjuntas al Senado",
+          "url": "https://www.eldiario.es/politica/psoe-frente-amplio-llegan-acuerdo-presentar-listas-conjuntas-senado_1_13583230.html",
+          "fecha": "2026-10-17"
+        },
+        {
+          "titulo": "El Español: el PSOE y Frente Amplio irán juntos al Senado como «Senado de Progreso»",
+          "url": "https://www.elespanol.com/espana/politica/20261017/psoe-frente-amplio-acuerdan-ir-juntos-senado-coalicion-llamara-progreso/1003744423896_0.html",
+          "fecha": "2026-10-17"
+        }
+      ]
+    }
+  ]
 }

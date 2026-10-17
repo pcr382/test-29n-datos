@@ -1,6 +1,6 @@
 {
   "version": "0.1",
-  "generado": "2026-10-13",
+  "generado": "2026-10-17",
   "descripcion": "Todas las fuentes de la app, sin duplicados. «usos» dice dónde se cita cada una; «archivo» abre la copia de la Wayback Machine si existe.",
   "tipos": {
     "oficial": "Fuentes oficiales",
@@ -8,11 +8,11 @@
     "medio": "Medios de comunicación",
     "referencia": "Otras referencias"
   },
-  "total": 158,
+  "total": 165,
   "porTipo": {
     "oficial": 4,
     "programa": 13,
-    "medio": 139,
+    "medio": 146,
     "referencia": 2
   },
   "fuentes": [
@@ -1556,6 +1556,38 @@
     {
       "id": "f031",
       "tipo": "medio",
+      "medio": "Atlántico Hoy",
+      "titulo": "Atlántico Hoy: CC, Primero Canarias y una veintena de formaciones sellan su unión para el 29N",
+      "fecha": "2026-10-17",
+      "url": "https://www.atlanticohoy.com/politica/cc-primero-canarias-veintena-formaciones-sellan-su-union-ir-juntas-congreso-senado-29-n_1568600_102.html",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://www.atlanticohoy.com/politica/cc-primero-canarias-veintena-formaciones-sellan-su-union-ir-juntas-congreso-senado-29-n_1568600_102.html",
+      "usos": [
+        {
+          "seccion": "ficha",
+          "partido": "CC",
+          "dato": "candidatura"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "CC",
+          "dato": "nota"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "CC",
+          "dato": "coalición «Coalición Canaria-Primero Canarias»"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "CC",
+          "dato": "coalición «Primero Canarias-Coalición Canaria»"
+        }
+      ]
+    },
+    {
+      "id": "f032",
+      "tipo": "medio",
       "medio": "Ayuda-Social.es",
       "titulo": "Ayuda-Social.es: la convocatoria tras la caída de los decretos de vivienda",
       "fecha": "2026-10",
@@ -1570,7 +1602,7 @@
       ]
     },
     {
-      "id": "f032",
+      "id": "f033",
       "tipo": "medio",
       "medio": "Bolsamanía",
       "titulo": "Bolsamanía (Europa Press): prioridad nacional en las ayudas a la vivienda",
@@ -1646,7 +1678,7 @@
       ]
     },
     {
-      "id": "f033",
+      "id": "f034",
       "tipo": "medio",
       "medio": "Bolsamanía",
       "titulo": "Bolsamanía (Europa Press): moción de ERC sobre el salario mínimo catalán",
@@ -1678,7 +1710,7 @@
       ]
     },
     {
-      "id": "f034",
+      "id": "f035",
       "tipo": "medio",
       "medio": "Deia",
       "titulo": "Deia: Sánchez pide mantener la prohibición de 2035",
@@ -1699,7 +1731,7 @@
       ]
     },
     {
-      "id": "f035",
+      "id": "f036",
       "tipo": "medio",
       "medio": "Deia",
       "titulo": "Deia: la amnistía pactada con los partidos catalanes",
@@ -1721,7 +1753,7 @@
       ]
     },
     {
-      "id": "f036",
+      "id": "f037",
       "tipo": "medio",
       "medio": "Deia",
       "titulo": "Deia: moción de Vox en el Senado contra ERC y Junts",
@@ -1743,7 +1775,7 @@
       ]
     },
     {
-      "id": "f037",
+      "id": "f038",
       "tipo": "medio",
       "medio": "Deia",
       "titulo": "Deia: Elkarrekin Podemos-IU pide un referéndum sobre la monarquía",
@@ -1760,7 +1792,7 @@
       ]
     },
     {
-      "id": "f038",
+      "id": "f039",
       "tipo": "medio",
       "medio": "Diario de León",
       "titulo": "Diario de León (EFE): Junts confirma a Míriam Nogueras",
@@ -1777,7 +1809,7 @@
       ]
     },
     {
-      "id": "f039",
+      "id": "f040",
       "tipo": "medio",
       "medio": "Diario de León",
       "titulo": "Diario de León (Europa Press): reparto de escaños del Real Decreto 806/2026",
@@ -1792,7 +1824,7 @@
       ]
     },
     {
-      "id": "f040",
+      "id": "f041",
       "tipo": "medio",
       "medio": "Diario de León",
       "titulo": "Diario de León: el fin del voto rogado",
@@ -1807,7 +1839,7 @@
       ]
     },
     {
-      "id": "f041",
+      "id": "f042",
       "tipo": "medio",
       "medio": "Diario de León",
       "titulo": "Diario de León (EFE): decretos de alquiler y su derogación",
@@ -1853,7 +1885,7 @@
       ]
     },
     {
-      "id": "f042",
+      "id": "f043",
       "tipo": "medio",
       "medio": "Diario de León",
       "titulo": "Diario de León: plan migratorio del PP",
@@ -1875,7 +1907,7 @@
       ]
     },
     {
-      "id": "f043",
+      "id": "f044",
       "tipo": "medio",
       "medio": "Diario Estrategia",
       "titulo": "Diario Estrategia (Europa Press): Belarra y la gestión privada sanitaria (enero de 2026)",
@@ -1892,7 +1924,7 @@
       ]
     },
     {
-      "id": "f044",
+      "id": "f045",
       "tipo": "medio",
       "medio": "El Debate",
       "titulo": "El Debate: candidatos para el 29N",
@@ -1901,16 +1933,6 @@
       "paginas": [],
       "archivo": "https://web.archive.org/web/https://www.eldebate.com/espana/20261005/quienes-podrian-candidatos-elecciones-generales-proximo-29n_466293.html",
       "usos": [
-        {
-          "seccion": "ficha",
-          "partido": "FA",
-          "dato": "candidatura"
-        },
-        {
-          "seccion": "ficha",
-          "partido": "Podemos",
-          "dato": "candidatura"
-        },
         {
           "seccion": "ficha",
           "partido": "PP",
@@ -1929,7 +1951,7 @@
       ]
     },
     {
-      "id": "f045",
+      "id": "f046",
       "tipo": "medio",
       "medio": "El Debate",
       "titulo": "El Debate: leyes de PP y Vox sobre el castellano en Baleares",
@@ -1951,7 +1973,7 @@
       ]
     },
     {
-      "id": "f046",
+      "id": "f047",
       "tipo": "medio",
       "medio": "El Debate",
       "titulo": "El Debate: posiciones de PNV y CC sobre la ley de Junts",
@@ -1968,7 +1990,7 @@
       ]
     },
     {
-      "id": "f047",
+      "id": "f048",
       "tipo": "medio",
       "medio": "El Debate",
       "titulo": "El Debate: la Religión con la LOMLOE",
@@ -1989,7 +2011,7 @@
       ]
     },
     {
-      "id": "f048",
+      "id": "f049",
       "tipo": "medio",
       "medio": "El Debate",
       "titulo": "El Debate: Vox pide recuperar el horario de Religión",
@@ -2006,7 +2028,7 @@
       ]
     },
     {
-      "id": "f049",
+      "id": "f050",
       "tipo": "medio",
       "medio": "El Debate",
       "titulo": "El Debate: iniciativas de Vox rechazadas por el resto de grupos",
@@ -2038,7 +2060,7 @@
       ]
     },
     {
-      "id": "f050",
+      "id": "f051",
       "tipo": "medio",
       "medio": "El Derecho",
       "titulo": "El Derecho: contenido del Real Decreto 806/2026",
@@ -2053,7 +2075,34 @@
       ]
     },
     {
-      "id": "f051",
+      "id": "f052",
+      "tipo": "medio",
+      "medio": "El Español",
+      "titulo": "El Español: el PSOE y Frente Amplio irán juntos al Senado como «Senado de Progreso»",
+      "fecha": "2026-10-17",
+      "url": "https://www.elespanol.com/espana/politica/20261017/psoe-frente-amplio-acuerdan-ir-juntos-senado-coalicion-llamara-progreso/1003744423896_0.html",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://www.elespanol.com/espana/politica/20261017/psoe-frente-amplio-acuerdan-ir-juntos-senado-coalicion-llamara-progreso/1003744423896_0.html",
+      "usos": [
+        {
+          "seccion": "ficha",
+          "partido": "PSOE",
+          "dato": "nota"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "PSOE",
+          "dato": "coalición «Senado de Progreso»"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "FA",
+          "dato": "coalición «Senado de Progreso»"
+        }
+      ]
+    },
+    {
+      "id": "f053",
       "tipo": "medio",
       "medio": "El Español",
       "titulo": "El Español: decreto que congela los alquileres hasta 2028",
@@ -2074,7 +2123,7 @@
       ]
     },
     {
-      "id": "f052",
+      "id": "f054",
       "tipo": "medio",
       "medio": "El Español",
       "titulo": "El Español: conciertos de Bachillerato en Aragón (PP y Vox)",
@@ -2095,7 +2144,7 @@
       ]
     },
     {
-      "id": "f053",
+      "id": "f055",
       "tipo": "medio",
       "medio": "El Español",
       "titulo": "El Español: críticas de PNV, Junts y Podemos a la reforma del aborto",
@@ -2117,7 +2166,7 @@
       ]
     },
     {
-      "id": "f054",
+      "id": "f056",
       "tipo": "medio",
       "medio": "El Independiente",
       "titulo": "El Independiente: propuesta de salario mínimo para 2026",
@@ -2139,7 +2188,7 @@
       ]
     },
     {
-      "id": "f055",
+      "id": "f057",
       "tipo": "medio",
       "medio": "El Independiente",
       "titulo": "El Independiente: el Gobierno descarta la ruptura con Israel",
@@ -2166,7 +2215,7 @@
       ]
     },
     {
-      "id": "f056",
+      "id": "f058",
       "tipo": "medio",
       "medio": "El Independiente",
       "titulo": "El Independiente: propuestas de financiación de PSC y ERC",
@@ -2187,7 +2236,7 @@
       ]
     },
     {
-      "id": "f057",
+      "id": "f059",
       "tipo": "medio",
       "medio": "El Independiente",
       "titulo": "El Independiente: abstenciones en la ley trans",
@@ -2209,7 +2258,7 @@
       ]
     },
     {
-      "id": "f058",
+      "id": "f060",
       "tipo": "medio",
       "medio": "El Independiente",
       "titulo": "El Independiente: el PP y el impuesto de Patrimonio",
@@ -2230,7 +2279,7 @@
       ]
     },
     {
-      "id": "f059",
+      "id": "f061",
       "tipo": "medio",
       "medio": "El Nacional",
       "titulo": "El Nacional: los programas de los partidos catalanes en 2023",
@@ -2247,7 +2296,7 @@
       ]
     },
     {
-      "id": "f060",
+      "id": "f062",
       "tipo": "medio",
       "medio": "El Nacional",
       "titulo": "El Nacional: qué propone EH Bildu en su programa de 2023",
@@ -2264,7 +2313,7 @@
       ]
     },
     {
-      "id": "f061",
+      "id": "f063",
       "tipo": "medio",
       "medio": "El Nacional",
       "titulo": "El Nacional (inglés): la ministra Montero y la ley trans (febrero de 2023)",
@@ -2281,7 +2330,7 @@
       ]
     },
     {
-      "id": "f062",
+      "id": "f064",
       "tipo": "medio",
       "medio": "El Nuevo Diario",
       "titulo": "El Nuevo Diario: enmiendas contra la derogación de la prisión permanente rechazadas (2018)",
@@ -2298,7 +2347,7 @@
       ]
     },
     {
-      "id": "f063",
+      "id": "f065",
       "tipo": "medio",
       "medio": "El Salto",
       "titulo": "El Salto: qué prometían PP, Vox, PSOE y Sumar en vivienda (julio de 2023)",
@@ -2315,7 +2364,7 @@
       ]
     },
     {
-      "id": "f064",
+      "id": "f066",
       "tipo": "medio",
       "medio": "El Salto",
       "titulo": "El Salto: rechazo de las enmiendas de PP y Vox a la reforma del aborto (abril de 2026)",
@@ -2332,7 +2381,7 @@
       ]
     },
     {
-      "id": "f065",
+      "id": "f067",
       "tipo": "medio",
       "medio": "El Salto",
       "titulo": "El Salto: votación de la ILP «No es mi cultura» (octubre de 2025)",
@@ -2398,7 +2447,7 @@
       ]
     },
     {
-      "id": "f066",
+      "id": "f068",
       "tipo": "medio",
       "medio": "El Salto",
       "titulo": "El Salto: la votación de la Ley 15/1997",
@@ -2415,7 +2464,7 @@
       ]
     },
     {
-      "id": "f067",
+      "id": "f069",
       "tipo": "medio",
       "medio": "El Salto",
       "titulo": "El Salto: rechazo de las enmiendas de PP y Vox a la reforma de la «ley mordaza»",
@@ -2442,7 +2491,7 @@
       ]
     },
     {
-      "id": "f068",
+      "id": "f070",
       "tipo": "medio",
       "medio": "El Salto",
       "titulo": "El Salto: enmiendas sobre vuelos cortos en la legislatura anterior",
@@ -2473,7 +2522,39 @@
       ]
     },
     {
-      "id": "f069",
+      "id": "f071",
+      "tipo": "medio",
+      "medio": "eldiario.es",
+      "titulo": "eldiario.es: el PSOE y Frente Amplio acuerdan listas conjuntas al Senado",
+      "fecha": "2026-10-17",
+      "url": "https://www.eldiario.es/politica/psoe-frente-amplio-llegan-acuerdo-presentar-listas-conjuntas-senado_1_13583230.html",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://www.eldiario.es/politica/psoe-frente-amplio-llegan-acuerdo-presentar-listas-conjuntas-senado_1_13583230.html",
+      "usos": [
+        {
+          "seccion": "ficha",
+          "partido": "FA",
+          "dato": "nota"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "PSOE",
+          "dato": "nota"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "PSOE",
+          "dato": "coalición «Senado de Progreso»"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "FA",
+          "dato": "coalición «Senado de Progreso»"
+        }
+      ]
+    },
+    {
+      "id": "f072",
       "tipo": "medio",
       "medio": "eldiario.es",
       "titulo": "eldiario.es: la reforma de la «ley mordaza», estancada",
@@ -2494,7 +2575,7 @@
       ]
     },
     {
-      "id": "f070",
+      "id": "f073",
       "tipo": "medio",
       "medio": "eldiario.es",
       "titulo": "eldiario.es: la reforma del aborto salva los vetos de PP y Vox",
@@ -2521,7 +2602,7 @@
       ]
     },
     {
-      "id": "f071",
+      "id": "f074",
       "tipo": "medio",
       "medio": "eldiario.es",
       "titulo": "eldiario.es: PP y Vox derogan la ley balear de memoria",
@@ -2538,7 +2619,7 @@
       ]
     },
     {
-      "id": "f072",
+      "id": "f075",
       "tipo": "medio",
       "medio": "eldiario.es",
       "titulo": "eldiario.es: la abstención del PSOE en la ILP sobre tauromaquia",
@@ -2555,7 +2636,7 @@
       ]
     },
     {
-      "id": "f073",
+      "id": "f076",
       "tipo": "medio",
       "medio": "eldiario.es",
       "titulo": "eldiario.es: renovación del Pacto de Estado contra la Violencia de Género",
@@ -2631,7 +2712,7 @@
       ]
     },
     {
-      "id": "f074",
+      "id": "f077",
       "tipo": "medio",
       "medio": "eldiario.es",
       "titulo": "eldiario.es (Euskadi): el Parlamento Vasco y la Religión fuera del horario",
@@ -2648,7 +2729,7 @@
       ]
     },
     {
-      "id": "f075",
+      "id": "f078",
       "tipo": "medio",
       "medio": "eldiario.es",
       "titulo": "eldiario.es: el PP ante el plan de defensa (abril de 2025)",
@@ -2670,7 +2751,7 @@
       ]
     },
     {
-      "id": "f076",
+      "id": "f079",
       "tipo": "medio",
       "medio": "eldiario.es",
       "titulo": "eldiario.es: el camino para un referéndum sobre la monarquía (2020)",
@@ -2701,7 +2782,7 @@
       ]
     },
     {
-      "id": "f077",
+      "id": "f080",
       "tipo": "medio",
       "medio": "Energías Renovables",
       "titulo": "Energías Renovables (Europa Press): impuestos a banca y energéticas",
@@ -2738,7 +2819,7 @@
       ]
     },
     {
-      "id": "f078",
+      "id": "f081",
       "tipo": "medio",
       "medio": "Escudo Digital",
       "titulo": "Escudo Digital: Vox votará en contra del Mercosur",
@@ -2755,7 +2836,7 @@
       ]
     },
     {
-      "id": "f079",
+      "id": "f082",
       "tipo": "medio",
       "medio": "esdiario",
       "titulo": "esdiario: empresa pública de centrales hidroeléctricas",
@@ -2831,7 +2912,7 @@
       ]
     },
     {
-      "id": "f080",
+      "id": "f083",
       "tipo": "medio",
       "medio": "Euronews",
       "titulo": "Euronews: quien pide el voto por correo ya no puede votar en persona",
@@ -2846,7 +2927,7 @@
       ]
     },
     {
-      "id": "f081",
+      "id": "f084",
       "tipo": "medio",
       "medio": "Forbes España",
       "titulo": "Forbes España (Europa Press): deflactación general del IRPF",
@@ -2897,7 +2978,7 @@
       ]
     },
     {
-      "id": "f082",
+      "id": "f085",
       "tipo": "medio",
       "medio": "Forbes España",
       "titulo": "Forbes España (Europa Press): propuesta de Vox sobre cotizaciones",
@@ -2914,7 +2995,7 @@
       ]
     },
     {
-      "id": "f083",
+      "id": "f086",
       "tipo": "medio",
       "medio": "Forbes España",
       "titulo": "Forbes España (Europa Press): convalidación de la reforma de pensiones",
@@ -3034,7 +3115,7 @@
       ]
     },
     {
-      "id": "f084",
+      "id": "f087",
       "tipo": "medio",
       "medio": "Forbes España",
       "titulo": "Forbes España (Europa Press): impuestos a banca, energéticas y grandes fortunas (2022)",
@@ -3104,7 +3185,7 @@
       ]
     },
     {
-      "id": "f085",
+      "id": "f088",
       "tipo": "medio",
       "medio": "Forbes España",
       "titulo": "Forbes España (Europa Press): propuesta de Sumar sobre topes municipales al alquiler",
@@ -3121,7 +3202,7 @@
       ]
     },
     {
-      "id": "f086",
+      "id": "f089",
       "tipo": "medio",
       "medio": "Forbes España",
       "titulo": "Forbes España (Europa Press): Podemos y el calendario de cierre nuclear",
@@ -3138,7 +3219,7 @@
       ]
     },
     {
-      "id": "f087",
+      "id": "f090",
       "tipo": "medio",
       "medio": "France 24",
       "titulo": "France 24 (vía Acento): el Gobierno aprueba la regularización",
@@ -3174,7 +3255,24 @@
       ]
     },
     {
-      "id": "f088",
+      "id": "f091",
+      "tipo": "medio",
+      "medio": "GNDiario",
+      "titulo": "GNDiario: candidatos y partidos que ya han confirmado sus listas para el 29N",
+      "fecha": "2026-10-16",
+      "url": "https://gndiario.com/elecciones-generales-2026-candidatos-listas",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://gndiario.com/elecciones-generales-2026-candidatos-listas",
+      "usos": [
+        {
+          "seccion": "ficha",
+          "partido": "BNG",
+          "dato": "candidatura"
+        }
+      ]
+    },
+    {
+      "id": "f092",
       "tipo": "medio",
       "medio": "Híbridos y Eléctricos",
       "titulo": "Híbridos y Eléctricos: propuestas de movilidad para las europeas de 2024",
@@ -3201,7 +3299,7 @@
       ]
     },
     {
-      "id": "f089",
+      "id": "f093",
       "tipo": "medio",
       "medio": "Infoagro",
       "titulo": "Infoagro: PP, PSOE y PNV contra la remisión al TJUE",
@@ -3227,7 +3325,126 @@
       ]
     },
     {
-      "id": "f090",
+      "id": "f094",
+      "tipo": "medio",
+      "medio": "Infobae",
+      "titulo": "Infobae: así quedan los acuerdos de la izquierda para el 29N en cada comunidad",
+      "fecha": "2026-10-17",
+      "url": "https://www.infobae.com/espana/2026/10/17/asi-quedan-los-acuerdos-de-la-izquierda-para-las-elecciones-generales-del-29-n-estas-son-las-listas-a-la-izquierda-del-psoe-en-cada-comunidad-autonoma/",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://www.infobae.com/espana/2026/10/17/asi-quedan-los-acuerdos-de-la-izquierda-para-las-elecciones-generales-del-29-n-estas-son-las-listas-a-la-izquierda-del-psoe-en-cada-comunidad-autonoma/",
+      "usos": [
+        {
+          "seccion": "ficha",
+          "partido": "ERC",
+          "dato": "nota"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "FA",
+          "dato": "candidatura"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "FA",
+          "dato": "nota"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "Podemos",
+          "dato": "candidatura"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "Podemos",
+          "dato": "nota"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "Podemos",
+          "dato": "coalición «Unidad del Pueblo Canario»"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "FA",
+          "dato": "coalición «Unidad del Pueblo Canario»"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "Podemos",
+          "dato": "coalición «Compromís-Front Valencià»"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "FA",
+          "dato": "coalición «Compromís-Front Valencià»"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "ERC",
+          "dato": "coalición «ERC, con candidatos de Podemos»"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "Podemos",
+          "dato": "coalición «ERC, con candidatos de Podemos»"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "FA",
+          "dato": "coalición «Ara MÉS-Front Ampli»"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "FA",
+          "dato": "coalición «Chunta Aragonesista-Frente Amplio Aragón»"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "FA",
+          "dato": "coalición «Frente Amplio Por Andalucía»"
+        }
+      ]
+    },
+    {
+      "id": "f095",
+      "tipo": "medio",
+      "medio": "Infobae",
+      "titulo": "Infobae (EFE): UPN aprueba el acuerdo para concurrir con el PP a las elecciones generales",
+      "fecha": "2026-10-13",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/13/upn-aprueba-el-acuerdo-para-concurrir-con-el-pp-a-las-elecciones-generales/",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://www.infobae.com/espana/agencias/2026/10/13/upn-aprueba-el-acuerdo-para-concurrir-con-el-pp-a-las-elecciones-generales/",
+      "usos": [
+        {
+          "seccion": "ficha",
+          "partido": "PP",
+          "dato": "nota"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "UPN",
+          "dato": "candidatura"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "UPN",
+          "dato": "nota"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "UPN",
+          "dato": "coalición «Unión del Pueblo Navarro en coalición con el Partido Popular»"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "PP",
+          "dato": "coalición «Unión del Pueblo Navarro en coalición con el Partido Popular»"
+        }
+      ]
+    },
+    {
+      "id": "f096",
       "tipo": "medio",
       "medio": "La Opinión",
       "titulo": "La Opinión (vía USAL): un mes de la regularización",
@@ -3274,7 +3491,7 @@
       ]
     },
     {
-      "id": "f091",
+      "id": "f097",
       "tipo": "medio",
       "medio": "LegalToday",
       "titulo": "LegalToday: anteproyecto de Ley de Gestión Pública del SNS",
@@ -3300,7 +3517,7 @@
       ]
     },
     {
-      "id": "f092",
+      "id": "f098",
       "tipo": "medio",
       "medio": "LegalToday",
       "titulo": "LegalToday: toma en consideración de la derogación de la prisión permanente",
@@ -3341,7 +3558,7 @@
       ]
     },
     {
-      "id": "f093",
+      "id": "f099",
       "tipo": "medio",
       "medio": "LegalToday",
       "titulo": "LegalToday: iniciativas de PNV y PSOE sobre la prisión permanente",
@@ -3363,7 +3580,7 @@
       ]
     },
     {
-      "id": "f094",
+      "id": "f100",
       "tipo": "medio",
       "medio": "Mallorcadiario",
       "titulo": "Mallorcadiario: convalidación del decreto de reparto de menores (abril de 2025)",
@@ -3420,7 +3637,7 @@
       ]
     },
     {
-      "id": "f095",
+      "id": "f101",
       "tipo": "medio",
       "medio": "Mallorcadiario",
       "titulo": "Mallorcadiario: enmienda para quitar al castellano la condición de lengua vehicular (2020)",
@@ -3456,7 +3673,7 @@
       ]
     },
     {
-      "id": "f096",
+      "id": "f102",
       "tipo": "medio",
       "medio": "Menorca.info",
       "titulo": "Menorca.info (Europa Press): moción de Vox sobre prioridad nacional y repatriaciones",
@@ -3532,7 +3749,7 @@
       ]
     },
     {
-      "id": "f097",
+      "id": "f103",
       "tipo": "medio",
       "medio": "Menorca.info",
       "titulo": "Menorca.info (Europa Press): moción migratoria del PP en el Senado",
@@ -3549,7 +3766,7 @@
       ]
     },
     {
-      "id": "f098",
+      "id": "f104",
       "tipo": "medio",
       "medio": "Menorca.info",
       "titulo": "Menorca.info: Podemos y el gasto militar",
@@ -3566,7 +3783,7 @@
       ]
     },
     {
-      "id": "f099",
+      "id": "f105",
       "tipo": "medio",
       "medio": "Menorca.info",
       "titulo": "Menorca.info (Europa Press): PSOE y Sumar pactan reducir los vuelos cortos",
@@ -3598,7 +3815,7 @@
       ]
     },
     {
-      "id": "f100",
+      "id": "f106",
       "tipo": "medio",
       "medio": "Menorca.info",
       "titulo": "Menorca.info: primera votación de la investidura de Feijóo",
@@ -3670,7 +3887,7 @@
       ]
     },
     {
-      "id": "f101",
+      "id": "f107",
       "tipo": "medio",
       "medio": "Menorca.info",
       "titulo": "Menorca.info: el PP ante la devolución de competencias",
@@ -3687,7 +3904,41 @@
       ]
     },
     {
-      "id": "f102",
+      "id": "f108",
+      "tipo": "medio",
+      "medio": "moncloa.com",
+      "titulo": "moncloa.com: el PNV ratifica a Vaquero, Sagastizabal y Urtaran como cabezas de lista al Congreso",
+      "fecha": "2026-10-17",
+      "url": "https://www.moncloa.com/2026/10/17/listas-pnv-congreso-29n-3450355",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://www.moncloa.com/2026/10/17/listas-pnv-congreso-29n-3450355",
+      "usos": [
+        {
+          "seccion": "ficha",
+          "partido": "PNV",
+          "dato": "candidatura"
+        }
+      ]
+    },
+    {
+      "id": "f109",
+      "tipo": "medio",
+      "medio": "moncloa.com",
+      "titulo": "moncloa.com: EH Bildu propone a Oskar Matute como referencia en el Congreso para el 29N",
+      "fecha": "2026-10-16",
+      "url": "https://www.moncloa.com/2026/10/16/eh-bildu-candidatos-generales-29n-3449751/",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://www.moncloa.com/2026/10/16/eh-bildu-candidatos-generales-29n-3449751/",
+      "usos": [
+        {
+          "seccion": "ficha",
+          "partido": "EH Bildu",
+          "dato": "candidatura"
+        }
+      ]
+    },
+    {
+      "id": "f110",
       "tipo": "medio",
       "medio": "moncloa.com",
       "titulo": "moncloa.com: ley de Sumar para sacar la Religión de los colegios",
@@ -3713,7 +3964,7 @@
       ]
     },
     {
-      "id": "f103",
+      "id": "f111",
       "tipo": "medio",
       "medio": "moncloa.com",
       "titulo": "moncloa.com: votación del plan de «unidad nacional» de Vox",
@@ -3750,7 +4001,7 @@
       ]
     },
     {
-      "id": "f104",
+      "id": "f112",
       "tipo": "medio",
       "medio": "moncloa.com",
       "titulo": "moncloa.com: la ley trans en el Senado",
@@ -3782,7 +4033,7 @@
       ]
     },
     {
-      "id": "f105",
+      "id": "f113",
       "tipo": "medio",
       "medio": "Motor16",
       "titulo": "Motor16: el PP y el objetivo de 2035 en la Eurocámara (2022)",
@@ -3799,7 +4050,7 @@
       ]
     },
     {
-      "id": "f106",
+      "id": "f114",
       "tipo": "medio",
       "medio": "Newtral",
       "titulo": "Newtral: ley del PP para ampliar la prisión permanente revisable",
@@ -3845,7 +4096,7 @@
       ]
     },
     {
-      "id": "f107",
+      "id": "f115",
       "tipo": "medio",
       "medio": "Newtral",
       "titulo": "Newtral: el voto del PP en la Eurocámara sobre el Mercosur",
@@ -3866,7 +4117,7 @@
       ]
     },
     {
-      "id": "f108",
+      "id": "f116",
       "tipo": "medio",
       "medio": "Noticias de Gipuzkoa",
       "titulo": "Noticias de Gipuzkoa: Rufián encabezará la lista de ERC",
@@ -3883,29 +4134,7 @@
       ]
     },
     {
-      "id": "f109",
-      "tipo": "medio",
-      "medio": "Noticias de Gipuzkoa",
-      "titulo": "Noticias de Gipuzkoa: los partidos mueven ficha para el 29N",
-      "fecha": "2026-10-06",
-      "url": "https://www.noticiasdegipuzkoa.eus/politica/2026/10/06/partidos-mueven-ficha-29n-junqueras-11624262.html",
-      "paginas": [],
-      "archivo": "https://web.archive.org/web/https://www.noticiasdegipuzkoa.eus/politica/2026/10/06/partidos-mueven-ficha-29n-junqueras-11624262.html",
-      "usos": [
-        {
-          "seccion": "ficha",
-          "partido": "EH Bildu",
-          "dato": "candidatura"
-        },
-        {
-          "seccion": "ficha",
-          "partido": "PNV",
-          "dato": "candidatura"
-        }
-      ]
-    },
-    {
-      "id": "f110",
+      "id": "f117",
       "tipo": "medio",
       "medio": "Noticias de Navarra",
       "titulo": "Noticias de Navarra: enmienda del PP sobre el cierre nuclear",
@@ -3957,7 +4186,7 @@
       ]
     },
     {
-      "id": "f111",
+      "id": "f118",
       "tipo": "medio",
       "medio": "Noticias de Navarra",
       "titulo": "Noticias de Navarra: tramitación de la amnistía",
@@ -3979,7 +4208,7 @@
       ]
     },
     {
-      "id": "f112",
+      "id": "f119",
       "tipo": "medio",
       "medio": "Noticias de Navarra",
       "titulo": "Noticias de Navarra: aprobación definitiva de la ley trans",
@@ -4025,7 +4254,7 @@
       ]
     },
     {
-      "id": "f113",
+      "id": "f120",
       "tipo": "medio",
       "medio": "Nuevecuatrouno",
       "titulo": "Nuevecuatrouno (Europa Press): el reparto de menores en el Congreso",
@@ -4066,7 +4295,7 @@
       ]
     },
     {
-      "id": "f114",
+      "id": "f121",
       "tipo": "medio",
       "medio": "Nuevecuatrouno",
       "titulo": "Nuevecuatrouno: el horario de Religión en La Rioja",
@@ -4083,7 +4312,7 @@
       ]
     },
     {
-      "id": "f115",
+      "id": "f122",
       "tipo": "medio",
       "medio": "Okdiario",
       "titulo": "Okdiario: resolución del Parlamento Vasco sobre la república",
@@ -4110,7 +4339,7 @@
       ]
     },
     {
-      "id": "f116",
+      "id": "f123",
       "tipo": "medio",
       "medio": "Ondavasca",
       "titulo": "Ondavasca: ausencias en el acto de los 50 años de la monarquía",
@@ -4137,7 +4366,7 @@
       ]
     },
     {
-      "id": "f117",
+      "id": "f124",
       "tipo": "medio",
       "medio": "Ondavasca",
       "titulo": "Ondavasca: España reconoce el Estado de Palestina",
@@ -4153,7 +4382,7 @@
       ]
     },
     {
-      "id": "f118",
+      "id": "f125",
       "tipo": "medio",
       "medio": "Ondavasca",
       "titulo": "Ondavasca: ley de Vox para ilegalizar partidos",
@@ -4219,7 +4448,7 @@
       ]
     },
     {
-      "id": "f119",
+      "id": "f126",
       "tipo": "medio",
       "medio": "Ondavasca",
       "titulo": "Ondavasca: la reforma de la «ley mordaza» da el primer paso (octubre de 2024)",
@@ -4275,7 +4504,7 @@
       ]
     },
     {
-      "id": "f120",
+      "id": "f127",
       "tipo": "medio",
       "medio": "Ondavasca",
       "titulo": "Ondavasca: el PNV propone desahucios en 48 horas",
@@ -4292,7 +4521,7 @@
       ]
     },
     {
-      "id": "f121",
+      "id": "f128",
       "tipo": "medio",
       "medio": "Orain",
       "titulo": "Orain: Yolanda Díaz pide romper relaciones con Israel",
@@ -4309,7 +4538,7 @@
       ]
     },
     {
-      "id": "f122",
+      "id": "f129",
       "tipo": "medio",
       "medio": "Periódico de Ibiza",
       "titulo": "Periódico de Ibiza (Europa Press): veto a la reducción de jornada",
@@ -4380,7 +4609,7 @@
       ]
     },
     {
-      "id": "f123",
+      "id": "f130",
       "tipo": "medio",
       "medio": "Público",
       "titulo": "Público: moción por un referéndum sobre la monarquía (2014)",
@@ -4407,7 +4636,7 @@
       ]
     },
     {
-      "id": "f124",
+      "id": "f131",
       "tipo": "medio",
       "medio": "Que.es",
       "titulo": "Que.es: el PP promete derogar la ley de memoria democrática",
@@ -4424,7 +4653,7 @@
       ]
     },
     {
-      "id": "f125",
+      "id": "f132",
       "tipo": "medio",
       "medio": "Redacción Médica",
       "titulo": "Redacción Médica: votación de la moción de Vox",
@@ -4450,7 +4679,7 @@
       ]
     },
     {
-      "id": "f126",
+      "id": "f133",
       "tipo": "medio",
       "medio": "Redacción Médica",
       "titulo": "Redacción Médica: PP, Vox y Junts ante la Ley de Gestión Pública",
@@ -4477,7 +4706,7 @@
       ]
     },
     {
-      "id": "f127",
+      "id": "f134",
       "tipo": "medio",
       "medio": "Renewable Energy Magazine",
       "titulo": "Renewable Energy Magazine: quién votó contra la proposición nuclear del PP",
@@ -4514,7 +4743,7 @@
       ]
     },
     {
-      "id": "f128",
+      "id": "f135",
       "tipo": "medio",
       "medio": "RTVC",
       "titulo": "RTVC: plazos del voto por correo",
@@ -4529,24 +4758,7 @@
       ]
     },
     {
-      "id": "f129",
-      "tipo": "medio",
-      "medio": "RTVC",
-      "titulo": "RTVC: CC propone a Cristina Valido",
-      "fecha": "2026-10-05",
-      "url": "https://rtvc.es/coalicion-canaria-propone-cristina-valido-candidata-congreso-explora-coaliciones-las-palmas-5-octubre-2026/",
-      "paginas": [],
-      "archivo": "https://web.archive.org/web/https://rtvc.es/coalicion-canaria-propone-cristina-valido-candidata-congreso-explora-coaliciones-las-palmas-5-octubre-2026/",
-      "usos": [
-        {
-          "seccion": "ficha",
-          "partido": "CC",
-          "dato": "candidatura"
-        }
-      ]
-    },
-    {
-      "id": "f130",
+      "id": "f136",
       "tipo": "medio",
       "medio": "RTVC",
       "titulo": "RTVC: convalidación del embargo de armas a Israel",
@@ -4607,7 +4819,7 @@
       ]
     },
     {
-      "id": "f131",
+      "id": "f137",
       "tipo": "medio",
       "medio": "RTVC",
       "titulo": "RTVC: votos del veto a la reducción de jornada",
@@ -4624,7 +4836,7 @@
       ]
     },
     {
-      "id": "f132",
+      "id": "f138",
       "tipo": "medio",
       "medio": "RTVC",
       "titulo": "RTVC: reacciones al acuerdo de la OTAN",
@@ -4655,7 +4867,7 @@
       ]
     },
     {
-      "id": "f133",
+      "id": "f139",
       "tipo": "medio",
       "medio": "RTVC",
       "titulo": "RTVC: los vuelos cortos en la Ley de Movilidad Sostenible",
@@ -4676,7 +4888,24 @@
       ]
     },
     {
-      "id": "f134",
+      "id": "f140",
+      "tipo": "medio",
+      "medio": "Sabemos",
+      "titulo": "Sabemos: Ada Colau encabeza el Frente Amplio, una coalición de quince formaciones",
+      "fecha": "2026-10-17",
+      "url": "https://diariosabemos.com/analisis/cronica/ada-colau-frente-amplio-psoe-podemos-vivienda-elecciones_519414_102.html",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://diariosabemos.com/analisis/cronica/ada-colau-frente-amplio-psoe-podemos-vivienda-elecciones_519414_102.html",
+      "usos": [
+        {
+          "seccion": "ficha",
+          "partido": "FA",
+          "dato": "nota"
+        }
+      ]
+    },
+    {
+      "id": "f141",
       "tipo": "medio",
       "medio": "The Local",
       "titulo": "The Local: el rechazo de PP y Vox a limitar los vuelos cortos",
@@ -4703,7 +4932,7 @@
       ]
     },
     {
-      "id": "f135",
+      "id": "f142",
       "tipo": "medio",
       "medio": "The Objective",
       "titulo": "The Objective: el PP ante la regularización",
@@ -4720,7 +4949,7 @@
       ]
     },
     {
-      "id": "f136",
+      "id": "f143",
       "tipo": "medio",
       "medio": "The Objective",
       "titulo": "The Objective: moción de Junts de bajada general de impuestos",
@@ -4787,7 +5016,7 @@
       ]
     },
     {
-      "id": "f137",
+      "id": "f144",
       "tipo": "medio",
       "medio": "The Objective",
       "titulo": "The Objective: proposición del PP para alargar la vida de las nucleares",
@@ -4838,7 +5067,7 @@
       ]
     },
     {
-      "id": "f138",
+      "id": "f145",
       "tipo": "medio",
       "medio": "The Objective",
       "titulo": "The Objective: el plan de vivienda del PP",
@@ -4855,7 +5084,7 @@
       ]
     },
     {
-      "id": "f139",
+      "id": "f146",
       "tipo": "medio",
       "medio": "The Objective",
       "titulo": "The Objective: reforma fiscal con el impuesto a la banca",
@@ -4931,7 +5160,7 @@
       ]
     },
     {
-      "id": "f140",
+      "id": "f147",
       "tipo": "medio",
       "medio": "The Objective",
       "titulo": "The Objective: contenido del plan de Vox",
@@ -4952,7 +5181,7 @@
       ]
     },
     {
-      "id": "f141",
+      "id": "f148",
       "tipo": "medio",
       "medio": "The Objective",
       "titulo": "The Objective: investidura de Pedro Sánchez",
@@ -5024,7 +5253,7 @@
       ]
     },
     {
-      "id": "f142",
+      "id": "f149",
       "tipo": "medio",
       "medio": "The Objective",
       "titulo": "The Objective: moción de ERC por un referéndum pactado",
@@ -5075,7 +5304,7 @@
       ]
     },
     {
-      "id": "f143",
+      "id": "f150",
       "tipo": "medio",
       "medio": "The Objective",
       "titulo": "The Objective: el PP contra la subida de cotizaciones (2021)",
@@ -5092,7 +5321,7 @@
       ]
     },
     {
-      "id": "f144",
+      "id": "f151",
       "tipo": "medio",
       "medio": "Última Hora",
       "titulo": "Última Hora: enmiendas de PP y Vox a la reforma del Reglamento",
@@ -5114,7 +5343,7 @@
       ]
     },
     {
-      "id": "f145",
+      "id": "f152",
       "tipo": "medio",
       "medio": "Valencia Plaza",
       "titulo": "Valencia Plaza (Europa Press): el Congreso admite la ley de vivienda del PP",
@@ -5270,7 +5499,7 @@
       ]
     },
     {
-      "id": "f146",
+      "id": "f153",
       "tipo": "medio",
       "medio": "Valencia Plaza",
       "titulo": "Valencia Plaza: reforma del Reglamento sobre lenguas cooficiales",
@@ -5341,7 +5570,7 @@
       ]
     },
     {
-      "id": "f147",
+      "id": "f154",
       "tipo": "medio",
       "medio": "Vivir Ediciones",
       "titulo": "Vivir Ediciones (EFE): Podemos exige romper relaciones con Israel (2024)",
@@ -5358,7 +5587,7 @@
       ]
     },
     {
-      "id": "f148",
+      "id": "f155",
       "tipo": "medio",
       "medio": "Vozpópuli",
       "titulo": "Vozpópuli: la reforma constitucional del aborto supera su primer examen",
@@ -5404,7 +5633,7 @@
       ]
     },
     {
-      "id": "f149",
+      "id": "f156",
       "tipo": "medio",
       "medio": "Vozpópuli",
       "titulo": "Vozpópuli: el PP y la prioridad basada en el arraigo",
@@ -5425,7 +5654,7 @@
       ]
     },
     {
-      "id": "f150",
+      "id": "f157",
       "tipo": "medio",
       "medio": "Vozpópuli",
       "titulo": "Vozpópuli: los socios rechazan aumentar el gasto en defensa",
@@ -5457,7 +5686,7 @@
       ]
     },
     {
-      "id": "f151",
+      "id": "f158",
       "tipo": "medio",
       "medio": "Vozpópuli",
       "titulo": "Vozpópuli: diseño del impuesto a grandes fortunas (2022)",
@@ -5474,7 +5703,7 @@
       ]
     },
     {
-      "id": "f152",
+      "id": "f159",
       "tipo": "medio",
       "medio": "Vozpópuli",
       "titulo": "Vozpópuli: resolución de ERC y Junts sobre autodeterminación en el Parlament (septiembre de 2023)",
@@ -5516,7 +5745,7 @@
       ]
     },
     {
-      "id": "f153",
+      "id": "f160",
       "tipo": "medio",
       "medio": "Vozpópuli",
       "titulo": "Vozpópuli: votación en la Comisión de Educación (2020)",
@@ -5543,7 +5772,7 @@
       ]
     },
     {
-      "id": "f154",
+      "id": "f161",
       "tipo": "medio",
       "medio": "Vozpópuli",
       "titulo": "Vozpópuli: Podemos y el destope de las cotizaciones máximas (2022)",
@@ -5560,7 +5789,7 @@
       ]
     },
     {
-      "id": "f155",
+      "id": "f162",
       "tipo": "medio",
       "medio": "Vozpópuli",
       "titulo": "Vozpópuli: la ley antiokupación del PP en el Senado",
@@ -5577,7 +5806,7 @@
       ]
     },
     {
-      "id": "f156",
+      "id": "f163",
       "tipo": "medio",
       "medio": "Vozpópuli",
       "titulo": "Vozpópuli: el PSOE vota contra blindar el 25 % en castellano (2020)",
@@ -5599,7 +5828,7 @@
       ]
     },
     {
-      "id": "f157",
+      "id": "f164",
       "tipo": "referencia",
       "medio": "Wikipedia",
       "titulo": "Wikipedia (inglés): Ley Trans y la proposición de 2021",
@@ -5631,7 +5860,7 @@
       ]
     },
     {
-      "id": "f158",
+      "id": "f165",
       "tipo": "referencia",
       "medio": "Wikipedia",
       "titulo": "Wikipedia: resultados por circunscripción de las generales de 2023",
