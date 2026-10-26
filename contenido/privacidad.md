@@ -39,4 +39,4 @@ Puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, l
 
 ## Cambios
 
-Si esta política cambia, se indicará aquí la fecha de la última actualización: 17/10/2026.
+Si esta política cambia, se indicará aquí la fecha de la última actualización: 26/10/2026.
