@@ -1,0 +1,381 @@
+{
+  "version": "0.1",
+  "actualizado": "2026-10-26",
+  "aviso": "Propuestas reales de los partidos, resumidas con nuestras palabras y con su fuente. Cuando los partidos publiquen sus programas para el 29N, añadiremos propuestas sacadas de ellos.",
+  "items": [
+    {
+      "id": "q01",
+      "partido": "pp",
+      "texto": "Que los autónomos que facturen menos de 85.000 euros al año no tengan que tributar.",
+      "contexto": "Precampaña, octubre de 2026",
+      "fuente": {
+        "titulo": "Cronista: Feijóo detalla sus propuestas fiscales y de vivienda para el 29N",
+        "url": "https://cronista.com/espana/politica-es/la-precampana-del-29n-se-tensa-el-pp-y-vox-alertan-sobre-las-elecciones-mientras-frente-amplio-senala-a-la-extrema-derecha",
+        "fecha": "2026-10-24"
+      }
+    },
+    {
+      "id": "q02",
+      "partido": "pp",
+      "texto": "IVA cero en la luz y los alimentos básicos mientras sigan subiendo los precios.",
+      "contexto": "Precampaña, octubre de 2026",
+      "fuente": {
+        "titulo": "Cronista: Feijóo detalla sus propuestas fiscales y de vivienda para el 29N",
+        "url": "https://cronista.com/espana/politica-es/la-precampana-del-29n-se-tensa-el-pp-y-vox-alertan-sobre-las-elecciones-mientras-frente-amplio-senala-a-la-extrema-derecha",
+        "fecha": "2026-10-24"
+      }
+    },
+    {
+      "id": "q03",
+      "partido": "pp",
+      "texto": "Que las chicas de 16 y 17 años necesiten que sus padres lo sepan para poder abortar.",
+      "contexto": "Declaraciones, octubre de 2026",
+      "fuente": {
+        "titulo": "Diariofarma: Feijóo plantea revisar el aborto en menores y la eutanasia",
+        "url": "https://diariofarma.com/2026/10/23/29n-feijoo-plantea-revisar-el-aborto-en-menores-y-la-ley-de-eutanasia-si-llega-a-la-moncloa",
+        "fecha": "2026-10-23"
+      }
+    },
+    {
+      "id": "q04",
+      "partido": "psoe",
+      "texto": "Reformar la Constitución para garantizar que las pensiones suban cada año con el IPC.",
+      "contexto": "Mitin en Gijón, octubre de 2026",
+      "fuente": {
+        "titulo": "The Objective: Sánchez promete reformar la Constitución para blindar las pensiones por el IPC",
+        "url": "https://theobjective.com/espana/politica/2026-10-26/sanchez-promete-reformara-consitucion-pensiones/",
+        "fecha": "2026-10-26"
+      }
+    },
+    {
+      "id": "q05",
+      "partido": "psoe",
+      "texto": "Préstamos sin intereses de hasta 50.000 euros para pagar la entrada de la primera vivienda.",
+      "contexto": "Decretos de vivienda del Gobierno, octubre de 2026",
+      "fuente": {
+        "titulo": "Sol del Sur: Sánchez relanza los decretos de vivienda tras convocar elecciones",
+        "url": "https://www.soldelsurtenerife.com/politica/sanchez-relanza-dos-decretos-vivienda-21-medidas-convocar-elecciones-29-noviembre/20261006125750110628.html",
+        "fecha": "2026-10-06"
+      }
+    },
+    {
+      "id": "q06",
+      "partido": "psoe",
+      "texto": "Un impuesto del 100 % sobre la compra de vivienda por personas de fuera de la UE que no viven en España.",
+      "contexto": "Proposición de ley, mayo de 2025",
+      "fuente": {
+        "titulo": "The Objective: el PSOE propone un impuesto del 100 % a la compra de vivienda por no residentes de fuera de la UE",
+        "url": "https://theobjective.com/espana/politica/2025-05-23/psoe-impuesto-extranjeros-vivienda/",
+        "fecha": "2025-05-23"
+      }
+    },
+    {
+      "id": "q07",
+      "partido": "vox",
+      "texto": "Quitar los impuestos que pagan las propinas de los camareros.",
+      "contexto": "Mitin en Palma, octubre de 2026",
+      "fuente": {
+        "titulo": "Demócrata: Abascal pide una gran mayoría en un mitin en Palma",
+        "url": "https://www.democrata.es/politica/ampliacion-abascal-reclama-una-gran-mayoria-para-llegar-a-la-moncloa-y-asegura-que-no-es-imposible-ganar/",
+        "fecha": "2026-10-24"
+      }
+    },
+    {
+      "id": "q08",
+      "partido": "vox",
+      "texto": "Un fondo público de pensiones de capitalización, gestionado con criterios de rentabilidad privada.",
+      "contexto": "Propuestas para el 29N, octubre de 2026",
+      "fuente": {
+        "titulo": "El Debate: las diez propuestas clave de Vox ante el 29N",
+        "url": "https://www.eldebate.com/espana/20261024/diez-propuestas-clave-vox-espana-ante-29n_471660.html",
+        "fecha": "2026-10-24"
+      }
+    },
+    {
+      "id": "q09",
+      "partido": "vox",
+      "texto": "Prohibir alquilar vivienda a inmigrantes en situación irregular.",
+      "contexto": "Programa económico y de vivienda, octubre de 2025",
+      "fuente": {
+        "titulo": "Vox: programa económico y de vivienda (octubre de 2025), páginas 46 y 47",
+        "url": "https://www.voxespana.es/wp-content/uploads/2025/10/Programa-WEB-021025.pdf#page=46",
+        "fecha": "2025-10-02"
+      }
+    },
+    {
+      "id": "q10",
+      "partido": "frente-amplio",
+      "texto": "Dedicar cada año el 1 % del PIB a ampliar el parque público de vivienda.",
+      "contexto": "Acto de presentación, octubre de 2026",
+      "fuente": {
+        "titulo": "Sabemos: Ada Colau presenta el Frente Amplio",
+        "url": "https://diariosabemos.com/analisis/cronica/ada-colau-frente-amplio-psoe-podemos-vivienda-elecciones_519414_102.html",
+        "fecha": "2026-10-17"
+      }
+    },
+    {
+      "id": "q11",
+      "partido": "frente-amplio",
+      "texto": "Un fondo estatal para construir vivienda, pagado con lo que se ingrese en el futuro por alquileres asequibles.",
+      "contexto": "Acto de presentación, octubre de 2026",
+      "fuente": {
+        "titulo": "Sabemos: Ada Colau presenta el Frente Amplio",
+        "url": "https://diariosabemos.com/analisis/cronica/ada-colau-frente-amplio-psoe-podemos-vivienda-elecciones_519414_102.html",
+        "fecha": "2026-10-17"
+      }
+    },
+    {
+      "id": "q12",
+      "partido": "frente-amplio",
+      "texto": "Prohibir los pisos turísticos.",
+      "contexto": "Primer mitin, octubre de 2026 (lo anunció uno de sus dirigentes)",
+      "fuente": {
+        "titulo": "El Salto: el primer mitin de Frente Amplio",
+        "url": "https://www.elsaltodiario.com/elecciones/ada-colau-arranque-frente-amplio-alguien-no-se-quiere-sentar-una-mesa-no-se-le-puede-obligar",
+        "fecha": null
+      }
+    },
+    {
+      "id": "q13",
+      "partido": "podemos",
+      "texto": "Expropiar viviendas a fondos de inversión para alquiler social, pagándolo con el dinero que la banca recibió en el rescate.",
+      "contexto": "Declaraciones, septiembre de 2026",
+      "fuente": {
+        "titulo": "eldiario.es: Irene Montero pide un decreto para expropiar viviendas a fondos de inversión",
+        "url": "https://www.eldiario.es/politica/irene-montero-pide-decreto-permita-expropiar-viviendas-fondos-buitre-ponerlas-alquiler-social_1_13543934.html",
+        "fecha": "2026-09-28"
+      }
+    },
+    {
+      "id": "q14",
+      "partido": "podemos",
+      "texto": "Su lema de campaña es «Paz, casa y trabajo».",
+      "contexto": "Cartel electoral, octubre de 2026",
+      "fuente": {
+        "titulo": "ESdiario: cartel y lema de Podemos para el 29N",
+        "url": "https://www.esdiario.com/nacional/261020/200793/irene-montero-vende-paz-casa-trabajo-chalet-615-000-euros-sueldazo-eurodiputada.html",
+        "fecha": "2026-10-20"
+      }
+    },
+    {
+      "id": "q15",
+      "partido": "podemos",
+      "texto": "Una jornada laboral de 30 horas semanales.",
+      "contexto": "Propuesta de mayo de 2024",
+      "fuente": {
+        "titulo": "El Debate: Podemos propone una jornada laboral de 30 horas semanales",
+        "url": "https://www.eldebate.com/economia/20240521/podemos-envida-sumar-propone-jornada-laboral-30-horas-semanales_198682.html",
+        "fecha": "2024-05-21"
+      }
+    },
+    {
+      "id": "q16",
+      "partido": "erc",
+      "texto": "Un impuesto a quien tenga tres viviendas o más: del 4 % en la tercera al 12 % en la quinta.",
+      "contexto": "Proposición de ley, noviembre de 2025",
+      "fuente": {
+        "titulo": "DatosClaros: comparador de propuestas para el 29N (proposición de ley de ERC de noviembre de 2025)",
+        "url": "https://www.datosclaros.es/comparador-de-programas-29n/",
+        "fecha": "2026-10-25"
+      }
+    },
+    {
+      "id": "q17",
+      "partido": "erc",
+      "texto": "Un permiso de maternidad de seis meses.",
+      "contexto": "Propuestas para el 29N",
+      "fuente": {
+        "titulo": "Política Electoral: propuestas de ERC para el 29N",
+        "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/erc",
+        "fecha": "2026-10-18"
+      }
+    },
+    {
+      "id": "q18",
+      "partido": "erc",
+      "texto": "Una financiación singular para que su comunidad recaude sus impuestos y se le perdone la deuda del Fondo de Liquidez Autonómico.",
+      "contexto": "Propuestas para el 29N",
+      "fuente": {
+        "titulo": "Política Electoral: economía, qué propone cada partido el 29N",
+        "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/comparar/economia",
+        "fecha": null
+      }
+    },
+    {
+      "id": "q19",
+      "partido": "junts",
+      "texto": "Bajar al 5 % el IVA de la compra de vivienda nueva para residencia habitual.",
+      "contexto": "Propuestas de 2026",
+      "fuente": {
+        "titulo": "Política Electoral: propuestas de Junts para el 29N",
+        "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/junts",
+        "fecha": "2026-10-18"
+      }
+    },
+    {
+      "id": "q20",
+      "partido": "junts",
+      "texto": "Que la prórroga de los alquileres sea voluntaria: solo si la pactan propietario e inquilino.",
+      "contexto": "Propuestas de 2026",
+      "fuente": {
+        "titulo": "Política Electoral: propuestas de Junts para el 29N",
+        "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/junts",
+        "fecha": "2026-10-18"
+      }
+    },
+    {
+      "id": "q21",
+      "partido": "junts",
+      "texto": "Que la declaración de las mujeres y los menores víctimas de violencia machista sea prueba preconstituida, para no tener que repetirla.",
+      "contexto": "Programa de 2023",
+      "fuente": {
+        "titulo": "Política Electoral: propuestas de Junts para el 29N",
+        "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/junts",
+        "fecha": "2026-10-18"
+      }
+    },
+    {
+      "id": "q22",
+      "partido": "bildu",
+      "texto": "Una jornada laboral de 32 horas y un despido de 45 días por año trabajado.",
+      "contexto": "Propuestas para el 29N",
+      "fuente": {
+        "titulo": "Política Electoral: economía, qué propone cada partido el 29N",
+        "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/comparar/economia",
+        "fecha": null
+      }
+    },
+    {
+      "id": "q23",
+      "partido": "bildu",
+      "texto": "Que al terminar la enseñanza básica todo el alumnado domine el euskera y el castellano.",
+      "contexto": "Propuestas para el 29N",
+      "fuente": {
+        "titulo": "Política Electoral: propuestas de EH Bildu para el 29N",
+        "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/eh-bildu",
+        "fecha": null
+      }
+    },
+    {
+      "id": "q24",
+      "partido": "bildu",
+      "texto": "Pensiones mínimas de al menos 1.080 euros, equiparables al salario mínimo.",
+      "contexto": "Propuestas para el 29N",
+      "fuente": {
+        "titulo": "Política Electoral: propuestas de EH Bildu para el 29N",
+        "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/eh-bildu",
+        "fecha": null
+      }
+    },
+    {
+      "id": "q25",
+      "partido": "pnv",
+      "texto": "Que cualquier impuesto nuevo se pacte con las haciendas forales.",
+      "contexto": "Propuestas para el 29N",
+      "fuente": {
+        "titulo": "Política Electoral: propuestas del PNV para el 29N",
+        "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/pnv",
+        "fecha": null
+      }
+    },
+    {
+      "id": "q26",
+      "partido": "pnv",
+      "texto": "Extender la FP dual a todos los niveles y reconocer la formación dual universitaria.",
+      "contexto": "Propuestas para el 29N",
+      "fuente": {
+        "titulo": "Política Electoral: propuestas del PNV para el 29N",
+        "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/pnv",
+        "fecha": null
+      }
+    },
+    {
+      "id": "q27",
+      "partido": "pnv",
+      "texto": "Que los pleitos terminen en el tribunal superior de su comunidad, con un consejo de justicia propio.",
+      "contexto": "Propuestas para el 29N",
+      "fuente": {
+        "titulo": "Política Electoral: propuestas del PNV para el 29N",
+        "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/pnv",
+        "fecha": null
+      }
+    },
+    {
+      "id": "q28",
+      "partido": "bng",
+      "texto": "Declarar el eucalipto especie exótica invasora.",
+      "contexto": "Propuestas para el 29N",
+      "fuente": {
+        "titulo": "Política Electoral: propuestas del BNG para el 29N",
+        "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/bng",
+        "fecha": "2026-10-18"
+      }
+    },
+    {
+      "id": "q29",
+      "partido": "bng",
+      "texto": "Que un cuerpo autonómico de guardacostas concentre las inspecciones pesqueras que hoy hacen cuatro cuerpos distintos.",
+      "contexto": "Propuestas para el 29N",
+      "fuente": {
+        "titulo": "Política Electoral: propuestas del BNG para el 29N",
+        "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/bng",
+        "fecha": "2026-10-18"
+      }
+    },
+    {
+      "id": "q30",
+      "partido": "bng",
+      "texto": "Completar el traspaso de la autopista AP-9.",
+      "contexto": "Propuestas para el 29N",
+      "fuente": {
+        "titulo": "Política Electoral: Estado y comunidades, qué propone cada partido el 29N",
+        "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/comparar/estado-ccaa",
+        "fecha": null
+      }
+    },
+    {
+      "id": "q31",
+      "partido": "cc",
+      "texto": "Que solo puedan comprar vivienda en su comunidad quienes acrediten diez años de residencia en ella.",
+      "contexto": "Propuestas para el 29N",
+      "fuente": {
+        "titulo": "Política Electoral: propuestas de Coalición Canaria para el 29N",
+        "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/cc",
+        "fecha": null
+      }
+    },
+    {
+      "id": "q32",
+      "partido": "cc",
+      "texto": "Que el Estado compense el precio del agua desalada.",
+      "contexto": "Propuestas para el 29N",
+      "fuente": {
+        "titulo": "Política Electoral: propuestas de Coalición Canaria para el 29N",
+        "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/cc",
+        "fecha": null
+      }
+    },
+    {
+      "id": "q33",
+      "partido": "cc",
+      "texto": "Reconocer la ultraperiferia en la Constitución.",
+      "contexto": "Propuestas para el 29N",
+      "fuente": {
+        "titulo": "Política Electoral: propuestas de Coalición Canaria para el 29N",
+        "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/cc",
+        "fecha": null
+      }
+    },
+    {
+      "id": "q34",
+      "partido": "upn",
+      "texto": "Quitar de la Constitución la vía por la que Navarra podría incorporarse a la comunidad autónoma vasca.",
+      "contexto": "Enmienda en las Cortes, marzo de 2026",
+      "fuente": {
+        "titulo": "eldiario.es: Chivite y Pradales rechazan la propuesta de UPN sobre la Constitución",
+        "url": "https://www.eldiario.es/euskadi/chivite-pradales-rechazan-upn-sacar-constitucion-via-entrada-navarra-comunidad-vasca_1_13055976.html",
+        "fecha": "2026-03-10"
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "version": "0.1",
-  "generado": "2026-10-17",
+  "generado": "2026-10-26",
   "descripcion": "Todas las fuentes de la app, sin duplicados. «usos» dice dónde se cita cada una; «archivo» abre la copia de la Wayback Machine si existe.",
   "tipos": {
     "oficial": "Fuentes oficiales",
@@ -8,11 +8,11 @@
     "medio": "Medios de comunicación",
     "referencia": "Otras referencias"
   },
-  "total": 165,
+  "total": 166,
   "porTipo": {
     "oficial": 4,
     "programa": 13,
-    "medio": 146,
+    "medio": 147,
     "referencia": 2
   },
   "fuentes": [
@@ -3257,12 +3257,12 @@
     {
       "id": "f091",
       "tipo": "medio",
-      "medio": "GNDiario",
-      "titulo": "GNDiario: candidatos y partidos que ya han confirmado sus listas para el 29N",
-      "fecha": "2026-10-16",
-      "url": "https://gndiario.com/elecciones-generales-2026-candidatos-listas",
+      "medio": "Galiciae",
+      "titulo": "Galiciae: Néstor Rego, Carme da Silva, Olalla Rodil y Noa Presas, cabezas de lista del BNG",
+      "fecha": "2026-10-24",
+      "url": "https://www.galiciae.com/articulo/galicia/nestor-rego-carme-da-silva-olalla-rodil-noa-presas-cabezas-lista-bng-van-todo/20261024134600110152.html",
       "paginas": [],
-      "archivo": "https://web.archive.org/web/https://gndiario.com/elecciones-generales-2026-candidatos-listas",
+      "archivo": "https://web.archive.org/web/https://www.galiciae.com/articulo/galicia/nestor-rego-carme-da-silva-olalla-rodil-noa-presas-cabezas-lista-bng-van-todo/20261024134600110152.html",
       "usos": [
         {
           "seccion": "ficha",
@@ -3907,6 +3907,23 @@
       "id": "f108",
       "tipo": "medio",
       "medio": "moncloa.com",
+      "titulo": "moncloa.com: EH Bildu presenta su candidatura al 29N, ratificada por las bases con un 97 %",
+      "fecha": "2026-10-19",
+      "url": "https://www.moncloa.com/2026/10/19/eh-bildu-elecciones-generales-29n-2-3451602/",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://www.moncloa.com/2026/10/19/eh-bildu-elecciones-generales-29n-2-3451602/",
+      "usos": [
+        {
+          "seccion": "ficha",
+          "partido": "EH Bildu",
+          "dato": "candidatura"
+        }
+      ]
+    },
+    {
+      "id": "f109",
+      "tipo": "medio",
+      "medio": "moncloa.com",
       "titulo": "moncloa.com: el PNV ratifica a Vaquero, Sagastizabal y Urtaran como cabezas de lista al Congreso",
       "fecha": "2026-10-17",
       "url": "https://www.moncloa.com/2026/10/17/listas-pnv-congreso-29n-3450355",
@@ -3917,23 +3934,16 @@
           "seccion": "ficha",
           "partido": "PNV",
           "dato": "candidatura"
-        }
-      ]
-    },
-    {
-      "id": "f109",
-      "tipo": "medio",
-      "medio": "moncloa.com",
-      "titulo": "moncloa.com: EH Bildu propone a Oskar Matute como referencia en el Congreso para el 29N",
-      "fecha": "2026-10-16",
-      "url": "https://www.moncloa.com/2026/10/16/eh-bildu-candidatos-generales-29n-3449751/",
-      "paginas": [],
-      "archivo": "https://web.archive.org/web/https://www.moncloa.com/2026/10/16/eh-bildu-candidatos-generales-29n-3449751/",
-      "usos": [
+        },
         {
           "seccion": "ficha",
-          "partido": "EH Bildu",
-          "dato": "candidatura"
+          "partido": "PNV",
+          "dato": "nota"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "PNV",
+          "dato": "coalición «Geroa Bai»"
         }
       ]
     },
@@ -5928,6 +5938,23 @@
           "seccion": "ficha",
           "partido": "Vox",
           "dato": "resultados de 2023"
+        }
+      ]
+    },
+    {
+      "id": "f166",
+      "tipo": "medio",
+      "medio": "El Constitucional",
+      "titulo": "El Constitucional: Frente Amplio concurrirá en toda España salvo Teruel",
+      "fecha": "2026-10-26",
+      "url": "https://www.elconstitucional.es/es/nacional/politica/frente-amplio-descarta-mas-retiradas-en-provincias-29n-concurrira-en-toda-espana-salvo-teruel-pese-cuestion-voto-util-psoe_9414_102.html",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://www.elconstitucional.es/es/nacional/politica/frente-amplio-descarta-mas-retiradas-en-provincias-29n-concurrira-en-toda-espana-salvo-teruel-pese-cuestion-voto-util-psoe_9414_102.html",
+      "usos": [
+        {
+          "seccion": "ficha",
+          "partido": "FA",
+          "dato": "nota"
         }
       ]
     }

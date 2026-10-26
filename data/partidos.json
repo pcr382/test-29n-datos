@@ -1,6 +1,6 @@
 {
-  "version": "0.4",
-  "actualizado": "2026-10-17",
+  "version": "0.6",
+  "actualizado": "2026-10-26",
   "aviso": "Candidaturas anunciadas hasta el 11 de octubre; se confirmarán con la proclamación del BOE (3 de noviembre). Las fichas no usan etiquetas ideológicas: la posición de cada partido se ve en la brújula y en sus posturas. puntosClave se rellenará con los programas.",
   "partidos": [
     {
@@ -19,12 +19,12 @@
       ],
       "candidato": {
         "nombre": "Oskar Matute",
-        "estado": "propuesto",
-        "nota": "Encabeza la lista por Bizkaia y sería su portavoz en el Congreso. Por Gipuzkoa, Oihana Etxebarrieta, y por Álava, Mikel Otero.",
+        "estado": "confirmado",
+        "nota": "Encabeza la lista por Bizkaia y sería su portavoz en el Congreso; por Gipuzkoa, Oihana Etxebarrieta. Las bases ratificaron las listas con un 97 % de apoyo.",
         "fuente": {
-          "titulo": "moncloa.com: EH Bildu propone a Oskar Matute como referencia en el Congreso para el 29N",
-          "url": "https://www.moncloa.com/2026/10/16/eh-bildu-candidatos-generales-29n-3449751/",
-          "fecha": "2026-10-16"
+          "titulo": "moncloa.com: EH Bildu presenta su candidatura al 29N, ratificada por las bases con un 97 %",
+          "url": "https://www.moncloa.com/2026/10/19/eh-bildu-elecciones-generales-29n-2-3451602/",
+          "fecha": "2026-10-19"
         }
       },
       "web": "https://ehbildu.eus",
@@ -111,13 +111,13 @@
         "36"
       ],
       "candidato": {
-        "nombre": null,
-        "estado": "pendiente",
-        "nota": "Se apunta a Néstor Rego, su diputado desde 2019, pero el BNG aún no ha anunciado su candidatura.",
+        "nombre": "Néstor Rego",
+        "estado": "confirmado",
+        "nota": "Encabeza la lista por A Coruña. Las otras cabezas de lista son Carme da Silva, Olalla Rodil y Noa Presas.",
         "fuente": {
-          "titulo": "GNDiario: candidatos y partidos que ya han confirmado sus listas para el 29N",
-          "url": "https://gndiario.com/elecciones-generales-2026-candidatos-listas",
-          "fecha": "2026-10-16"
+          "titulo": "Galiciae: Néstor Rego, Carme da Silva, Olalla Rodil y Noa Presas, cabezas de lista del BNG",
+          "url": "https://www.galiciae.com/articulo/galicia/nestor-rego-carme-da-silva-olalla-rodil-noa-presas-cabezas-lista-bng-van-todo/20261024134600110152.html",
+          "fecha": "2026-10-24"
         }
       },
       "web": "https://www.bng.gal",
@@ -384,7 +384,59 @@
       "colorAproximado": true,
       "nivel": 1,
       "ambito": "estatal",
-      "circunscripciones": "todas",
+      "circunscripciones": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52"
+      ],
       "candidato": {
         "nombre": "Ada Colau",
         "estado": "confirmado",
@@ -419,7 +471,7 @@
           }
         ]
       },
-      "nota": "Coalición de quince organizaciones, entre ellas Movimiento Sumar, IU, Más Madrid y Comuns. Hereda las votaciones del grupo Sumar. En algunas comunidades se presenta con marcas propias junto a partidos territoriales, y en Canarias y la Comunitat Valenciana, en listas conjuntas con Podemos. Al Senado concurre junto al PSOE como «Senado de Progreso».",
+      "nota": "Coalición de quince organizaciones, entre ellas Movimiento Sumar, IU, Más Madrid y Comuns. Hereda las votaciones del grupo Sumar. En algunas comunidades se presenta con marcas propias junto a partidos territoriales, y en Canarias y la Comunitat Valenciana, en listas conjuntas con Podemos. Al Senado concurre junto al PSOE como «Senado de Progreso». No se presenta en Teruel.",
       "referenciaEstatal": true,
       "investidura2023": {
         "sanchez": "a favor",
@@ -460,6 +512,11 @@
           "titulo": "eldiario.es: el PSOE y Frente Amplio acuerdan listas conjuntas al Senado",
           "url": "https://www.eldiario.es/politica/psoe-frente-amplio-llegan-acuerdo-presentar-listas-conjuntas-senado_1_13583230.html",
           "fecha": "2026-10-17"
+        },
+        {
+          "titulo": "El Constitucional: Frente Amplio concurrirá en toda España salvo Teruel",
+          "url": "https://www.elconstitucional.es/es/nacional/politica/frente-amplio-descarta-mas-retiradas-en-provincias-29n-concurrira-en-toda-espana-salvo-teruel-pese-cuestion-voto-util-psoe_9414_102.html",
+          "fecha": "2026-10-26"
         }
       ]
     },
@@ -566,7 +623,8 @@
       "circunscripciones": [
         "01",
         "20",
-        "48"
+        "48",
+        "31"
       ],
       "candidato": {
         "nombre": "Maribel Vaquero",
@@ -639,7 +697,15 @@
           "escanos": 1
         }
       },
-      "puntosClave": []
+      "puntosClave": [],
+      "nota": "En Navarra concurre dentro de la coalición Geroa Bai, con Javier Ollo como cabeza de lista al Congreso.",
+      "notaFuentes": [
+        {
+          "titulo": "moncloa.com: el PNV ratifica a Vaquero, Sagastizabal y Urtaran como cabezas de lista al Congreso",
+          "url": "https://www.moncloa.com/2026/10/17/listas-pnv-congreso-29n-3450355",
+          "fecha": "2026-10-17"
+        }
+      ]
     },
     {
       "id": "podemos",
@@ -1159,7 +1225,6 @@
       ],
       "circunscripciones": [
         "22",
-        "44",
         "50"
       ],
       "camaras": [
@@ -1267,6 +1332,28 @@
         {
           "titulo": "El Español: el PSOE y Frente Amplio irán juntos al Senado como «Senado de Progreso»",
           "url": "https://www.elespanol.com/espana/politica/20261017/psoe-frente-amplio-acuerdan-ir-juntos-senado-coalicion-llamara-progreso/1003744423896_0.html",
+          "fecha": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "id": "geroa-bai",
+      "nombre": "Geroa Bai",
+      "partidos": [
+        "pnv"
+      ],
+      "circunscripciones": [
+        "31"
+      ],
+      "camaras": [
+        "congreso",
+        "senado"
+      ],
+      "nota": "El PNV concurre en Navarra dentro de Geroa Bai. Javier Ollo encabeza la lista al Congreso; la composición final depende de la negociación entre los socios de la coalición.",
+      "fuentes": [
+        {
+          "titulo": "moncloa.com: el PNV ratifica a Vaquero, Sagastizabal y Urtaran como cabezas de lista al Congreso",
+          "url": "https://www.moncloa.com/2026/10/17/listas-pnv-congreso-29n-3450355",
           "fecha": "2026-10-17"
         }
       ]
