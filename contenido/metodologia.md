@@ -17,6 +17,9 @@ Es una herramienta independiente e informativa para las elecciones generales del
 * Un partido solo se compara contigo si tiene postura en al menos la mitad de las afirmaciones que has respondido, y en un mínimo de 8. Si tiene postura en menos del 70 %, verás el aviso «datos incompletos» y en cuántas afirmaciones se basa su porcentaje.
 * El reparto relativo convierte las afinidades de los partidos que puedes votar en porcentajes que suman 100. Usa una función exponencial que destaca las diferencias, así que no es una intención de voto ni una predicción.
 * La brújula te sitúa en tres ejes —económico, social y territorial— con la media de tus respuestas en las afirmaciones de cada eje.
+* Si los primeros partidos están a menos de 3 puntos, la app avisa de que hay un empate: con una diferencia tan pequeña, el orden no dice mucho.
+* En cada partido puedes ver las 3 afirmaciones en las que más coincides (como mucho un punto de diferencia en la escala) y las 3 en las que más te separas (dos puntos o más).
+* La afinidad por temas repite el cálculo dentro de cada bloque. Un partido solo aparece en un bloque si se puede comparar en al menos 2 de sus afirmaciones.
 
 ## Qué partidos aparecen
 
@@ -40,6 +43,15 @@ Cada ficha de partido compara, tema a tema, lo que llevaba en su programa de 202
 ## Tu relación con la política
 
 Es un cuestionario opcional de 7 preguntas, aparte del test. Calcula cinco índices orientativos, con la fórmula a la vista: descontento con la política, con el Gobierno y con la oposición, y cercanía a no votar y al voto en blanco. No son predicciones y no se comparan con nadie, porque la app no guarda las respuestas de nadie.
+
+## Adivina de quién es
+
+Es un juego con propuestas reales de los partidos. En cada ronda salen 10 frases, como mucho una por partido, y para cada una eliges entre cuatro partidos. Después se revela de quién es y se enlaza su fuente.
+
+* Las propuestas están resumidas con nuestras palabras, sin valoraciones y sin nombrar al partido.
+* Cada partido tiene el mismo número de frases, salvo cuando no hemos encontrado propuestas suficientes que lo distingan de los demás.
+* Algunas fuentes son resúmenes de propuestas elaborados por otras webs. Cuando se publiquen los programas del 29N, las sustituiremos por el programa.
+* No guardamos tus respuestas: el juego funciona solo en tu dispositivo.
 
 ## Fuentes
 
