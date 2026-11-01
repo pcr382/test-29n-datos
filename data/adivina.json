@@ -1,6 +1,6 @@
 {
   "version": "0.1",
-  "actualizado": "2026-10-26",
+  "actualizado": "2026-10-31",
   "aviso": "Propuestas reales de los partidos, resumidas con nuestras palabras y con su fuente. Cuando los partidos publiquen sus programas para el 29N, añadiremos propuestas sacadas de ellos.",
   "items": [
     {
@@ -375,6 +375,39 @@
         "titulo": "eldiario.es: Chivite y Pradales rechazan la propuesta de UPN sobre la Constitución",
         "url": "https://www.eldiario.es/euskadi/chivite-pradales-rechazan-upn-sacar-constitucion-via-entrada-navarra-comunidad-vasca_1_13055976.html",
         "fecha": "2026-03-10"
+      }
+    },
+    {
+      "id": "q35",
+      "partido": "salf",
+      "texto": "Que no pague IRPF quien gane menos de 35.000 euros al año.",
+      "contexto": "Acto de lanzamiento de su candidatura, octubre de 2025",
+      "fuente": {
+        "titulo": "Demócrata: Alvise Pérez lanza en Vistalegre su candidatura a las generales",
+        "url": "https://www.democrata.es/politica/alvise-perez-acabo-fiesta-elecciones-generales-deportaciones-referendum-ue/",
+        "fecha": null
+      }
+    },
+    {
+      "id": "q36",
+      "partido": "salf",
+      "texto": "Construir una macrocárcel de máxima seguridad para delincuentes multirreincidentes.",
+      "contexto": "Acto de lanzamiento de su candidatura, octubre de 2025",
+      "fuente": {
+        "titulo": "Demócrata: Alvise Pérez lanza en Vistalegre su candidatura a las generales",
+        "url": "https://www.democrata.es/politica/alvise-perez-acabo-fiesta-elecciones-generales-deportaciones-referendum-ue/",
+        "fecha": null
+      }
+    },
+    {
+      "id": "q37",
+      "partido": "salf",
+      "texto": "Un referéndum para que España salga de la Unión Europea.",
+      "contexto": "Acto de lanzamiento de su candidatura, octubre de 2025",
+      "fuente": {
+        "titulo": "Demócrata: Alvise Pérez lanza en Vistalegre su candidatura a las generales",
+        "url": "https://www.democrata.es/politica/alvise-perez-acabo-fiesta-elecciones-generales-deportaciones-referendum-ue/",
+        "fecha": null
       }
     }
   ]

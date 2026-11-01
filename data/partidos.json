@@ -1,6 +1,6 @@
 {
-  "version": "0.6",
-  "actualizado": "2026-10-26",
+  "version": "0.8",
+  "actualizado": "2026-10-31",
   "aviso": "Candidaturas anunciadas hasta el 11 de octubre; se confirmarán con la proclamación del BOE (3 de noviembre). Las fichas no usan etiquetas ideológicas: la posición de cada partido se ve en la brújula y en sus posturas. puntosClave se rellenará con los programas.",
   "partidos": [
     {
@@ -433,9 +433,7 @@
         "47",
         "48",
         "49",
-        "50",
-        "51",
-        "52"
+        "50"
       ],
       "candidato": {
         "nombre": "Ada Colau",
@@ -471,7 +469,7 @@
           }
         ]
       },
-      "nota": "Coalición de quince organizaciones, entre ellas Movimiento Sumar, IU, Más Madrid y Comuns. Hereda las votaciones del grupo Sumar. En algunas comunidades se presenta con marcas propias junto a partidos territoriales, y en Canarias y la Comunitat Valenciana, en listas conjuntas con Podemos. Al Senado concurre junto al PSOE como «Senado de Progreso». No se presenta en Teruel.",
+      "nota": "Coalición de quince organizaciones, entre ellas Movimiento Sumar, IU, Más Madrid y Comuns. Hereda las votaciones del grupo Sumar. En algunas comunidades se presenta con marcas propias junto a partidos territoriales, y en Canarias y la Comunitat Valenciana, en listas conjuntas con Podemos. Al Senado concurre junto al PSOE como «Senado de Progreso». No se presenta en Teruel, Ceuta ni Melilla.",
       "referenciaEstatal": true,
       "investidura2023": {
         "sanchez": "a favor",
@@ -517,6 +515,11 @@
           "titulo": "El Constitucional: Frente Amplio concurrirá en toda España salvo Teruel",
           "url": "https://www.elconstitucional.es/es/nacional/politica/frente-amplio-descarta-mas-retiradas-en-provincias-29n-concurrira-en-toda-espana-salvo-teruel-pese-cuestion-voto-util-psoe_9414_102.html",
           "fecha": "2026-10-26"
+        },
+        {
+          "titulo": "Civio: las candidaturas presentadas para el 29N (BOE del 28 de octubre)",
+          "url": "https://civio.es/el-boe-nuestro-de-cada-dia/2026/10/28/candidaturas-presentadas-29n/",
+          "fecha": "2026-10-28"
         }
       ]
     },
@@ -750,7 +753,7 @@
           }
         ]
       },
-      "nota": "No se ha integrado en el Frente Amplio. En Cataluña no presenta lista propia y aporta candidatos a las de ERC. En Canarias («Unidad del Pueblo Canario») y en la Comunitat Valenciana («Compromís-Front Valencià») va en listas conjuntas con partidos del Frente Amplio.",
+      "nota": "No se ha integrado en el Frente Amplio. En Cataluña no presenta lista propia y aporta candidatos a las de ERC. En Canarias («Unidad del Pueblo Canario») y en la Comunitat Valenciana («Compromís-Front Valencià») va en listas conjuntas con partidos del Frente Amplio. En solitario se presenta en 41 circunscripciones.",
       "referenciaEstatal": true,
       "investidura2023": {
         "sanchez": "a favor",
@@ -782,6 +785,11 @@
           "titulo": "Infobae: así quedan los acuerdos de la izquierda para el 29N en cada comunidad",
           "url": "https://www.infobae.com/espana/2026/10/17/asi-quedan-los-acuerdos-de-la-izquierda-para-las-elecciones-generales-del-29-n-estas-son-las-listas-a-la-izquierda-del-psoe-en-cada-comunidad-autonoma/",
           "fecha": "2026-10-17"
+        },
+        {
+          "titulo": "Civio: las candidaturas presentadas para el 29N (BOE del 28 de octubre)",
+          "url": "https://civio.es/el-boe-nuestro-de-cada-dia/2026/10/28/candidaturas-presentadas-29n/",
+          "fecha": "2026-10-28"
         }
       ]
     },
@@ -853,12 +861,17 @@
       },
       "provincias2023": null,
       "puntosClave": [],
-      "nota": "En Navarra concurre en coalición con UPN («Unión del Pueblo Navarro en coalición con el Partido Popular»).",
+      "nota": "En Navarra concurre en coalición con UPN («Unión del Pueblo Navarro en coalición con el Partido Popular»). Al Senado, tras un acuerdo con Vox, se presenta en 57 de las 60 circunscripciones (todas salvo Girona, Tarragona y Gipuzkoa).",
       "notaFuentes": [
         {
           "titulo": "Infobae (EFE): UPN aprueba el acuerdo para concurrir con el PP a las elecciones generales",
           "url": "https://www.infobae.com/espana/agencias/2026/10/13/upn-aprueba-el-acuerdo-para-concurrir-con-el-pp-a-las-elecciones-generales/",
           "fecha": "2026-10-13"
+        },
+        {
+          "titulo": "Civio: las candidaturas presentadas para el 29N (BOE del 28 de octubre)",
+          "url": "https://civio.es/el-boe-nuestro-de-cada-dia/2026/10/28/candidaturas-presentadas-29n/",
+          "fecha": "2026-10-28"
         }
       ]
     },
@@ -930,7 +943,7 @@
       },
       "provincias2023": null,
       "puntosClave": [],
-      "nota": "Al Senado concurre en coalición («Senado de Progreso») con IU, Movimiento Sumar, Más Madrid, Compromís, Chunta Aragonesista, Batzarre y Ceuta Ya en 47 circunscripciones. El acuerdo no incluye las provincias catalanas ni las vascas, entre otras.",
+      "nota": "Al Senado concurre en coalición («Senado de Progreso») con IU, Movimiento Sumar, Más Madrid, Compromís, Chunta Aragonesista, Batzarre y Ceuta Ya, entre otros, en 49 de las 60 circunscripciones del Senado; en las 11 restantes va solo.",
       "notaFuentes": [
         {
           "titulo": "eldiario.es: el PSOE y Frente Amplio acuerdan listas conjuntas al Senado",
@@ -941,6 +954,11 @@
           "titulo": "El Español: el PSOE y Frente Amplio irán juntos al Senado como «Senado de Progreso»",
           "url": "https://www.elespanol.com/espana/politica/20261017/psoe-frente-amplio-acuerdan-ir-juntos-senado-coalicion-llamara-progreso/1003744423896_0.html",
           "fecha": "2026-10-17"
+        },
+        {
+          "titulo": "Civio: las candidaturas presentadas para el 29N (BOE del 28 de octubre)",
+          "url": "https://civio.es/el-boe-nuestro-de-cada-dia/2026/10/28/candidaturas-presentadas-29n/",
+          "fecha": "2026-10-28"
         }
       ]
     },
@@ -1096,7 +1114,117 @@
         "paginas": 178
       },
       "provincias2023": null,
-      "puntosClave": []
+      "puntosClave": [],
+      "nota": "Al Senado, tras un acuerdo con el PP, solo se presenta en 46 de las 60 circunscripciones.",
+      "notaFuentes": [
+        {
+          "titulo": "Civio: las candidaturas presentadas para el 29N (BOE del 28 de octubre)",
+          "url": "https://civio.es/el-boe-nuestro-de-cada-dia/2026/10/28/candidaturas-presentadas-29n/",
+          "fecha": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": "salf",
+      "nombre": "Se Acabó La Fiesta",
+      "siglas": "SALF",
+      "color": "#8B5A2B",
+      "colorAproximado": true,
+      "nivel": 1,
+      "ambito": "estatal",
+      "circunscripciones": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "49",
+        "50",
+        "51",
+        "52"
+      ],
+      "candidato": {
+        "nombre": "Alvise Pérez",
+        "estado": "confirmado",
+        "nota": "Encabeza la lista por Madrid.",
+        "fuente": {
+          "titulo": "Política Electoral: Se Acabó La Fiesta en las generales del 29N",
+          "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/se-acabo-la-fiesta",
+          "fecha": null
+        }
+      },
+      "web": null,
+      "programa": {
+        "anio": 2026,
+        "publicado": false,
+        "url": null
+      },
+      "resumen": "Partido fundado en 2024 por Alvise Pérez. En las elecciones europeas de 2024 obtuvo unos 800.000 votos y tres eurodiputados, dos de los cuales dejaron el partido en 2025. No tiene diputados en el Congreso, así que sus posturas salen de sus programas autonómicos de 2026, de declaraciones y de su actividad en el Parlamento Europeo.",
+      "resultados2023": null,
+      "referenciaEstatal": true,
+      "investidura2023": null,
+      "programa2023": null,
+      "provincias2023": null,
+      "puntosClave": [],
+      "nota": "Según las listas presentadas, se presenta en 46 de las 52 circunscripciones (en Euskadi, solo en Álava). Hasta la proclamación oficial del 3 de noviembre, la app lo muestra en todas salvo Bizkaia y Gipuzkoa.",
+      "notaFuentes": [
+        {
+          "titulo": "Civio: las candidaturas presentadas para el 29N (BOE del 28 de octubre)",
+          "url": "https://civio.es/el-boe-nuestro-de-cada-dia/2026/10/28/candidaturas-presentadas-29n/",
+          "fecha": "2026-10-28"
+        },
+        {
+          "titulo": "Demócrata: las listas provisionales vascas al 29N",
+          "url": "https://www.democrata.es/euskadi/euskadi-publica-las-listas-provisionales-15-candidaturas-por-alava-12-por-bizkaia-y-11-por-gipuzkoa-al-congreso/",
+          "fecha": "2026-10-28"
+        },
+        {
+          "titulo": "Wikipedia (inglés): Se Acabó La Fiesta",
+          "url": "https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta",
+          "fecha": null
+        }
+      ]
     }
   ],
   "criterioReferencia": "Se muestran fuera de su territorio los partidos que se presentan en toda España y los territoriales con grupo propio en el Congreso saliente (ERC, Junts, EH Bildu y PNV).",
@@ -1322,7 +1450,7 @@
       "camaras": [
         "senado"
       ],
-      "nota": "PSOE, IU, Movimiento Sumar, Más Madrid, Compromís, Chunta Aragonesista, Batzarre y Ceuta Ya en 47 circunscripciones del Senado. No incluye las provincias catalanas ni las vascas, entre otras.",
+      "nota": "PSOE, IU, Movimiento Sumar, Más Madrid, Compromís, Chunta Aragonesista, Batzarre y Ceuta Ya, entre otros, en 49 de las 60 circunscripciones del Senado.",
       "fuentes": [
         {
           "titulo": "eldiario.es: el PSOE y Frente Amplio acuerdan listas conjuntas al Senado",
@@ -1333,6 +1461,11 @@
           "titulo": "El Español: el PSOE y Frente Amplio irán juntos al Senado como «Senado de Progreso»",
           "url": "https://www.elespanol.com/espana/politica/20261017/psoe-frente-amplio-acuerdan-ir-juntos-senado-coalicion-llamara-progreso/1003744423896_0.html",
           "fecha": "2026-10-17"
+        },
+        {
+          "titulo": "Civio: las candidaturas presentadas para el 29N (BOE del 28 de octubre)",
+          "url": "https://civio.es/el-boe-nuestro-de-cada-dia/2026/10/28/candidaturas-presentadas-29n/",
+          "fecha": "2026-10-28"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "version": "0.6",
-  "actualizado": "2026-10-11",
+  "version": "0.7",
+  "actualizado": "2026-10-31",
   "aviso": "Codificadas las 40 afirmaciones con votaciones y declaraciones hasta octubre de 2026. Se actualizarán con los programas del 29N.",
   "posiciones": {
     "bng": {
@@ -5946,6 +5946,294 @@
           }
         ],
         "confianza": "media"
+      }
+    },
+    "salf": {
+      "a01": {
+        "valor": 2,
+        "confianza": "media",
+        "justificacion": "Propone que no pague IRPF quien gane menos de 35.000 euros al año, con rebajas por hijo, y reducir el aparato del Estado.",
+        "fuentes": [
+          {
+            "tipo": "declaracion",
+            "titulo": "Demócrata: Alvise Pérez lanza en Vistalegre su candidatura a las generales",
+            "url": "https://www.democrata.es/politica/alvise-perez-acabo-fiesta-elecciones-generales-deportaciones-referendum-ue/",
+            "fecha": null
+          }
+        ]
+      },
+      "a06": {
+        "valor": -1,
+        "confianza": "baja",
+        "justificacion": "Su líder calificó de «electoralista» la subida del salario mínimo de 2023 y destacó su coste para las empresas.",
+        "fuentes": [
+          {
+            "tipo": "declaracion",
+            "titulo": "Canal de Telegram de Alvise Pérez: sobre la subida del salario mínimo",
+            "url": "https://t.me/Alviseperez/6830",
+            "fecha": "2023-02-01"
+          }
+        ]
+      },
+      "a10": {
+        "valor": 2,
+        "confianza": "media",
+        "justificacion": "Propone declarar edificable todo el suelo salvo razones objetivas en contra, quitar los impuestos de la compra de la primera vivienda y agilizar las licencias.",
+        "fuentes": [
+          {
+            "tipo": "declaracion",
+            "titulo": "Canal de Telegram de Alvise Pérez: medidas de vivienda de SALF para el 29N",
+            "url": "https://t.me/s/AlvisePerez?before=14911",
+            "fecha": "2026-10-06"
+          }
+        ]
+      },
+      "a11": {
+        "valor": 2,
+        "confianza": "media",
+        "justificacion": "Propone tipificar la okupación como allanamiento agravado y desalojar en 24 horas.",
+        "fuentes": [
+          {
+            "tipo": "declaracion",
+            "titulo": "Canal de Telegram de Alvise Pérez: medidas de vivienda de SALF para el 29N",
+            "url": "https://t.me/s/AlvisePerez?before=14911",
+            "fecha": "2026-10-06"
+          }
+        ]
+      },
+      "a12": {
+        "valor": -1,
+        "confianza": "media",
+        "justificacion": "Su programa de Castilla y León propone concertar con clínicas privadas lo que la sanidad pública no pueda atender a tiempo.",
+        "fuentes": [
+          {
+            "tipo": "programa",
+            "titulo": "Se Acabó La Fiesta: programa electoral para Castilla y León (marzo de 2026)",
+            "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+            "fecha": null
+          }
+        ]
+      },
+      "a13": {
+        "valor": 1,
+        "confianza": "media",
+        "justificacion": "Su programa de Castilla y León promete garantizar la elección de centro y ampliar los conciertos educativos.",
+        "fuentes": [
+          {
+            "tipo": "programa",
+            "titulo": "Se Acabó La Fiesta: programa electoral para Castilla y León (marzo de 2026)",
+            "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+            "fecha": null
+          }
+        ]
+      },
+      "a15": {
+        "valor": 1,
+        "confianza": "baja",
+        "justificacion": "Su líder defendió en 2021 a las familias que reclamaban al menos un 25 % de clases en castellano en Cataluña.",
+        "fuentes": [
+          {
+            "tipo": "declaracion",
+            "titulo": "Canal de Telegram de Alvise Pérez: el 25 % de clases en castellano en Canet",
+            "url": "https://t.me/Alviseperez/4712",
+            "fecha": "2021-12-11"
+          }
+        ]
+      },
+      "a16": {
+        "valor": -2,
+        "confianza": "media",
+        "justificacion": "Propone un plan de deportación masiva de los inmigrantes en situación irregular, lo contrario de regularizarlos.",
+        "fuentes": [
+          {
+            "tipo": "declaracion",
+            "titulo": "Demócrata: Alvise Pérez lanza en Vistalegre su candidatura a las generales",
+            "url": "https://www.democrata.es/politica/alvise-perez-acabo-fiesta-elecciones-generales-deportaciones-referendum-ue/",
+            "fecha": null
+          }
+        ]
+      },
+      "a17": {
+        "valor": 2,
+        "confianza": "media",
+        "justificacion": "Propone un plan de deportación masiva de los inmigrantes en situación irregular.",
+        "fuentes": [
+          {
+            "tipo": "declaracion",
+            "titulo": "Demócrata: Alvise Pérez lanza en Vistalegre su candidatura a las generales",
+            "url": "https://www.democrata.es/politica/alvise-perez-acabo-fiesta-elecciones-generales-deportaciones-referendum-ue/",
+            "fecha": null
+          }
+        ]
+      },
+      "a18": {
+        "valor": 2,
+        "confianza": "media",
+        "justificacion": "Su programa de Castilla y León da prioridad a españoles y residentes legales en las ayudas sociales y la vivienda protegida.",
+        "fuentes": [
+          {
+            "tipo": "programa",
+            "titulo": "Se Acabó La Fiesta: programa electoral para Castilla y León (marzo de 2026)",
+            "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+            "fecha": null
+          }
+        ]
+      },
+      "a19": {
+        "valor": -2,
+        "confianza": "media",
+        "justificacion": "Su líder llamó en 2024 a protestar contra el reparto de menores migrantes entre comunidades y defiende devolverlos a sus países.",
+        "fuentes": [
+          {
+            "tipo": "declaracion",
+            "titulo": "Canal de Telegram de Alvise Pérez: contra el reparto de menores migrantes",
+            "url": "https://t.me/Alviseperez/10520",
+            "fecha": "2024-07-11"
+          }
+        ]
+      },
+      "a20": {
+        "valor": 2,
+        "confianza": "baja",
+        "justificacion": "Su líder considera inconstitucional la Ley contra la Violencia de Género porque, a su juicio, quita la presunción de inocencia a los hombres.",
+        "fuentes": [
+          {
+            "tipo": "declaracion",
+            "titulo": "Canal de Telegram de Alvise Pérez: su opinión sobre aborto, eutanasia y violencia de género",
+            "url": "https://t.me/Alviseperez/6901",
+            "fecha": "2023-02-16"
+          }
+        ]
+      },
+      "a21": {
+        "valor": -2,
+        "confianza": "baja",
+        "justificacion": "Su líder se opone al aborto y lo ha calificado de asesinato.",
+        "fuentes": [
+          {
+            "tipo": "declaracion",
+            "titulo": "Canal de Telegram de Alvise Pérez: su opinión sobre aborto, eutanasia y violencia de género",
+            "url": "https://t.me/Alviseperez/6901",
+            "fecha": "2023-02-16"
+          }
+        ]
+      },
+      "a22": {
+        "valor": -2,
+        "confianza": "baja",
+        "justificacion": "Su líder se opuso a la Ley Trans y al cambio de sexo en el registro desde los 14 años.",
+        "fuentes": [
+          {
+            "tipo": "declaracion",
+            "titulo": "Canal de Telegram de Alvise Pérez: sobre la Ley Trans",
+            "url": "https://t.me/Alviseperez/6902",
+            "fecha": "2023-02-16"
+          }
+        ]
+      },
+      "a23": {
+        "valor": -1,
+        "confianza": "media",
+        "justificacion": "Su líder votó en 2024 en el Parlamento Europeo contra subvencionar las corridas, aunque defiende proteger al toro de lidia.",
+        "fuentes": [
+          {
+            "tipo": "declaracion",
+            "titulo": "Canal de Telegram de Alvise Pérez: su voto contra subvencionar las corridas",
+            "url": "https://t.me/Alviseperez/10951",
+            "fecha": "2024-09-05"
+          }
+        ]
+      },
+      "a28": {
+        "valor": -2,
+        "confianza": "media",
+        "justificacion": "Defiende un país unido, critica el Estado autonómico y descarta pactar con ERC, Junts o EH Bildu.",
+        "fuentes": [
+          {
+            "tipo": "declaracion",
+            "titulo": "The Objective: Alvise se abre a pactar con Mañueco en Castilla y León",
+            "url": "https://theobjective.com/espana/politica/2026-02-15/alvise-manueco-salf-elecciones-castilla-y-leon/",
+            "fecha": "2026-02-15"
+          }
+        ]
+      },
+      "a29": {
+        "valor": -2,
+        "confianza": "media",
+        "justificacion": "Su líder considera la amnistía contraria a la Constitución y criticó al Rey por sancionarla.",
+        "fuentes": [
+          {
+            "tipo": "declaracion",
+            "titulo": "Artículo 14: Alvise critica al Rey por sancionar la amnistía",
+            "url": "https://www.articulo14.es/politica/alvise-se-enfrenta-a-felipe-vi-para-que-sirve-el-rey-20240613.html",
+            "fecha": "2024-06-13"
+          }
+        ]
+      },
+      "a30": {
+        "valor": 2,
+        "confianza": "media",
+        "justificacion": "Su líder considera ineficientes 17 sistemas sanitarios y educativos y propone una central de compras y un currículo escolar único.",
+        "fuentes": [
+          {
+            "tipo": "declaracion",
+            "titulo": "The Objective: Alvise se abre a pactar con Mañueco en Castilla y León",
+            "url": "https://theobjective.com/espana/politica/2026-02-15/alvise-manueco-salf-elecciones-castilla-y-leon/",
+            "fecha": "2026-02-15"
+          }
+        ]
+      },
+      "a34": {
+        "valor": 2,
+        "confianza": "media",
+        "justificacion": "Su programa de Castilla y León pide parar el calendario de cierre de las centrales nucleares y atraer reactores modulares.",
+        "fuentes": [
+          {
+            "tipo": "programa",
+            "titulo": "Se Acabó La Fiesta: programa electoral para Castilla y León (marzo de 2026)",
+            "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+            "fecha": null
+          }
+        ]
+      },
+      "a37": {
+        "valor": 0,
+        "confianza": "media",
+        "justificacion": "Su líder votó contra el plan europeo de rearme, pero dice que quiere invertir en el Ejército español.",
+        "fuentes": [
+          {
+            "tipo": "declaracion",
+            "titulo": "Canal de Telegram de Alvise Pérez: sobre el plan europeo de rearme",
+            "url": "https://t.me/s/AlvisePerez?before=11795",
+            "fecha": null
+          }
+        ]
+      },
+      "a39": {
+        "valor": -2,
+        "confianza": "media",
+        "justificacion": "Propone un referéndum para que España salga de la Unión Europea.",
+        "fuentes": [
+          {
+            "tipo": "declaracion",
+            "titulo": "Demócrata: Alvise Pérez lanza en Vistalegre su candidatura a las generales",
+            "url": "https://www.democrata.es/politica/alvise-perez-acabo-fiesta-elecciones-generales-deportaciones-referendum-ue/",
+            "fecha": null
+          }
+        ]
+      },
+      "a40": {
+        "valor": -2,
+        "confianza": "media",
+        "justificacion": "Su programa de Castilla y León se opone al acuerdo comercial entre la UE y Mercosur.",
+        "fuentes": [
+          {
+            "tipo": "programa",
+            "titulo": "Se Acabó La Fiesta: programa electoral para Castilla y León (marzo de 2026)",
+            "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+            "fecha": null
+          }
+        ]
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "version": "0.1",
-  "generado": "2026-10-26",
+  "generado": "2026-10-31",
   "descripcion": "Todas las fuentes de la app, sin duplicados. «usos» dice dónde se cita cada una; «archivo» abre la copia de la Wayback Machine si existe.",
   "tipos": {
     "oficial": "Fuentes oficiales",
@@ -8,12 +8,12 @@
     "medio": "Medios de comunicación",
     "referencia": "Otras referencias"
   },
-  "total": 166,
+  "total": 182,
   "porTipo": {
     "oficial": 4,
-    "programa": 13,
-    "medio": 147,
-    "referencia": 2
+    "programa": 14,
+    "medio": 161,
+    "referencia": 3
   },
   "fuentes": [
     {
@@ -5955,6 +5955,353 @@
           "seccion": "ficha",
           "partido": "FA",
           "dato": "nota"
+        }
+      ]
+    },
+    {
+      "id": "f167",
+      "tipo": "medio",
+      "medio": "Civio",
+      "titulo": "Civio: las candidaturas presentadas para el 29N (BOE del 28 de octubre)",
+      "fecha": "2026-10-28",
+      "url": "https://civio.es/el-boe-nuestro-de-cada-dia/2026/10/28/candidaturas-presentadas-29n/",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://civio.es/el-boe-nuestro-de-cada-dia/2026/10/28/candidaturas-presentadas-29n/",
+      "usos": [
+        {
+          "seccion": "ficha",
+          "partido": "FA",
+          "dato": "nota"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "PSOE",
+          "dato": "nota"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "PP",
+          "dato": "nota"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "Vox",
+          "dato": "nota"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "Podemos",
+          "dato": "nota"
+        },
+        {
+          "seccion": "ficha",
+          "partido": "SALF",
+          "dato": "nota"
+        }
+      ]
+    },
+    {
+      "id": "f168",
+      "tipo": "medio",
+      "medio": "Demócrata",
+      "titulo": "Demócrata: Alvise Pérez lanza en Vistalegre su candidatura a las generales",
+      "fecha": null,
+      "url": "https://www.democrata.es/politica/alvise-perez-acabo-fiesta-elecciones-generales-deportaciones-referendum-ue/",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://www.democrata.es/politica/alvise-perez-acabo-fiesta-elecciones-generales-deportaciones-referendum-ue/",
+      "usos": [
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 1
+        },
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 16
+        },
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 17
+        },
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 39
+        }
+      ]
+    },
+    {
+      "id": "f169",
+      "tipo": "medio",
+      "medio": "Telegram (Alvise Pérez)",
+      "titulo": "Canal de Telegram de Alvise Pérez: sobre la subida del salario mínimo",
+      "fecha": "2023-02-01",
+      "url": "https://t.me/Alviseperez/6830",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://t.me/Alviseperez/6830",
+      "usos": [
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 6
+        }
+      ]
+    },
+    {
+      "id": "f170",
+      "tipo": "medio",
+      "medio": "Telegram (Alvise Pérez)",
+      "titulo": "Canal de Telegram de Alvise Pérez: medidas de vivienda de SALF para el 29N",
+      "fecha": "2026-10-06",
+      "url": "https://t.me/s/AlvisePerez?before=14911",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://t.me/s/AlvisePerez?before=14911",
+      "usos": [
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 10
+        },
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 11
+        }
+      ]
+    },
+    {
+      "id": "f171",
+      "tipo": "programa",
+      "medio": "Se Acabó La Fiesta",
+      "titulo": "Se Acabó La Fiesta: programa electoral para Castilla y León (marzo de 2026)",
+      "fecha": null,
+      "url": "https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://theobjective.com/wp-content/uploads/2026/03/Programa-electoral-CyL-de-Alvise-Pe%CC%81rez.pdf",
+      "usos": [
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 12
+        },
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 13
+        },
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 18
+        },
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 34
+        },
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 40
+        }
+      ]
+    },
+    {
+      "id": "f172",
+      "tipo": "medio",
+      "medio": "Telegram (Alvise Pérez)",
+      "titulo": "Canal de Telegram de Alvise Pérez: el 25 % de clases en castellano en Canet",
+      "fecha": "2021-12-11",
+      "url": "https://t.me/Alviseperez/4712",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://t.me/Alviseperez/4712",
+      "usos": [
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 15
+        }
+      ]
+    },
+    {
+      "id": "f173",
+      "tipo": "medio",
+      "medio": "Telegram (Alvise Pérez)",
+      "titulo": "Canal de Telegram de Alvise Pérez: contra el reparto de menores migrantes",
+      "fecha": "2024-07-11",
+      "url": "https://t.me/Alviseperez/10520",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://t.me/Alviseperez/10520",
+      "usos": [
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 19
+        }
+      ]
+    },
+    {
+      "id": "f174",
+      "tipo": "medio",
+      "medio": "Telegram (Alvise Pérez)",
+      "titulo": "Canal de Telegram de Alvise Pérez: su opinión sobre aborto, eutanasia y violencia de género",
+      "fecha": "2023-02-16",
+      "url": "https://t.me/Alviseperez/6901",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://t.me/Alviseperez/6901",
+      "usos": [
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 20
+        },
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 21
+        }
+      ]
+    },
+    {
+      "id": "f175",
+      "tipo": "medio",
+      "medio": "Telegram (Alvise Pérez)",
+      "titulo": "Canal de Telegram de Alvise Pérez: sobre la Ley Trans",
+      "fecha": "2023-02-16",
+      "url": "https://t.me/Alviseperez/6902",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://t.me/Alviseperez/6902",
+      "usos": [
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 22
+        }
+      ]
+    },
+    {
+      "id": "f176",
+      "tipo": "medio",
+      "medio": "Telegram (Alvise Pérez)",
+      "titulo": "Canal de Telegram de Alvise Pérez: su voto contra subvencionar las corridas",
+      "fecha": "2024-09-05",
+      "url": "https://t.me/Alviseperez/10951",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://t.me/Alviseperez/10951",
+      "usos": [
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 23
+        }
+      ]
+    },
+    {
+      "id": "f177",
+      "tipo": "medio",
+      "medio": "The Objective",
+      "titulo": "The Objective: Alvise se abre a pactar con Mañueco en Castilla y León",
+      "fecha": "2026-02-15",
+      "url": "https://theobjective.com/espana/politica/2026-02-15/alvise-manueco-salf-elecciones-castilla-y-leon/",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://theobjective.com/espana/politica/2026-02-15/alvise-manueco-salf-elecciones-castilla-y-leon/",
+      "usos": [
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 28
+        },
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 30
+        }
+      ]
+    },
+    {
+      "id": "f178",
+      "tipo": "medio",
+      "medio": "Artículo 14",
+      "titulo": "Artículo 14: Alvise critica al Rey por sancionar la amnistía",
+      "fecha": "2024-06-13",
+      "url": "https://www.articulo14.es/politica/alvise-se-enfrenta-a-felipe-vi-para-que-sirve-el-rey-20240613.html",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://www.articulo14.es/politica/alvise-se-enfrenta-a-felipe-vi-para-que-sirve-el-rey-20240613.html",
+      "usos": [
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 29
+        }
+      ]
+    },
+    {
+      "id": "f179",
+      "tipo": "medio",
+      "medio": "Telegram (Alvise Pérez)",
+      "titulo": "Canal de Telegram de Alvise Pérez: sobre el plan europeo de rearme",
+      "fecha": null,
+      "url": "https://t.me/s/AlvisePerez?before=11795",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://t.me/s/AlvisePerez?before=11795",
+      "usos": [
+        {
+          "seccion": "postura",
+          "partido": "SALF",
+          "afirmacion": 37
+        }
+      ]
+    },
+    {
+      "id": "f180",
+      "tipo": "medio",
+      "medio": "Demócrata",
+      "titulo": "Demócrata: las listas provisionales vascas al 29N",
+      "fecha": "2026-10-28",
+      "url": "https://www.democrata.es/euskadi/euskadi-publica-las-listas-provisionales-15-candidaturas-por-alava-12-por-bizkaia-y-11-por-gipuzkoa-al-congreso/",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://www.democrata.es/euskadi/euskadi-publica-las-listas-provisionales-15-candidaturas-por-alava-12-por-bizkaia-y-11-por-gipuzkoa-al-congreso/",
+      "usos": [
+        {
+          "seccion": "ficha",
+          "partido": "SALF",
+          "dato": "nota"
+        }
+      ]
+    },
+    {
+      "id": "f181",
+      "tipo": "referencia",
+      "medio": "Wikipedia (inglés)",
+      "titulo": "Wikipedia (inglés): Se Acabó La Fiesta",
+      "fecha": null,
+      "url": "https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta",
+      "usos": [
+        {
+          "seccion": "ficha",
+          "partido": "SALF",
+          "dato": "nota"
+        }
+      ]
+    },
+    {
+      "id": "f182",
+      "tipo": "medio",
+      "medio": "Política Electoral",
+      "titulo": "Política Electoral: Se Acabó La Fiesta en las generales del 29N",
+      "fecha": null,
+      "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/se-acabo-la-fiesta",
+      "paginas": [],
+      "archivo": "https://web.archive.org/web/https://www.politicaelectoral.com/es/espana/generales-2026/nacional/se-acabo-la-fiesta",
+      "usos": [
+        {
+          "seccion": "ficha",
+          "partido": "SALF",
+          "dato": "candidatura"
         }
       ]
     }
